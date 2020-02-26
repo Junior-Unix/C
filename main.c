@@ -14,8 +14,9 @@ int main()
 
     float num1, num2, div;
     
-    printf ("\n\t Teste de divisao.\n");
- 
+    printf ("\n\t Teste de divisao.\nTecle Enter\n");
+    getchar();
+	system("clear");
     printf("\nPor gentileza, digite o numero a ser dividido\n:");
     scanf("%f", &num1);
     printf("\nAgora o divisor\n:");
@@ -24,8 +25,15 @@ int main()
     div = num1 / num2;
     
     printf("\nEis o resultado da divisao de %f por %f.\n:", num1, num2);
+
     printf("%f\n", div);
-    
+/*
+comando limpa a tela sem não mostrando o resultado.
+*/
+//    getchar();
+//    system("clear");
+
+
     return 0;
     
 }
