@@ -19,6 +19,14 @@ long int main()
 	media = 0;
 
 
+	int valorMaximo, valorMinimo;
+	valorMinimo = valorMaximo = 0;
+
+	printf("Digite qual o limite do valor máximo:\n");
+	scanf("%f", &valorMaximo);
+
+	printf("Digite qual o limite mínimo\n");
+	scanf("%f", &valorMinimo);
 //	system (clear);
 
 //	printf("==============Media==============\n\n");
@@ -32,12 +40,12 @@ long int main()
 		printf("\nAtenção! Apenas numeros até 100.\n");
 
 	}
-
+/*
 	for(nota1 >= 1; nota1 <=100; nota1++){
 
 		printf("%f", nota1);
-	}
-	system("break");
+	}*/
+//	system("break");
 
 	printf("->Segundo valor:\n");
 	scanf("%f:", &nota2);
@@ -58,13 +66,13 @@ long int main()
 
 	media = (resultadoSoma /  divisor) /*4*/;
 
-	if(media > 40)
+	if(media < 100)
         {
 
-                printf("Valor da media acima de 40\n");
+                printf("Valor da media abaixo de 100\n");
         }else{
 
-                printf("Valor da media baixo de 40\n");
+                printf("Valor da media abaixo de 40\n");
 
         }
 
@@ -72,6 +80,19 @@ long int main()
 
 	printf("A media entre os valores eh: %f\n\a", media);
 
+
+// operadores relacionados &&
+
+	if(media < valorMinimo)
+	{
+		printf("Abaixo do valor mínimo!\n");
+	}else{
+		if( media > valorMaximo){
+		printf("Passou do valor máximo!");
+		}else{
+			if(( media > valorMinimo) && ( media <  valorMaximo)){
+			printf("Está dentro dos limites mínimos e máximos estipulados!");
+}}}
 
 
 	printf("--->Sizeof = %ld\n\n", sizeof(float)); //sizeof éh o tamanho da variant em bytes.
