@@ -20,7 +20,8 @@ long int main()
 
 
 	int valorMaximo, valorMinimo;
-	valorMinimo = valorMaximo = 0;
+	valorMinimo = 0;
+	valorMaximo = 0;
 
 	printf("Digite qual o limite do valor máximo:\n");
 	scanf("%f", &valorMaximo);
@@ -65,7 +66,7 @@ long int main()
 
 
 	media = (resultadoSoma /  divisor) /*4*/;
-
+/*
 	if(media < 100)
         {
 
@@ -75,7 +76,7 @@ long int main()
                 printf("Valor da media abaixo de 40\n");
 
         }
-
+*/
 
 
 	printf("A media entre os valores eh: %f\n\a", media);
@@ -90,7 +91,7 @@ long int main()
 		if( media > valorMaximo){
 		printf("Passou do valor máximo!");
 		}else{
-			if(( media > valorMinimo) && ( media <  valorMaximo)){
+			if(( media > valorMinimo) || ( media <  valorMaximo)){
 			printf("Está dentro dos limites mínimos e máximos estipulados!");
 }}}
 
