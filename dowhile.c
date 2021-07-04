@@ -5,21 +5,27 @@
 signed long int main()
 {
 
-
+//contador de 0 a 100.
 int cont = 0;
-int valor = 1000;
-while( cont <= valor){
+int valor = 100;
+
+//system("neofetch");
+
+while( cont < valor){
     
-    printf("%i\n", cont +1 );
+    printf("%i\n", cont + 1 );
     system("clear");
     cont = cont + 1;
     
+
+    
     
 }
+system("neofetch");
+//system("clear");
 
 
-
-system("clear");
+//system("clear");
 signed long int a, b, c, d, x, media;
     a = b = c = d = x = media = 0;
     signed long int valorMinimo, valorMaximo;
@@ -32,26 +38,29 @@ signed long int a, b, c, d, x, media;
     
     
     printf("Digite o primeiro valor:\n");
-    scanf(" %li", &a);
+    scanf("%li", &a);
 
     system("clear");
     if( a < valorMinimo){
-        printf("Valor nulo ou abaixo do valor minimo!\n");    
+        printf("\nValor nulo ou abaixo do valor minimo!\n");    
 
         
     }else{
         if( a > valorMaximo)
         {
-            printf("Valor maior que nota máxima!\n");
+            printf("Valor maior que valor máximo!\n");
         }else{
             ((a > valorMinimo) && ( a <= valorMaximo));
-            printf("Valor digitado > %li < está entre  valor minimo > %li < e o valor máximo > %li <!\n\n\n", a, valorMinimo, valorMaximo);
+            printf("\n\nValor digitado > %li < está entre  valor minimo > %li < e o valor máximo > %li <!\n\n\n", a, valorMinimo, valorMaximo);
         }
     }
 
     while(( a < valorMinimo) || ( a > valorMaximo)){
         printf("Digite novamente!\n");
         scanf("%li", &a);
+        if((a > valorMinimo) && ( a <= valorMaximo)){
+            printf("\n\nValor digitado > %li < está entre  valor minimo > %li < e o valor máximo > %li <!\n\n\n", a, valorMinimo, valorMaximo);
+        }
     }
 
 
@@ -60,7 +69,7 @@ signed long int a, b, c, d, x, media;
 
 
 
-    printf("Sizeof primeiro numero > %li <\n\n\n\a", sizeof(a));
+    printf("Sizeof primeiro numero > %li bytes <!\n\n\n\a", sizeof(a));
 
     return 0 ;
 }
