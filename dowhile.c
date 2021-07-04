@@ -5,27 +5,26 @@
 signed long int main()
 {
 
+
+
+
+
 //contador de 0 a 100.
 int cont = 0;
 int valor = 100;
-
-//system("neofetch");
 
 while( cont < valor){
     
     printf("%i\n", cont + 1 );
     system("clear");
     cont = cont + 1;
-    
-
-    
-    
 }
+
+
+
 system("neofetch");
-//system("clear");
 
 
-//system("clear");
 signed long int a, b, c, d, x, media;
     a = b = c = d = x = media = 0;
     signed long int valorMinimo, valorMaximo;
@@ -55,15 +54,18 @@ signed long int a, b, c, d, x, media;
         }
     }
 
-    while(( a < valorMinimo) || ( a > valorMaximo)){
+    while(( a < valorMinimo) || ( a > valorMaximo))
+    {
+         
         printf("Digite novamente!\n");
         scanf("%li", &a);
-        if((a > valorMinimo) && ( a <= valorMaximo)){
-            printf("\n\nValor digitado > %li < está entre  valor minimo > %li < e o valor máximo > %li <!\n\n\n", a, valorMinimo, valorMaximo);
+        if((a > valorMinimo) && ( a <= valorMaximo))
+        {
+            printf("\n\nValor digitado > %li < está entre  valor minimo > %li < e o valor máximo > %li < e foi atribuida a letra 'a'!\n\n\n", a, valorMinimo, valorMaximo);
         }
     }
 
-
+printf("<a=%li>\n\n", a);
 
 
 
