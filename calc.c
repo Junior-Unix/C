@@ -3,8 +3,11 @@
 
 int main (){
 
+
+	printf("Sinais matemáticos:\n\tsoma +\n\tsubtração -\n\tdivisão / \n\tmultiplicação *.\n");
+
         char sim;
-        printf("Para continuar, digite Y, para sair aperte ENTER");
+        printf("Para continuar, digite Y, para sair aperte ENTER.\n\n");
         scanf("%c", &sim);
         if( sim == 'Y'  ||  sim == 'y' )
 
@@ -23,8 +26,8 @@ int main (){
                             break;
 
                 case '*':   /* multiplicação*/
-                case 'x': 
-                case 'X':   printf("%d*%d=%d\n", num1, num2, num1*num2);
+                case 'x':
+                case 'X':   printf("%dx%d=%d\n", num1, num2, num1*num2);
                             break;
 
                 case '/':   /* Divisão */
@@ -33,7 +36,7 @@ int main (){
                             break;
                 }
         }else{
-            printf("Tenha um bom dia!");
+            printf("\a\tTenha um bom dia!\n\n\n");
              }
 
 
