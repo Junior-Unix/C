@@ -25,7 +25,11 @@ int U, D, C;
 				C = ( C - D ) - U;
 				printf("C = ( C - D ) - U = [%d ].\n", C);
 				C = C / 100;
+<<<<<<< HEAD
 				printf("C = c / 100 = [%d ].\n", C);
+=======
+				printf("C = C / 100 = [%d ].\n", C);
+>>>>>>> 80cb7ec379eb8776b073b6ea33bcca537d288a69
 			}/*if N*/else{
 		printf("O número não está no parametro informado");
 		}//else.
