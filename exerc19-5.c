@@ -10,16 +10,23 @@ int U, D, C;
 	printf("Informe um valor entre 100 e 999\n");
 		scanf("%d", &N);
 			if( N > 100 && N < 1000 ){
+
+
 				U = N % 10;
-
+				printf("U = N % 10 = [%d ].\n", U);
 				D = N % 100;
+				printf("D = N % 100 = [%d ].\n", D);
 				D = D - U;
+				printf("D = D - U = [%d ].\n", D);
 				D = D / 10;
-
+				printf("D = D / 10 = [%d ].\n", D);
 				C = N % 1000;
+				printf("C = N % 1000 = [%d ].\n", C);
 				C = ( C - D ) - U;
+				printf("C = ( C - D ) - U = [%d ].\n", C);
 				C = C / 100;
-	}/*if N*/else{
+				printf("C = c / 100 = [%d ]", C);
+			}/*if N*/else{
 		printf("O número não está no parametro informado");
 		}//else.
 
