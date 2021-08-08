@@ -9,7 +9,7 @@ int N = 0;
 int U, D, C;
 	printf("Informe um valor entre 100 e 999\n");
 		scanf("%d", &N);
-			if( N > 100 && N < 1000 ){
+			if( N >= 100 && N < 1000 ){
 
 
 				U = N % 10;
