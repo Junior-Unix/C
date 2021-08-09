@@ -20,13 +20,14 @@ int i, j = 0;
 
 int soma = 0;
 int multi = 1;
-
+printf("Lista de numeros pares entre [%2d ] e [%2d ]\n", num1, num2 );
 for( i = num1; i <= num2; i++ ){
 	if( i % 2 == 0){
 	printf("[%d ]\n", i );
 	soma = soma + i;
 	}	
 }
+printf("Lista numero impares entre [%2d ] e [%2d ].\n", num1, num2 );
 
 for( j = num1; j <= num2; j++ ){
 	if( j % 2 != 0 ){
