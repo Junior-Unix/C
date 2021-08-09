@@ -7,23 +7,35 @@
 int main(){
 int N, contador, contadorImpar = 0;
 
+system("clear");
+printf("\tVerificar se o numero é par ou impar, com contador.");
+printf("\n");
 while( N != 1000 ){
+
 	printf("informe o valor.\n");
 	scanf("%d", &N);
-	if( N % 2 == 0 );
-	{
-		printf("É par.");
+	
+		if( N % 2 == 0 ){
+			
+			printf("Eh par.\n");
 			contador++;
-	}/*if*/if( N % 2 != 0 );
-		{
+
+		}else if( N % 2 != 0 )/*Não coloque virgula aqui.*/{
+			
 			printf("Impar.\n");
 			contadorImpar++;
+		
+		}else{ 
+		
+			printf("Numero inválido.\n");
 		}
+
 }/*while( N != 1000 );*/
-printf("%d", contador);
+
+
+printf("Contador par.: [%3d ]\n", contador);
+printf("Contador impar.: [%3d ]\n", contadorImpar);
 
 	return 0 ;
-
-
 
 }
