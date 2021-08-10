@@ -10,13 +10,13 @@
 
 int main(void){
 
-int nota;
-int  soma = 0;
-int i = 0;
+float nota;
+float  soma = 0;
+float i = 0;
 do{
 	
 	printf("Informe a nota.\n");
-	scanf("%d", &nota);
+	scanf("%f", &nota);
 	if(nota >=10 && nota <= 20 ){
 	soma = soma + nota;
 	i++;
@@ -25,7 +25,7 @@ do{
 	}while( nota >=10 && nota <= 20 );
 
 	float media = soma / i ;
-	printf("[%f ]\n", media);
+	printf("[%.2f ]\n", media);
 	
 
 	return 0 ;
