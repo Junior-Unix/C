@@ -33,7 +33,7 @@ int j = num;
 	}//else.
 //float divisor = 0;
 printf("Os divisores de [%i ], são:\n", num);
-	for( j = num; j > 0; j-- ){
+	for( j = num; j >= 0; j-- ){
 		int divisor = num % j;
 				
 		if( divisor == 0 ){
