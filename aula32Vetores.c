@@ -1,4 +1,9 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+#include <math.h>
+#include <ctype.h>
+
 
 int linha( int num){
     int i;
@@ -9,10 +14,25 @@ int linha( int num){
 
 int main(){
 
+setlocale( LC_ALL, "portuguese");
 
-
-float N[5];
+fflush(stdin);
+char nome[2][50];
+linha(77);
+printf("Informe seu nome.\n\n");
+for( int i = 0; i < 2; i++ ){
+    scanf("%s", nome[i]);
+    printf("Agora seu sobrenome.\n");
+}
 system("cls");
+for( int i = 0; i < 2; i++ ){
+    printf("[[%s \t]\n", nome[i]);
+}
+
+linha(77);
+fflush(stdin);
+float N[5];
+
 linha(77);
 printf("Informe 5 valores\n");
 
