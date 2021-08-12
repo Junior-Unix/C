@@ -26,7 +26,7 @@ for( int i = 0; i < 2; i++ ){
 }
 system("cls");
 for( int i = 0; i < 2; i++ ){
-    printf("[[%s \t]\n", nome[i]);
+    printf("[[%s ]\n", nome[i]);
 }
 
 linha(77);
