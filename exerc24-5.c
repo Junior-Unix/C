@@ -11,20 +11,13 @@ int N;
 
 	printf("Informe um numero inteiro para calcular a soma dos \ndivisores, menos ele prprio.\n");
 	scanf("%i", &N );
-	
-
 int res = 0;
 	for ( int i = 1; i < N; i++){
-		if( N % i == 0 ){
-		res = res + i;
+		if( N % i == 0){
+		res += i;
 		printf("%i\n", i);
-		
 		}
 	}
-
-	printf("A soma dos divisores de [%i ] excluindo ele mesmo eh: [%i ]", N, res);
-
-
+printf("A soma dos divisores de [%i ] excluindo ele mesmo eh: [%i ]", N, res);
 	return 0 ;
-
 }
