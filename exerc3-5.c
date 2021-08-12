@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Faça um algoritmo utilizando o comando WHILE que mostra uma contagem 
 regressiva na tela, iniciando em 10 e terminando em 0. Mostrando uma
 mensagem "FIM!" após a contagem. */
@@ -17,4 +18,25 @@ while( numero !=0 ){
 printf("FIM!");
 
     return 0 ;
+=======
+/* Faça um algoritmo utilizando o comando WHILE que mostra uma contagem 
+regressiva na tela, iniciando em 10 e terminando em 0. Mostrando uma
+mensagem "FIM!" após a contagem. */
+#include <stdio.h>
+
+int main(){
+
+    int numero = 11;
+
+while( numero !=0 ){
+    
+    numero = numero - 1;
+    printf("%d\n", numero);
+    
+}
+
+printf("FIM!");
+
+    return 0 ;
+>>>>>>> ba952dcbdd78676a50dccb02e812364ab08b49e7
 }

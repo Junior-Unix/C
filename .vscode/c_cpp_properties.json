@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "configurations": [
         {
@@ -16,4 +17,21 @@
         }
     ],
     "version": 4
+=======
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "C:\MinGW\bin\gcc.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+>>>>>>> ba952dcbdd78676a50dccb02e812364ab08b49e7
 }
