@@ -27,7 +27,9 @@ for( int i = 1; i < 70; i++ );
 for ( int i = 1; i < 70; i ++ );
     putchar('=');
     putchar('\n');
+
 fflush(stdin);
+
 int oben;
 int i = 0;
     for( int i = 0; i < 10; i++ ){
