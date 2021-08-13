@@ -39,7 +39,7 @@ for( i = 1; i < 70; i++ )
         printf("vetor em (%d) = [%d]\n", i, vetor[i]);
     }
 
-
+printf("o maior [%d] e o menor[%d]", vetor[0, vetor[9]]);
 
 
 
