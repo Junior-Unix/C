@@ -13,20 +13,20 @@ int main(){
 
 system("cls");
 
-linha( 77, '+');
+linha( 70, '+');
 int A[6]={ 1, 0, 5, -2, -5, 7 };
 
 int soma = A[0] + A[1] + A[5];
-printf(" A soma dos vetores A[0]-%d + A[1]-%d + A[5]-%d = [%d ]\n\n", A[0], A[1], A[5], soma);
+printf(" A soma dos vetores A0[%d] + A1[%d] + A5[%d] = [%d]\n\n", A[0], A[1], A[5], soma);
 
-printf("Modificar o vetor A na A[4] que eh [%d] para A[100].\n", A[4]);
+printf("Modificar o vetor A na A4[%d] para --> A4[100].\n", A[4]);
 A[4] = 100;
-printf("Modificado.\nA[%d]\n", A[4]);
-linha( 77, '+');
+printf("Modificado: A4[%d]\n", A[4]);
+linha( 70, '+');
 for( int i = 0; i < 6; i++ ){
     printf("A%d[%d]\n", i, A[i]);
 }
-linha( 77, '+');
+linha( 70, '+');
 printf("\n\n");    
 
     return 0 ;
