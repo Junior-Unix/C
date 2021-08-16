@@ -2,44 +2,46 @@
 múltiplos de um número inteiro X num vetor e mostre-os na tela. */
 #include <stdio.h>
 #define N 10
-
 int main(){
 
-int vetor[N];
-
+int vetor[N];;
+int n = N;
 system("cls");
-
-printf("Informe 10 valores.:\n");
+fflush(stdin);
+printf("Informe os %d valores.:\n", n);
 for( int i = 0; i < N; i++ ){
     scanf("%d", &vetor[i]);
 }
 for( int i = 0; i < N; i++ ){
     printf("Vetor^[%d]=>[%d].\n", i, vetor[i]);
 }
+fflush(stdin);
 int x;
-int a = 0;
-int multi[a];
 
-printf("Selecione um dos valores que informou para contar os multiplos.:\n");
+printf("Selecione um dos valores informados para extração do multiplo.\n");
 scanf("%d", &x);
-
-
-for( int d = 0; d < N; d++ ){
-    if( x == vetor[d] ){
-        x = vetor[d];
+for( int i = 0; i < N; i++ ){
+    if( x == vetor[i]){
+       x = vetor[i]; 
     }else{
-        for( int i = x ; i > 0; i-- ){
-            if( x % i == 0){
-            multi[a] = i;
-            a++;
-            /* printf("[%d]\n", multi[a]); */
-            }
-        }
+        int i = x;
+        do{
+            if ( x % i == 0 )
+            printf(":^[%d].\n", i);
+            i--;
+        }while( i >= 0 );
+
     }
 }
-/* for( int i = 0; i < a; i++){
-    printf("[%d]\n", multi[i]);
-} */
-printf("[%d]\n", a);
-    return 0 ;
+
+/* int i = x;
+do{
+    if ( x % i == 0 )
+    printf(":^[%d].\n", i);
+    i--;
+    
+}while( i >= 0 ); */
+
+
+     return 0 ;
 }
