@@ -54,13 +54,19 @@ for( int i = 0; i < N; i++ ){
 putchar('\n');
 
 putchar('\n');
-for( int i = 1; i < N; i++ ){
+for( int i = 0; i < N; i++ ){
     putchar('\n');
     for( int j = 0 ; j < M; j++ ){
         if( i > j ){
             printf("[%2d]", matrix[i][j]);
             count++;
-        }
+        }else
+            if( i == j ){   
+            printf("[* ]");
+            }else{
+                printf("[  ]");
+            }
+        
     }putchar('\n');
 }
 
