@@ -17,6 +17,7 @@ int diagonalAbaixo(int matrix[N][M]){
 int main(){
 
 int matrix[N][M];
+int count = 0;
 system("cls");
 
 
@@ -58,11 +59,12 @@ for( int i = 1; i < N; i++ ){
     for( int j = 0 ; j < M; j++ ){
         if( i > j ){
             printf("[%2d]", matrix[i][j]);
+            count++;
         }
     }putchar('\n');
 }
 
-printf("A soma dos elementos abaixo da diagonal principal eh.: [%d].\n", diagonalAbaixo(matrix));
+printf("A soma dos %d elementos abaixo da diagonal principal eh.: [%d].\n", count, diagonalAbaixo(matrix));
 
 
 
