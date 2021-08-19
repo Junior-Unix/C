@@ -7,7 +7,7 @@ diagonal principal.
 #define N 4
 
 int acimaDiagonal(int matriz[N][N]){
-    int i,j,acimaDiagonal=0;
+    int i, j, acimaDiagonal = 0;
     for( i = 0; i < N; i++ )
         for( j = i + 1; j < N; j++ )
             acimaDiagonal += matriz[i][j];
