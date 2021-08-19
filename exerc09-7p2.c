@@ -2,8 +2,8 @@
 da diagonal principal. */
 #include <stdio.h>
 
-#define N 3
-#define M 3
+#define N 10
+#define M 10
 
 int diagonalAbaixo(int matrix[N][M]){
     int i, j, diagonalAbaixo = 0;
@@ -22,19 +22,19 @@ system("cls");
 
 
 printf("Informe os %d valores da matrix[%d][%d].\n", N*M, N, M );
-for( int i = 0; i < N; i++ ){
+/* for( int i = 0; i < N; i++ ){
     for( int j = 0; j < M; j++ ){
         scanf("%d", &matrix[i][j]);
     }
-}
+} */
 
-/* //Automata
+//Automata
 printf("Informe os %d valores da matrix[%d][%d].\n", N*M, N, M );
 for( int i = 0; i < N; i++ ){
     for( int j = 0; j < M; j++ ){
         matrix[i][j] = 1;
     }
-} */
+}
 
 system("cls");
 for( int i = 0; i < N; i++ ){
