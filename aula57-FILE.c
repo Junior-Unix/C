@@ -1,9 +1,6 @@
 /* Leia uma matriz de [3]x[3] elementos. Calcule e imprima a sua transposta. */
 #include <stdio.h>
 
-#define M 3
-#define N 3
-
 int main(){
 
 FILE *arq;
