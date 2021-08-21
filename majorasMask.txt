@@ -1,0 +1,2674 @@
+logo por Dark Phenomenon (the_majical_sponge@hotmail.com/ninjabunny@gmail.com)
+                '.                   .'
+                ;.%                 %.;
+                o  ,                , O
+                "; o                O ";   
+               ;#;  @"O"'#@Oo""'. ###,..##   
+            '########OO'""O####@###"   @@"#%%%%%%%%@@O"Ooo%%%%%@OooO"ooOoO@
+           ##%O;;",' %'%%O%@#'###. .""#;'   "'; "#,',O###%"OoO"%######@oO##
+         .##########@%#"  %##",oO.#'o@  ;''o%## "# ".##@@# %"##."O#O# """#
+         @####O#######@O#  #'O#;.#;O#####;'O"%#@.# ".##Oo# o"###"O%## #oo#@
+         #"'###@;     "#"# @"#.," #"   "#;"%O, #o# "'##Oo# %'### ';# .#oOo#
+         o',##o  '@o   O%%"'# o#'# o@   o''"oO"### o;#@O%#.%"#@# o"# %#o%o#@
+      "%.@#o##@,  .  .;##OO%."".#      ;%;'@, #';#;O,### # @'### oo%'o ,%O%#
+ %####@o@@@@#####o;,'OO%%O# #O;#@%";;"##O'"@%., #,;";##; # @"##o;o#."###;%"#"
+           "#############O.#;.##@#####%#o';@###.##,";## %#.@o#o "@# ####o@oo#
+        '#@o@########@##O %'o#O#;''"o@@" "'"  .o% ;o;, "o, "" 'o@. ;O@@o "OO##
+     ,%##o,    ########O,oo@#;%#o####" %######O";#####################O#######
+    ,o       %o.,#####..O""" ,    ;' "#O  ## #@#o#;,##O',##'##"###O#.##o#%%%#O
+           "##@,   "O#######@####OOo#####o "##  ." o.,"' ;                  .
+          ##;     @" ,;o#######''%.  '   '@"#
+         .#      %@";     O#'    .@@
+                 #@,               ;#O
+
+THE LEGEND OF ZELDA: MAJORA'S MASK
+por igordebraga(igordebraga@bol.com.br)
+============ÍNDICE================
+1-Introdução
+2-História
+3-Controles
+4-Detonado
+5-Chefes
+6-Heart Pieces
+7-Máscaras
+8-Itens
+9-Bomber's Notebook
+10-Canções
+11-Spider Houses
+12-Informações Legais
+==================================
+1-INTRODUÇÃO
+==================================
+Oi, meu nome é Rafael, e eu gosto de Zelda desde A Link to The Past, pro Super
+Nintendo, que eu zerei 2 vezes (e mais uma pra escrever um guia). Em 2005, 
+resolvi jogar o Ocarina of Time, 28 dias direto jogando,obra-prima! Seguindo
+esse fui pro outro do N64, Majora's Mask. Esse exigiu mais, uns 35 dias.
+É por assim dizer,Zelda encontra Feitiço do Tempo(e talvez Armageddon...).Para
+salvar um mundo, Link tem de passar por 3 dias de novo, e de novo...e muitos
+eventos exigem uma paciência do cão ou uma precisão cirúrgica. Por isso, é bom
+ter um guia a mão. E se o guia é incompleto, outro (foi meu caso).
+Embora Ocarina of Time tenha 4 guias em português, Majora's Mask tem só um. E
+incompleto! Por isso, mal acabei o jogo e já tava escrevendo!
+(o pior foi quando formataram meu computador, tive de jogar tudo de novo para 
+conseguir terminar esse guia)
+
+2 observações:
+1-Não se importe com 3 manias minhas: piadas, (parênteses) e reticências...
+2-Os pontos cardeais,caso você tenha fugido das aulas de geografia:
+                   NO N NE
+                     \|/
+                   O--+--L
+                     /|\
+                   SO S SE 
+
+Que a Força esteja com vocês.
+===================================
+2-HISTÓRIA
+===================================
+(tirada do manual do jogo)
+No reino de Hyrule, ecoa uma lenda. Uma lenda guardada pela família real que
+fala de um garoto...
+
+Um garoto, que depois de batalhar com o mal e salvar Hyrule, afastou-se daque-
+la terra que o tornou uma lenda...
+
+Acabadas as batalhas através do tempo, ele embarcou numa jornada. Uma jornada
+secreta e pessoal...
+
+Uma jornada em busca de uma amiga amada e inestimável...
+
+Uma amiga que se separou dele quando ele cumpriu seu destino e se tornou
+lendário...
+(introdução do jogo)
+3 meses depois de voltar no tempo(OoT),Link resolve procurar sua fadinha,Navi
+(HEY!LISTEN!), com sua égua, Epona. Mas no meio do caminho ele é atacado pelo
+Skull Kid(vestindo a tal Máscara de Majora)e suas fadas Tael e Tatl, que rou-
+bam Epona e a Ocarina do Tempo. Link o persegue, caindo numa espécie de "País
+das  Maravilhas", Termina. Ao encontrar o Skull Kid, ele o transforma num Deku
+Scrub, e foge. Porém Tatl fica para trás, e resolve se aliar a Link. Na porta
+da cidade Clock Town, Link encontra o Vendedor de Máscaras, que o avisa para
+pegar a máscara do Skull Kid veste em 72 horas.
+E Link descobre que ao final dessas 72 horas,a Lua cairá em Termina por influ-
+ência da Máscara de Majora. E assim começa um novo capítulo na Lenda de Zelda!
+====================================
+3- CONTROLES
+====================================
+--------------LINK------------------
+Link é o destemido herói de Hyrule, armado com uma espada, um escudo e trocen-
+tos itens (arco-e-flecha, bomba, gancho, etc.).
+
+Analog Stick - anda
+B- Espadada
+A- Botão de ação
+Z- Faz olhar pra frente, e trava a mira num inimigo.
+C<, \/, > - 3 itens
+C^ - Visão em 1a pessoa/fala com Tatl
+R- Levanta o escudo.
+Start- Menu
+------------DEKU LINK---------------
+Deku Link é o Link tornado planta. Mais tarde descobre-se que o Deku era filho
+de um mordomo.O Deku é pequeno, leve (não aciona botões e dá pulinhos na água)
+e vulnerável a fogo.
+
+B- (depois de conseguir magia) Solta bolhas
+A- Além de ser o botão-ação, dá um ataque giratório. Sobre flores no chão,
+entra nelas pra ser expelido.
+R- Agacha com um escudo-noz.
+-----------GORON LINK---------------
+Goron Link é Link como Darmani,destemido guerreiro Goron.Darmani é lerdo,for-
+te,invulnerável a fogo mas vulnerável a água.
+
+B- Soco fulminante
+A+B - Enrola e bate no chão
+A- Enrola-se. Ande encolhido para rolar e atropelar tudo no caminho.
+R- Agacha-se
+-----------ZORA LINK----------------
+Zora Link é Link como Mikau, aclamado guitarrista Zora.Mikau é ágil,nada,anda
+debaixo d'água e tem ataques especiais poderosos. Fraco diante de fogo e gelo.
+
+B- (1/2 vezes)Murro(3/4)Chutão(segurando)prepara para soltar barbatanas como
+bumerangues (n' água) Afunda.
+A- (n'água)Nada (no modo "submergir") sai do chão
+R- (normal)Ergue as nadadeiras como um escudo(ou seja,dá pra andar e se defen-
+der!) (nadando) Ataque elétrico
+---------AVANÇADOS-------------------
+•Jump Attack | Z+avançar+A (com a espada desembainhada!)
+
+Um ataque bem efetivo, destroça aquelas aranhas azuis chatas(Tektite).Só demo-
+ra a recuperar depois do pulo.
+
+• Backflip |  Z + recuar + A
+
+Salto para trás, esquiva de ataques.
+
+• Side Jump | Z + (esquerda/direita) + A
+
+Pulo para o lado. Funciona melhor com aqueles caras com espadões,ou ataques de
+longa distância.
+
+• Power Slash | Segure B
+
+Segure B e solte. Link dá um ataque giratório. Uma fada aperfeiçoa esse golpe.
+Ótimo pra destroçar moitas e bater em inimigos muito próximos.
+
+• Stab | R + B
+Enquanto você defende, aperte B. Link dá um golpe rápido.
+
+• Directional Slash | (Cima, Esquerda, Direita) + B
+
+Um golpe pra qualquer lado(menos atrás).
+===============================
+4-DETONADO
+===============================
+Como a seção História mostra, 3 meses depois do fim de Ocarina of Time Link
+sai montado em Epona atrás da fada Navi.
+
+Então Epona é assustada por duas fadas, Tael e Tatl, e Link é derrubado.
+Enquanto ele está lá inconsciente, um misterioso ser mascarado, o Skull Kid
+aparece. 
+
+"Hee hee!" disse o Skull Kid, "Vocês fadas fizeram muito bem! Imagino se esse
+cara tem algo bom com ele...".
+
+Então ele virou o corpo de Link e começou a examiná-lo.Achou a ocarina.Enquan-
+to assoprava a fada homem e mais jovem, Tael disse: "Oh, bela ocarina...ei,
+Skull Kid, deixe-me tocá-la!" e a irmã mais velha Tatl disse:"VocÊ não pode,
+Tael! E se nós derrubarmos e a quebrá-la? Não, você não pode!". E reclamando,
+Tael respondeu "...Aw, mas irmã...P...Porque não podemos tentar?".
+
+E aí Link acordou. As fadas o avisam, e antes que o herói possa se vingar,
+Skull Kid pula em Epona e Link agarra na perna dela. Até o Skull Kid fazer
+ uma curva jogando Link longe. 
+
+Aí você retoma o controle. Corte os arbustos e pegue rupees. Então siga o
+Skull Kid. Entre na árvore-túnel, suba a "escada", e pule de tora em tora.
+Ao entrar no outro túnel, você cai no buraco, Alice(não resisti!).
+Aí recomeça assustador: aquele demoninho diz que se livrou de Epona e te
+transforma num Deku. Você sai correndo atrás dele, e Tatl resolve te frear.
+Então, ela fica pra trás...e indignada, te pede pra abrir a porta.
+Voltam os controles! Usando o botão A, destrua os arbustos pra mais Rupees.
+Abra a porta. No final do tronco, Tatl resolve se unir a você.Bem, se você
+jogou Ocarina of Time e odiou Navi, anime-se. Tatl é melhor!Não grita "Hey!
+Listen!Look!",só toca um sininho. E se você sai do caminho ela não te xinga.
+
+Mas voltando ao jogo, Tatl te ensina a usar as flores. Aperte A naquela do
+chão.Você entra nela e sai planando segurando flores(meio gay, é verdade).
+Voe até o outro lado, e abra a porta. Vá usando as flores até chegar numa
+plataforma com um baú com Deku Nuts (um item inútil, mas como Deku até que
+é legal...). Depois vá pra plataforma na frente da árvorezinha(pode cair no
+abismo depois de pegar as Nuts. Não mata). Tatl te ensina sobre o Z-Targeting.
+Daí vá pra plataforma da árvore. Que é um Deku morto, "reaproveitado" em você!
+Desculpe estragar a surpresa.
+
+Então você chega numa espécie de moinho. Vá subindo. Quando você chega num
+portão, aparece o dono da Loja de Máscaras. Você conversa com ele, e ele pro-
+mete te recuperar se você achar a sua Ocarina, e pede pra você recuperar a
+Máscara de Majora, num prazo de 72 horas (depois da conversa, vá pra trás
+dele só pra ver a máscara do Mario!). Empurre o portão.
+  _________________________________________________________________
+ / DEKU LINK, O REJEITADO                                         /
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Bem-vindo a Clock Town! Bem, agora você verá o que ser um pária: ninguém 
+te respeita nesse lugar!
+
+Primeiro,vá para a Grande Fada em North Clock Town.Pra isso,siga pra esquerda,
+e esquerda de novo, até ver um portal. Entre. Primeiro fale com o sujeito ves-
+tido de verde, Tingle, e compre um mapa de Clock Town por 5 rupees.
+(eu sugiro que assim que tiver 40, compre um de Woodfall, a próxima área).
+
+Daí vá pruma caverna do lado de uma cerca.O Skull Kid destroçou a Fada!Busque
+a Stray Fairy, o "pedaço" que falta.Volte pra South Clock Town,e entre no por-
+tal no canto sudoeste.É a Laundry Pool.A fada flutua sobre o rio, pule n'água
+e vá boiando até ela. Volte pra Fonte da Grande Fada.
+
+A Stray Fairy se une ás "irmãs", e a Grande Fada (uma figura particularmente
+assustadora, especialmente a risada!) ressurge, e te dá o poder de assoprar
+bolhas. E te pede pra voltar quando se tornar Hylian de novo. Daí saia.
+
+Temos de nos unir a uma sociedade secreta, o Bombers' club.Vê o menino tentan-
+do estourar um balão com a Máscara de Majora? Estrague o prazer dele! Use uma
+bolha (botão B) para estourar. Daí fale com ele. Ele diz que te deixa ir pro
+Observatório Astral se passar no teste do clube. Aceite o teste.
+
+Este consiste de pegar os 5 membros do clube, até que é facim.
+*1o cara: Perto duma árvore, próximo ao portal. É só atacá-lo e já pegou.
+*2o cara: No canto oposto, atrás do escorregador. Persiga-o até pegar.
+*3o cara: Vá pra East Clock Town (a leste, óbvio!). Suba uma rampa até achar
+o carinha, que pega uma galinha (cuccoo) e sai voando. É só cair no chão e
+capturá-lo.
+*4o cara: está num telhado próximo. Entre na flor do lado do prédio em forma
+de baú e voe até esse telhado. O menino pula, vá atrás.
+*5o cara: vá pra West Clock Town. Bem perto da entrada (vindo de South Clock)
+está um menino patrulhando. Pegue-o, e você passou!
+
+Aí os membros reclamam sobre você se unir a eles,mas eles te dão o código para
+o esconderijo (não adianta pedir pra mim, é aleatório).Como você está em North
+CT de novo, entre em ECT. Um Bomber está na sua frente. Dê-lhe o código e ele 
+te deixa entrar no caminho pro esconderijo Bomber, o Observatório Astral.
+
+Lá dentro,pule na água de plataforma em plataforma.Até ver um canto com plata-
+forma.Espere a Skultulla cair (desde que ela não te bata), e Z nela! Quando 
+ela se virar,expondo o abdômen, sopre uma bolha nela(se você já jogou Ocarina,
+não precisava ter lido...). Pegue o que ela deixa e vá pro outro corredor.
+
+Primeiro, estoure o balão com a Máscara de Majora, e suba a escada. Atravesse 
+e entre num lugar alegre e musical. Suba as escadas.
+
+Fale com o Astrônomo pra aprender sobre o Skull Kid. Concorde em ver no teles-
+cópio.Dê zoom no topo da Clock Tower, e segue uma cena com uma brincadeira do 
+Skull Kid e a queda da Moon's Tear. Saia e pegue a Moon's Tear. Depois entre e
+desça a escada.
+Fale com o espantalho, e dance com ele até a Noite do 3o Dia. Faça o caminho 
+de volta pra Clock Town, e se dirija a South CT.
+
+Procure uma flor amarela.Ao chegar perto, o dono da flor desce dos céus.Fale 
+com ele depois, e dê-lhe a Moon's Tear. Ele te cede a flor.Teste a flor ou o 
+que quiser até meia-noite
+(Pequena observação: o chão treme. Será por causa da lua?).
+
+Daí, o carnaval começa, mas pra estragar tudo, a Lua começa a cair. Só faltam
+5 minutos!
+Rápido, ejete-se e voe até a porta da torre! Pegue o pedaço de coração(Heart 
+Piece), e suba as escadas. O Skull Kid vai gritar e mandar a Lua "aterrissar"!
+Rapidamente sopre uma bolha nele,fazendo a ocarina se soltar. Agarre-a e ocor-
+re um flashback...
+
+Sabe,Zelda está no título e só aparece nesse flashback...que te relembra sobre
+a Song of Time. Ative a ocarina (ãããh... cornetas? :/)e toque-a!Selecione Yes!
+Caimos no abismo e voltamos para South Clock Town,no primeiro dia,sem as 
+rupees e todos os itens, mas com fatos guardados...
+ _________________________________________________________________
+/ DE VOLTA AO NORMAL!                                            /
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Bem, você volta ao primeiro dia (algo que Tatl estranha). Volte pro vendedor 
+de máscaras. Vendo sua ocarina, ele te ensina a Song of Healing. Após tocá-la,
+Link volta a ser Hylian!
+E Deku Link se torna a Deku Mask.Aí o vendedor pergunta sobre a Máscara de Ma-
+jora... e conta a historinha dessa máscara maligna. Daí,saque a espada e volte
+pra cidade!
+
+Tatl te lembra sobre o pântano, montanhas,oceano e cânion que vocês tem de ir.
+Mas antes de começar os calabouços,algumas jornadas separadas pra aquecer-nos.
+
+Primeiro, vá pra fonte da Grande Fada. Busque a Stray Fairy, e reconstitua a 
+Grande Fada.Ela te dá a Great Fairy Mask, que atrai Stray Fairies.
+
+Daí, viremos membros do Bombers' club. Como Deku Link, estoure o balão. Volte
+a Link normal,e fale com Jim. Daí repita o procedimento de caça aos guris.Como
+membro, eles te dão o Bomber's Notebook,usado pra anotar o calendário,compro-
+missos e recompensas do povo que você acha por Termina.
+
+Daí, lembrando-se de algo dito pelo espantalho: um certo instrumento acelera
+ou atrasa o tempo.
+Bem, toque a Song of Time, mas 2 vezes cada nota (Song of Double Time). Faça o
+que quiser até perto de meia-noite, então siga pra North Clock Town. Fique num
+local escondido em que possa se ver a estrada e você não seja visto pelo homem
+perto do escorregador. Esse homem, Sakon,vai sair correndo e roubar a velhinha
+que surge á meia-noite. Corra atrás dele e meta-lhe espada até ele soltar a 
+bolsa dela.Agradecida,ela te dá a Blast Mask,que te permite detonar coisas!
+Aproveite e arranje um dinheiro pra comprar uma bolsa de bombas na Loja de 
+Bombas da velhinha.
+
+Daí, siga pra Laundry Pool(parte sudoeste). Você ouve música. Fale com o homem
+que a toca. Ele fala umas coisas sobre roubar uma máscara da Trupe Animal e te
+dá essa máscara,a Bremen's Mask,que te dá controle sobre animais por meio da
+música.
+
+Saia da Laundry Pool e siga pra rampa esquerda da torre em SCT.Veja uma está-
+tua de coruja. Bata nela com a espada e ative-a! Essa estátua permite salvar
+sem voltar no tempo. Bem, vá conseguindo dinheiro e depositando no banco (West
+Clock Town). Ao conseguir 200 de depósito, o bancário te dá a Adult's Wallet,
+que guarda 200 rupees em vez de 99!A menos que queira fazer alguma outra coisa
+(como conseguir pedaços de coração), toque a Song of Time pra salvar e voltar
+ao primeiro dia.
+   _________________________________________________________________
+  / INVADINDO O PALÁCIO DEKU                                       /
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+AGORA SIM, vamos pro primeiro calabouço! Ou quase, já que precisamos da"chave"
+pra ele.
+
+Primeiro, toque a Inverted Song of Time (Song of Time ao contrário), pra fazer
+os 3 dias durarem o dobro. Saia de Clock Town pela saída do sul(o guarda tenta
+te barrar mas deixa depois de ver tua espada e escudo). Em Termina Field...
+bem, se você já jogou um dos Zeldas anteriores á Ocarina vai reconhecer essa 
+musiquinha sensacional (tantas memórias...).
+
+
+Vá seguindo a sul, matando o que quiser e cortando arbustos para ter recursos.
+Em certo ponto,Tatl reconhece um desenho feito por ela, Tael e o Skull Kid, e 
+segue uma cena. Daí a tela muda,continue a sul(passando longe das árvores para
+evitar morcegos).Se você não tem o mapa de Woodfall, derrube Tingle de seu ba-
+lão (como Deku), e compre. Se já, economize tempo e compre o outro mapa(OK,es-
+tou sendo apressado).
+
+Então você chega a Southern Swamp, um pântano envenenado pelo Skull Kid. Vá 
+pro Centro de Informações(a casa na árvore). O homem diz sobre o concurso de
+fotografia, e diz que você entra se agendar um cruzeiro de barco,no outro bal-
+cão. Que está vazio! Parece que temos de ir pra Loja de Poções das Magic Hags.
+Saia, e antes de ir pra lá (oeste), ative a estátua de coruja (perto de onde
+chegamos).
+
+Daí siga pra loja,pulando como Deku entre vitórias-régias.Passe pelo portal, e
+não entre na loja.
+No outro lado do laguinho, tem uma parte gramada com uma Gossip Stone (pedra 
+"ciclope"). Vá lá e entre na woods of Mystery.
+
+Fale com o macaco, e siga-o! Não o perca, se você entrar errado acaba saindo 
+da floresta(Lost Woods,alguém?). E não adianta tentar matar as tartarugas psi-
+cóticas, só fuja.
+
+Em certo ponto o símio pára e acha uma das velhas (ou melhor, uma das irmãs 
+Twinrova) em sofrimento.
+Precisa de poção vermelha. Entre num portal errado pra sair da floresta,e fale
+com a irmã dela na loja. Ela te dá uma garrafa de poção. Volte pra Woods of 
+Mystery,enfrente a confusão de novo e dê-lhe a poção.Ela te promete um passeio
+de barco e sai voando. (e você mantêm a garrafa!)
+
+Ao sair da floresta,os macacos te cercam.Fale com eles.Eles dizem que um deles
+foi pro Templo Deku pra tentar salvar o pântano,e foi pego pelos Dekus e leva-
+do pro Palácio Deku! Ao resgate!
+
+Vá pro Centro de Informações, fale com o homem pra pegar a Pictograph e entrar
+no concurso.
+Depois fale com a bruxa e saia. Bem, aproveite o passeio... quando parar no
+Deku Palace, pergunta se quer descer. Desça. Não caia n'água, tá envenenada!
+Fale com o macaquinho. Siga-o. Na frente dos guardas Deku, ponha a Deku Mask.
+Eles te deixam entrar. Siga em frente pra Câmara Real. Lá dentro os Deku amal-
+diçoam o macaco e preparam-o pra EXECUÇÃO! Chegue perto do rei e tire a melhor
+foto possível dele. Volte pro corredor e fale com o irmão do símio. Escute-o e
+vá pra porta esquerda (vindo da Câmara).
+
+Agora a visão é aérea, e você tem de se esquivar e esconder dos guardas sem 
+ser visto, senão é chutado do palácio. É mais fácil de noite, quando a visão 
+do guarda vira uma linha... em certo ponto você acha um buraco. Caia nele! Lá
+você acha um vendedor de feijões mágicos. Pegue uma amostra grátis, encha
+sua garrafa com água e volte pra cima. Seja pego pra sair do palácio. 
+
+De volta á perto da entrada, olhe pra direita. Um caminho de folhas. Siga até
+achar um solo claro com um buraco. Plante o feijão e regue-o.Surge uma planta. 
+
+Monte na planta até o topo. Pule e siga pro pátio.(DICA PRA PRÓXIMA PARTE: 
+quando sua sombra estiver onde você quer cair, aperte A).Caia e entre na flor.
+Ejete-se e aterrisse na plataforma andante com outra flor. Solte uma bolha no
+Deku Scrub que atira em você pra derrubá-lo, e voe pra flor liberada.
+Lance-se pra outra plataforma em movimento. 
+
+Mate o "atirador" e vá até sua flor. Daí vá pra plataforma no canto direito.
+Ande e continue nessa jornada de flores, plataformas e matar Dekus que atiram.
+Então, na última flor, ejete-se pro buraco na parede. Ande até cair na jaula 
+do macaco.
+
+Volte ao Link normal e fale com o macaco.Ele pede um instrumento estridente.
+Vire Deku e solte as cornetas-Ocarina.O macaco explica sobre a água envenenada
+e a Princesa Deku. Aceite salvar a princesa e aprenda a Sonata of Awakening, 
+que abrirá o templo. Te descobrem e te chutam...
+
+Volte pro rio e entre no barco pra pegar o caminho de volta. Dê a foto do Rei
+Deku pro homem e ganhe um prêmio! Agora vamos pegar um item MUITO útil!
+
+De volta á Termina Field, pode-se ver que há um caminho próximo do do Southern
+Swamp. Vá nele. Você entra na Milk Road, que leva ao Romani Ranch. Mas tem uma
+pedra imensa no caminho,e o homem com a picareta diz que só termina no tercei-
+ro dia. Bem, toque a Song of Double Time até lá. Ative a estátua de coruja, 
+compre os mapas de Tingle e siga no pátio liberado pro rancho.
+
+Andando, vire á direita e ache Epona... mas não vamos conseguí-la ainda. Pena.
+Bem, siga até uma cabana com galinhas pintadas na parede. Entre, e fale com 
+Grog, o homem de moicano na árvore. Aparentemente, ele quer ver seus galos 
+antes deles morrerem.
+Ponha a Bremen Mask e vá atraindo os pintinhos tocando a ocarina.Quando conse-
+guir todos, ande só um pouquinho e todos crescem! Agradecido, Grog te dá o 
+Bunny Hood!Agora Link pode correr e pular longe!
+É bom usá-la a maior parte do tempo.
+
+Saia, e fale com a menina perto de Epona, Cremia, pra incluí-la no Bomber's 
+Notebook. A menos que queira um pedaço de coração mais fácil,volte pro primei-
+ro dia.
+   _________________________________________________________________
+  / RUMO Á WOODFALL                                                /
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Assim que começar, toque a Inverted Song of Time,bote o Bunny Hood e pé na es-
+trada!Vá pra Southern Swamp, siga pra loja de Poções, e repita o processo de
+salvar a velha. Faça o cruzeiro de novo.
+
+Desça no Palácio Deku, entre e siga pelas vitórias-régias á direita até uma 
+plataforma.A placa diz que leva á Woodfall. Bem, entre na flor e vamos lá!
+
+Ejete-se, e entre no portal. Mate as libélulas com bolhas (ou se torne um 
+Deku-bala e use as flores para se ejetar nelas) e vá se ejetando pelas flores
+de cogumelão em cogumelão.Quando vir uma plataforma á esquerda com uma espécie
+de lápide, vá pra lá. Aí tem uma cena com a agora infame coruja (que tem um 
+nome bizarro:Kapora Gaebora),em que ele ensina sobre as estátuas de coruja. 
+Leia a "lápide" para aprender a Song of Soaring, que permite viajar entre 
+estátuas.
+
+Use a flor e vá pra plataforma á direita com a cachoeira. Entre, e estamos em
+Woodfall!
+
+Envenenada e inabitável Woodfall está, por isso você aqui vir (momento Yoda).
+Vá se ejetando entre flores, passando por "pinguelas" e bichos que merecem 
+espadada,até a grande plataforma com bandeirinhas. Ative a estátua de coruja
+(e se quiser "todo o tempo do mundo", volte no tempo e use a Song of Soaring 
+pra voltar). Suba no "altar Deku" e toque a Sonata of Awakening. Woodfall 
+Temple surge no meio do brejo! Use a flor para ir pra lá.
+
+   _________________________________________________________________
+  / WOODFALL TEMPLE                                                /
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Ao entrar, volte a ser Link normal e vista a Great Fairy Mask.
+Uma Stray Fairy vem até você (1/15). Vire Deku, e entre na flor á esquerda
+e voe pra uma plataforma solitária no lado direito. Abra o baú para outra
+Stray Fairy (2/15). Daí, entre na flor e voe pra próxima. Dessa, ejete-se 
+e passe no meio das duas Skulltulas senão você cai...
+Por sinal, se você cair, basta correr pra plataforma de onde você veio, tem
+uma escada no lado direito. O problema são os bichinhos pretos.
+
+Na próxima sala, depois de Tatl reclamar do fedor, volte ao normal, fatie
+o Deku Baba á esquerda e desça a rampa do lado dele. Mate o Deku Baba lá
+embaixo e ganhe outra Stray Fairy (3/15). Volte a ser Deku, e saia pulando até
+as florzinhas(carnívoras, na verdade-mas Deku Link elas não comem) no centro
+da sala, e de lá siga para o outro lado. Vá a leste dessa porta para achar
+uma plataforma com potes, quebre todos até achar a Stray Fairy (4/15).
+Daí, volte e entre.
+
+Como Deku Link, vá pra flor no centro da sala. Ejete-se até o baú, e abra 
+para achar uma chave. Volte pra flor, e ejete-se pra porta do outro lado
+de onde você veio. Entre...e enfrente os Snappers, aquelas tartarugas idiotas.
+Bem, entre numa flor e espere o Snapper passar perto - e ejete-se, matando-o!
+Quando os três morrerem, surge um baú com o Mapa.Caso não saiba, as salas
+azuis você já foi e a sala piscando é onde você tá.
+
+Volte pra sala anterior, voe até a plataforma do baú e solte uma bolha
+numa colméia na parede. Use a Great Fairy Mask para pegar a Stray Fairy
+(5/15). Volte para a sala anterior. Daí, volte praquela porta trancada no
+outro lado, e entre.
+
+Link normal... empurre o bloco com a máscara, vire Deku e derrube as colméias
+até soltar uma Stray Fairy(6/15). Siga á direita até a Skulltula. Mate-a como
+Deku Link para libertar outra Stray Fairy (7/15). Daí, tire a Deku Mask, 
+vista o Bunny Hood e empurre o bloco de volta pra posição inicial.Volte pra
+tocha, tire um Deku Stick e acenda-o para pôr fogo na tocha do outro lado
+(sem cair na água,sua anta!).As libélulas de novo.Vire um Deku-bala e mate-as.
+Surge um baú com o Compasso. Agora não nos perderemos mais! Pegue um Deku
+Stick, e acenda a tocha no alto da escada. Agora tente incendiar a teia de
+aranha lá em cima. Daí prossiga pro andar de cima.
+
+Escuridão... e bichinhos pretos, os Black Boes. Mate todos para revelar um
+baú com outra Stray Fairy (8/15). Faça a "tocha olímpica" e acenda todas as
+tochas dessa sala com um Deku Stick. A porta abre.
+
+Segue um abismo com plataformas andantes com flores e libélulas. É só ir
+voando como Deku até o canto noroeste. Desça a escada.
+
+Siga á direita e corte a bolha para soltar a Stray Fairy (9/15). Volte para
+onde você veio, e prossiga até o botão amarelo. Pise para surgir uma escada.
+Vá pra porta atrás do botão, e siga á direita até a porta.
+
+O primeiro mini-chefe, Dinofol! Ele cospe fogo e brande uma machadinha.
+Trave o Z nele, e meta-lhe espada enquanto se esquiva.
+Depois de uns 4 acertos ele morre. Surge um baú com o HERO'S BOW, o ARCO!
+O clássico arco-e-flecha... 
+
+Volte pro lugar do botão amarelo. Fique entre a tocha acesa e a tocha no
+centro da grande flor lá embaixo. Dê uma flechada certeira... e a flor sobe, 
+e a água se purifica!Vá pra plataforma com um Deku Flower,onde você pegou uma
+Stray Fairy, entre na flor no chão e ejete-se até o botão. Pise nele como Link
+normal e faça surgir um baú. Vá até ele e pegue a Stray Fairy (10/15). Entre
+na sala atrás de você.
+
+Caia pra flor do centro, e tente flechar o "olho amarelo" em cima.
+Quando você acertar, a plataforma começa a subir e descer... ejete-se
+até o outro lado.
+
+Eu odeio esse cara... Gekko é um sapo malvado. Primeiro meta-lhe espada. Aí
+ele chama um Snapper. Vire Deku e use uma flor para tirá-lo do Snapper.
+Ele começa a subir nas paredes, trave Z nele e fleche-o! Repita até ele
+virar um sapinho pacífico... vá pra porta que destrava e pegue no baúzão
+a BOSS KEY! Que permite entrar nos aposentos do chefão...
+
+Volte pro salão da flor girante. Caia e entre naquela sala do bloco. Procure
+um bom lugar pra flechar a bolha com a Stray Fairy n'água, e use a Great Fairy
+Mask(11/15). Volte pro salão, e pule na florzona.Fique atrás da tocha no cen-
+tro e tente flechar uma tocha apagada. Isso abre uma porta. Entre nela.
+
+Lá dentro, primeiro fleche as libélulas. Depois desça, e fleche a Stray Fairy
+numa bolha(plataforma em chamas). Use a Great Fairy Mask(12/15).Entre na flor, 
+ejete-se pra plataforma á direita, e liberte outra Stray Fairy com um giro 
+(13/15).Vá se ejetando até a plataforma mais alta nessa parede, e solte outra
+Stray Fairy(14/15).Volte a ser Link,e banque o Robin Hood:fleche a bolha láááá
+longe. Use a GFM... e pegamos TODAS (15/15)!
+
+Bem, desça pra plataforma aonde dá pra acertar aquele cristal. Fleche-o.
+Agora banque o Sonic e vá voando de flor em flor bem rápido até atingir a
+que você"apagou"(pra isso, precisa se ejetar na flor debaixo de um "telhado").
+Então voe até a porta com a fechadura amarela(pode precisar da flor sobre um
+"telhado"),e abra-a.
+
+Ande e a música toca... Masked Jungle Warrior Odolwa cai para a batalha!
+Ver seção Chefes. Quando derrotá-lo, primeiro pegue o Heart Container (coração
+extra), daí pegue a máscara (Odolwa's Remains). Daí você é transportado, e o 
+primeiro gigante é libertado e te ensina a Oath to Order em seus gemidos. Mas
+isso é pra (muito) depois.
+E o melhor: o pântano foi desintoxicado! Agora podemos nadar...
+
+Bem, quando Link voltar, você ouve um som. Corte a "cortina" e ache a Princesa
+Deku!Ela conversa com você e pede um transporte. Ela diz que não se importa se
+for apertado.
+Ou seja: ENGARRAFE-A! É, tem momentos inacreditáveis nesse jogo. Daí, saia e 
+antes de devolvermos a mina na garrafa, vamos entregar as Stray Fairies. Volte 
+pra plataforma que levanta o templo. Vê uma caverna? Vá pra lá! Entre,e as fa-
+dinhas se tornam a Grande Fada.Esta te dá uma habilidade de espada.
+
+Bem,use a rampa criada batendo Odolwa pra sair de Woodfall.Nade até o Palácio.
+Como Deku,entre. Na frente do pai, liberte a Princesa. Esta dá uma surra no 
+pai por abusar do pobre macaco. Este é liberado,e a Princesa diz que te guarda
+uma surpresa num santuário a esquerda do palácio. 
+
+Dirija-se pra lá... e bote o Bunny Hood lá dentro. Fale com o Mordomo. Siga-o 
+(ele é bem veloz. No console, deve ter de repetir umas 3 vezes, no emulador eu
+tinha de reiniciar muito também). No final ele chora sobre o filho e te dá a 
+Mask of Scents.Entre na luz azul e volte pro começo do santuário.Agora acaba-
+mos! A menos que queira caçar alguma coisa,volte pro Primeiro Dia.
+
+(sugestão: antes de voltar no tempo, vá pra cabine de informações e fale com
+Kotake-saiba mais na seção Heart Pieces)
+   _________________________________________________________________
+  / RUMO AO INFERNO GELADO                                         /
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Toque a Inverted Song of Time, e saia por North Clock Town. Destrua arbustos
+para conseguir flechas e bombas. Então, suba nos blocos de gelo na frente da
+saída de NCT. 
+Fleche o globo de gelo no alto,a norte. 2/3 flechas depois, cai e destrói
+a barreira de gelo embaixo. Desça, passe pela neve e vá praquele lugar.
+
+Vá subindo, matando os irritantes Tektites, e passando por grandes bolas de 
+neve.Então chega um lugar em que as bolas te bloqueiam. Use uma bomba ou a
+Blast Mask e abra caminho. Continue até Mountain Village.
+
+Mountain Village parece um ermo de neve. Procure uma estátua de coruja para
+ativá-la.Vá pra trás da casa (Ferreiro), e veja um caminho. Siga nele. Há duas
+ilhas entre água congelada. Vá passando por elas,evitando/lutando com os White
+Wolfos(Tingle também está nesse lugar, compre mapas). No fim, uma ponte te le-
+va á Goron Village. 
+
+Vá andando até encontrar aquela coruja de novo.Ela fala com você e sai voando.
+Bem, pule nas plataformas invisíveis nos quais as penas dela caem(cuidado: são
+de gelo e o risco de cair é alto...e as penas somem:(),até a caverna ao longe.
+
+Abra o baú no centro dessa caverna. Você acha as Lens of Truth,que permite ver
+o invisível! Nessa caverna mesmo acham-se baús com Rupees. 
+
+Saia e ative a Lens of Truth pra ver as platafomas até o outro lado. Daí você 
+percebe um fantasma Goron. Encare-o. Ele fica surpreso, e pede pra seguí-lo.
+Vá(pra economizar magia,desative a LoT e siga a sombra).
+
+Ele te leva até Mountain Village.Ele passa pro outro lado de um lago meio con-
+gelado e começa a subir. Com a Lens, veja a escada escondida na parede. Suba e
+fale com o fantasma. Entre.
+
+É a tumba desse Goron...ele pede pra você "curá-lo".Então toque a Song of Hea-
+ling!O fantasma, Darmini, torna-se a Goron Mask. Link pode virar Goron! Mais 
+exatamente, pode virar Darmini! Encha uma garrafa com essa água quente. Agora
+volte pro lugar das duas ilhas.
+
+Na segunda, tem um buraco coberto de gelo.Solte a água quente no gelo,que der-
+rete e revela outra fonte de água quente. Não caia. Vá pra frente.Desça um ní-
+vel e vá pra porta do Goron Shrine (fica perto do Deku vendedor). Enrole-se
+(A) e bata no chão (B). A porta se abre.
+
+Lá dentro,fale com o Goronzinho que está soltando esse choro insuportável 
+(minha mãe achou que fosse um gato...). Agora caia na fonte quente que nós re-
+velamos e encha uma garrafa.
+
+Saia,e desça pro rio congelado.Espere Tatl ficar verde sobre uma bola de neve,
+e vá para essa bola. Exploda-a e descongele o Goron Elder com a água quente.
+Vire Darmini, e fale com o Elder. Ele te ensina a Lullaby Intro para acalmar
+o filho.
+
+Vamos atrás desse garotinho chorão. Vá pro Goron Shrine, e toque a Lullaby 
+Intro.O Goron pára de chorar e te ensina a Goron Lullaby toda antes de dormir.
+A menos que queira alguma coisa, volte pro Primeiro Dia.
+   _________________________________________________________________
+  / SNOWHEAD TEMPLE                                                /
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+De volta ao 1o dia, toque a Song of Inverted Time e transporte-se pra estátua
+de coruja em Mountain Village. Á esquerda, está o caminho para Snowhead. Suba
+a rampa.
+
+Lá, primeiro mate o morcego-congelador que dá voôs rasantes.Depois, vire Goron
+Link.Vire em direção a uma rampa para pular, e enrole-se.Vá rolando até saírem
+espinhos,dando um pulo titânico. Continue rolando,destruindo as bolas de neve 
+no caminho, e dê outro pulo. Agora prossiga.
+
+Snowhead Temple á vista! Volte ao normal, ative a estátua de coruja á esquerda
+e olhe para frente com a Lens of Truth. Um Goron gigantesco está soprando uma
+tempestade. Vire Goron Link, e toque a Goron Lullaby.Esse Goronzão adormece e
+cai,liberando o caminho.Agora vá rolando no caminho estreito(mas como a 
+"tração Goron" não é muito boa, eu costumo correr e só viro Goron para subir
+o rampão). Depois de passar da rampa, dois White Wolfos atacam.
+Mate-os ou fuja deles pela esquerda. Daí você vê uma rampa com bolas rolando 
+que leva até a entrada do templo. Pode-se usar o Goron Roll pra subir, mas 
+como eu já disse, a baixa "tração" me faz preferir o bom e velho Bunny Hood
+(e esquivar-se das bolas, claro!). Entre no templo no topo da rampa.
+
+Ao entrar, corte as estacas de gelo. Daí vire Goron e empurre o bloco até ele
+cair num buraco do chão. Bem, na sala seguinte, com um Wolfo,a porta na frente
+tá congelada, a esquerda trancada e a da direita, livre... preciso dizer pra 
+onde? 
+
+Primeiro caia. Atravesse a lava como Goron, veja que no meio do pilar na lava
+tem uma Stray Fairy numa bolha. Fleche-a e use a Great Fairy Mask (1/15).
+Suba de novo, posicione-se de frente pra ponte e vire Goron. Vá rolando,
+de modo a pular a ponte. Volte ao normal, e veja que embaixo da plataforma/
+escada na frente, tem outra Stray Fairy numa bolha. Flecha e GFM(2/15).
+Pule pra essa plataforma, e suba a escada. Mate o Bombchu (o bicho com uma
+bomba na cauda), pegue o mapa no baú e, no canto oposto, uma Stray Fairy
+(3/15). Volte pra sala da ponte, e vá pra outra porta.
+
+Primeiro, desça a escada á sua direita. Procure um bloco no meio de lava, 
+e pise nele como Goron. Surge um baú, com outra Stray Fairy (4/15). Suba de
+volta, e vá para o outro lado desse salão. Entre na porta ao lado de duas
+congeladas. Tem um dois blocos de Majora na parede. Puxe-os pra fora, entre
+no espaço aberto e pegue a chave no baú. Daí, empurre os blocos até o buraco
+no chão, entre as duas plataformas. Volte pro salão. Vá pra porta congelada
+com tochas do lado dela, e dê uma flechada que incendeie(descongelando)o gelo.
+
+Voltamos pra primeira sala... entre na porta trancada. Vá até o baú e pegue
+o compasso. Vá para a parede rachada. Solte uma bomba para explodi-la. Mas
+antes de entrar, saque uma bomba, e quando começar a piscar, solte-a na caixa
+no alto. Você liberta uma Stray Fairy, use a Great Fairy Mask (5/15). Agora
+suba a escada.
+
+Fleche os blocões de gelo no teto para eles caírem, liberando as plataformas.
+Quando você vir uma parte gelada (branca) na parede, use a Lens of Truth.
+Um local escondido... escale as plataformas até chegar lá. Abra o baú para
+a Stray Fairy (6/15). Pule até a plataforma com uma grande bola de neve, e 
+a exploda. Pegue a chave no baú, e vá destrancar a porta.
+
+Nessa sala, primeiro desça, mate os Boes e usando a Lens of Truth, procure
+um buraco escondido no teto. Vista a Great Fairy Mask e fleche esse buraco.
+(OBS: 3 itens simultâneos!)Uma Stray Fairy vêm até você(7/15). Agora, volte
+pra parte alta. Suba no "botão", vire Goron e esmague-o (A+B). Bem rápido,
+corra pro outro lado, esmague o botão verde, e esmague o "botão" amarelo(não
+o na frente da porta, óbvio).Corra pro botão verde no meio do cânion branco,
+escale-o e pule pra porta livre.
+
+Essa sala é feia... vire Goron e rolando, pule para o outro lado. Vê essa neve
+na parede direita? Bem, podemos rolar por cima dela. Faça isso até a porta da
+parte leste.Entre na sala, destrua o Freezard e com a Lens,procure plataformas
+escondidas (antes de começar a pulá-las, tire o Bunny Hood senão você cai...).
+No topo, há um baú com uma Stray Fairy (8/15). Volte pro bloco-duplo, e pule 
+na plataforma da porta. Destrua as bolas de neve pra repor sua magia, e dê
+outro pulo rolante. Entre para um mini-chefe...
+
+Wizrobe é um sujeito irritante, que você ainda vai ver mais 3 vezes! Há 4
+plataformas. Espere ele aparecer, trave Z e fleche-o. Cuidado com a magia
+que ele solta, que congela você e deixa o chão ruim...Depois de 3 flechas,
+ele cria 3 imagens falsas dele nas outras plataformas. Procure a "sólida"
+e meta uma flecha nela. Mais 3 flechas e já era. Surge um baú com as FIRE
+ARROWS! Flechas que incendeiam e derretem gelo!
+
+Saia da sala, e role de volta pro lado direito. Não precisa passar na neve:
+como Link, pule na "cesta" do lado e siga pra parte norte. Fleche com a Fire
+Arrow o bloco de gelo, e siga pela escada liberada. Role sobre a neve. Volte 
+ao normal, e olhe na parede com a neve com a Lens of Truth.Olhando para baixo,
+você vê uma plataforma escondida...suba na neve e tente entrar nela.Lá dentro,
+outra Stray Fairy (9/15).Depois dessa trucagem,caia(se não quiser se machucar,
+pode usar a flor) em frente a uma porta congelada e verde. Derreta o gelo e
+entre.
+
+Primeiro, Fire Arrows nos Freezards pra surgir um baú com outra Stray Fairy
+(10/15). Daí, incendeie as 3 tochas para abrir uma porta. Pule até ela. Lá 
+dentro,esmague o botão como Goron. O pilar central sobe. 
+(OBS.: se você cair, descongele a flor encoberta em gelo e ejete-se até em 
+cima de novo como Deku)
+
+Volte, e vá pra oeste. Descongele a porta e... de volta ao salão. Entre na
+porta vermelha.Volte á sala da ponte e os Freezards, incendeie todos, e surge
+um baú.Incendeie o bloco de gelo,pule a ponte e vá pegar uma chave. Caia, e
+suba de volta.De volta á sala do Wolfo.
+
+Agora entre na outra sala. Vá até o botão congelado e use uma Fire Arrow.Pise
+e um baú surge. Descongele o bloco atrás de você, e empurre-o até que possa-se
+pular na plataforma do baú.Pegue a Stray Fairy (11/15).Desça, e empurre o blo-
+co de modo a alcançar a plataforma da tocha no outro lado.Pule nela,e entre.
+Reconhece o bloco duplo que nós empurramos?Use-o pra alcançar o outro lado - e
+a Stray Fairy no baú (12/15).
+
+Volte pra sala dos Freezards e da ponte. Pule a dita-cuja, e suba as escadas
+(sala do Compasso e Bombchu). Suba na plataforma (parece um altar) e incendeie
+o Freezard e o olho congelado. A plataforma sobe. Saia. Vá até o pilar, vire
+Goron e esmurre os blocos de gelo (azuis). Depois, usando-se da "cesta", vá
+pro lado norte e suba as escadas. Bata no bloco azul, depois role pro lado
+leste e bata no outro. Volte pra onde viemos... e foi criada uma ponte!Primeiro
+entre na sala do lado direito, com uns bichos que atiram neve em você,e use a 
+Lens of Truth na parede para ver uma bolha com uma Stray Fairy.Flecha, e GFM 
+(13\15). Volte, e vá pro lado norte da sala.Tire as bolas com explosões ou mur-
+ros Goron. Suba a escada no final.
+
+Dê um pulo rolante, e vire Deku. Use a flor pra se ejetar para o lado oeste,
+e entre na porta. Mate os Dinalfos para uma (13/15), não, DUAS Stray Fairies
+(14/15)! TODAS! Saia, caia no pilar e prossiga novamente até a flor. Agora
+prossiga á leste.
+
+Wizrobe, de novo :P! É mais difícil porque são mais plataformas, distantes
+umas das outras. Mas com as Fire Arrows, 4 flechas já o matam! Entre
+na porta que se abre, pegue a Boss Key no baú, e arranje seu caminho até 
+a câmara (atrás da flor, se você é distraído).
+(se você pulou a Stray Fairy 9, tente agora. É fácil voando como Deku)
+
+Lá dentro, quebre o vaso verde para pegar magia, e use uma Fire Arrow
+no bicho congelado. Masked Mechanical Monster Goht ataca! Seção Chefes...
+E essa luta é horrível.Depois de terminar, pegue o Heart Container e a
+máscara (Goht's Remains). Você liberta o segundo gigante. 
+E a primavera volta á Mountain Village. 
+   _________________________________________________________________
+  / EU TENHO A FORÇA!                                              /
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+O título é meio infame... mas visto que vamos conseguir belos upgrades (inclu-
+sive de espada), até que é adequado. Toda a seção é opcional.
+
+Você volta do templo em Mountain Village. Vá pra cabana, que é a casa de um
+ferreiro. Dê sua espada e 100 rupees e ele vai aperfeiçoá-la, e entregar
+amanhã. Agora vamos devolver as Stray Fairies. Use a Song of Soaring e vol-
+te á Snowhead.Quando você já tiver passado o rampão depois do trechinho es-
+treito, siga á direita.Quando achar uma caverna, entre. É uma fonte de 
+Grande Fada... as Stray Fairies reconstituem a tal. E em troca, ela DOBRA
+seu poder mágico!
+
+Agora vá pra Goron Village. Entre no Goron Shrine como Darmini e vá pra parte
+alta. Fale com o Elder, que te informará sobre as Corridas Goron. Saia do
+Shrine, e vá andando até perceber uma entrada antes congelada. Desça nela.
+Fale com o Goron gigante sobre Powder Kegs. Ele te dá um de teste, pedindo
+que você libere a entrada da Goron Racetrack. Para tirá-lo daqui, vá arremes-
+sando ele ladeira por ladeira. Daí carregue-o até o comecinho do lugar das
+duas ilhas. Tem uma rampa gigantesca. Chegue perto dela, arremesse o Powder
+Keg, suba a rampa, arremesse de novo, suba a rampa, e faça assim até plantar
+a bomba sob o pedrão na entrada. A Goron Racetrack está livre!
+
+Entre, e fale com o menino Goron para entrar na corrida. Para vencer, eu
+sugiro atropelar o máximo de potes,tomar impulso em muitas rampas e se esqui-
+var de tudo. E talvez fechar alguém... Se você ganhar, o garoto te dá uma gar-
+rafa cheia de Gold Dust.
+
+Com a Song of Soaring, volte pra Mountain Village. Se deu tempo, pegue sua
+espada. Se não, toque a Song of Double Time até dar o tempo. Pegue a Razor
+Sword, aperfeiçoada, mas perdendo o corte depois de 100 golpes:|. Fale com
+o ferreiro de novo, e ele pede o Gold Dust. Mostre-o, e ele pega sua espada
+de novo. Agora pule pro dia seguinte com a Song of Double Time...e pegue
+a Gilded Sword, 3 vezes mais poderosa que sua espada inicial! Fale com o
+Goron dos Powder Kegs para ser certificado e poder comprá-los! Volte no
+tempo...
+
+"Um cavalo, meu reino por um cavalo".Sim, vamos recuperar Epona:D...
+Toque a Song of Inverted Time, e pegue 60 Rupees no banco. Entre na loja
+de bombas e vire Goron Link. Fale com o Goron lá dentro e compre um Powder
+Keg. Use a Song of Soaring para ir á Milk Road. Vá para a pedra no meio
+do caminho, vire Goron e plante o Powder Keg...boom!O caminho está livre:)
+Siga pro Romani Ranch (com o Bunny Hood) e procure a garotinha Romani.
+Ela fala sobre "eles", os aliens (sim, agora Zelda tem ETs!) que vêm roubar
+vacas. Segura o riso... e ela pede pra Link ser seu assistente. Aceite, e
+ela te passa um desafio.
+
+Este é estourar todos os balões em menos de 2 minutos. Faça-o e ela te ensina
+Epona's Song, e Epona volta pra você. Romani pede pra voltar ás 2 da manhã.
+Então volte pra Milk Road. Procure um caminho sem ser o de Termina Field (e
+Romani Ranch).
+
+Você entra na Gorman Racetrack, comandada pelos suspeitos irmãos Gorman.
+Chame Epona, monte nela e fale com os irmãos. Eles pedem 10 Rupees para
+apostar corrida. Entre! Para vencer use as cenouras (batidas para acelerar)
+sabiamente, e pule o máximo de cercas e buracos possíveis, para conseguir
+uma vantagenzinha. A poucos metros da chegada, use todas as cenouras.
+Após vencer, os Gorman Brothers te dão a Garo's Mask, usada mais tarde.
+
+Volte para Clock Town. Consiga 30 Rupees, e compre poção vermelha em West
+CT. Saia por East CT, e chame Epona. Siga em frente. Quando parar num grande
+muro, desmonte. Procure um círculo de pedras e olhe usando a Lens of Truth.
+Um soldado ferido invísivel. Fale com Shiro, e ele pede um curativo.
+Dê a poção, e ele te dá em troca a Stone Mask, que te torna invisível
+a todos (menos chefes e mini-chefes, mas aí seria pedir demais...:).
+
+Pegue Heart Pieces, faça tudo possível até meia-noite. Aí saia por North Clock
+Town, e procure um homem naqueles cogumelos de pedra. Pule pra onde ele tá.
+Fale com Kamaro, e toque a Song of Healing. Ele agradece com a Kamaro's Mask. 
+
+Agora zarpe pro rancho, já que deve ser perto de 2. Abasteça-se de flechas
+nos arbustos perto do celeiro, e fale com Romani dentro dele. Saia, e espere
+"eles" chegarem. Se a Inverted Song of Time está ligada, eles estão devagar,
+e são fáceis. Se não, estão mais rápidos. De qualquer maneira, fleche-os antes
+que eles se aproximem demais do celeiro. Ao nascer do sol (5:30AM), "eles" 
+somem. Romani te recompensa com uma garrafa de leite.
+
+Parte 2! Entre no celeiro e fale com a irmã mais velha, Cremia. Ela diz que 
+sairá as 6PM para levar leite. Saia do celeiro, toque a Song of Double Time 
+e já são 6 :D. Fale com Cremia na carroça, e ela te leva junto. Ela resolve 
+tomar um atalho pela Gorman Racetrack... e os Gormans atacam! Fleche-os antes
+que eles alcancem o leite e quebrem-o!
+
+Ao final do caminho, Cremia agradece com a Romani Mask. Agora o bar de leite,
+Latte (ECT), está liberado! Podemos comprar leite (GOT MILK?) e Chateau Romani
+(como diria Paulo Bonfá: "o primeiro vinho de leite do mundo"), que dá MAGIA 
+INFINITA! A menos que queira pegar algo, volte no tempo.
+
+   ______________________________________________________________
+  / LENDAS DO MAR                                               /
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Agora, sim, o terceiro templo.Inverted Song of Time,saia por West Clock Town e
+chame Epona. Siga em frente, e esteja bem rápido na hora de pular a cerca(para
+isso,bata em Epona na hora exata). Logo você chega á praia.
+
+Tatl fala sobre as gaivotas fazendo um círculo. Nade até o local, e veja que é
+um Zora. Empurre-o até a praia. Ele anda um pouco e cai. Fale com ele, e ele 
+revela ser Mikau, guitarrista da banda Indigo-gos. Vai cantar uma música con-
+tando sua situação,e pedir descanso pra alma. Toque a Song of Healing. A alma
+de Mikau se encerrra na Zora Mask, e segue-se o enterro (o túmulo dele tem 
+instruções com aqueles "yeah" ao fundo :). Agora você pode se passar por Mikau,
+e nadar, andar sob a água e lutar bem demais.Depois disso tudo, vá pra Cabana
+do Pescador(Fisherman's Hut),atrás de onde está o túmulo.
+
+Fale com o homem. Ele diz que a pescaria não anda rendendo, ele só conseguiu 
+um cavalo-marinho, e diz que você o dará se você der pra ele uma foto de uma 
+guarda Gerudo...pervertido. Antes de irmos caçar essa foto, primeiro vá até a
+construção em forma de gancho no meio do mar (como Zora é mais fácil) e ative
+a estátua de coruja (Tingle está no céu se você quiser mapas). Volte pra 
+praia, e vamos descobrir sobre os Zora.
+
+Vá para o lado oeste de Great Bay e ache passagem para Zora Cape. Como Zora
+Link, nade até a grande formação em forma de rabo de sereia. Afunde, mate o 
+Like-Like na porta e entre no Zora Hall. Como Mikau, você pode entrar em qual-
+quer lugar. Primeiro, vá para o líder e tecladista Evan. Fale com ele e descu-
+bra sobre a situação de Lulu, a cantora, e alguns ovos.Daí, procure um pátio
+no salão que leve para a parte de cima. De lá, vá pro lado de fora.
+Você vê Lulu (caso vc tenha jogado Ocarina, ela parece familiar...), sem voz e
+deprimida,e o mais importante: uma estátua de coruja. Ative-a.Com a Song of 
+Soaring, vá pra estátua de Great Bay Coast.
+
+Vá nadando pra norte(da estátua), ou melhor, leste (da entrada de Great Bay) 
+até achar um muro.Afunde.Você deve ver umas placas de madeira com ossos cruza-
+dos. Um deles revela um buraco.Entre nele... e estamos no covil das piratas!
+
+Pra começar, use a Stone Mask, porque se as guardas te vêem, considere-se fora
+desse lugar.Pule num barco para pegar carona(ou nade,mas aqueles peixes-esque-
+leto vão te arrebentar,então é o outro jeito é mais seguro). Desça numa rampa
+na parte noroeste.Suba pro alto dessa rampa, suba no botão, vire Goron e aper-
+te-o. Rapidamente vire Zora,pule n'água, e afunde. Entre nas portas abertas e 
+estaremos num corredor apertado.
+
+Nade até achar uma cerca. Afunde, e destrua a placa de madeira (A).Daí, ande
+até o bloco de Majora e puxe. Depois, mais duas placas pra destruir.Então 
+empurre o bloco para entrar no "corredor". É só ir seguindo até uma saída de
+ar quente que te ejeta pra cima. Fique na superfície até ver uma saída de ar 
+que pode te empurrar pra fora... afunde antes dela e vá andando até a parede.
+Suba de novo, e entre na porta. Se esquive das minas até a superfície. (vê o
+pedaço de coração? Se o quiser, consulte a seção Heart Pieces).
+Não temos saída... bem, suba a escada e volte ao normal. Role em cima de um
+barril para abrir caminho, e fleche o cristal. Se não tiver flechas, solte
+os bumerangues Zora. Daí pule n'água e como Zora nade rápido pra porta aberta.
+
+Siga o caminho, permanecendo á superfície (cuidado com as minas) e suba a
+escada no final. Pise no botão, suba na saída de ar inativa, e fleche/solte
+os bumerangues no cristal. Você alcança o andar de cima. Suba a escada ao
+lado, e como Zora, solte os bumerangues nas minas suspensas. Elas explodem e
+ativam um cristal(se não ativarem, fleche-o). Caia e entre na porta. Você
+está do lado de fora. Siga o caminho até a porta da fortaleza.
+
+Agora, é vestir a Stone Mask. Chegue perto de uma guarda e tire uma foto
+dela pro pescador. Se quiser se divertir/relaxar, pode golpear/flechar as
+guardas que elas ficam caídas por 10 segundos. Suba a escada no centro do
+pátio e atravesse a ponte. Entre na porta.
+
+Segue uma pequena cena, com uma abelha e as chefes Gerudo discutindo os
+planos dos ovos Zora. Quando o controle voltar, Tatl te diz: parece que
+podemos flechar entre as barras... sabendo disso, fleche a colméia!
+As Gerudo lá embaixo saem correndo das abelhas assassinas! Saia dessa sala,
+e caia pra direita. Você entra na sala das chefes. Abra o baú e consiga
+o Hookshot! OK, "Gancho" serviria, mas eu gosto desse nome. Vamos estreá-lo:
+enganche-se na plataforma de madeira em cima do aquário e caia nele. Vire
+Zora, afunde e engarrafe o ovo. Evite a ostra homicida! Saia do aquário e
+deixe a sala(não esqueça de voltar com a Stone Mask!). 
+
+Caia lá embaixo, e siga pra frente. Você vê um alvo de Hookshot. Use-o!
+Escale-o e enganche-se em outro pilar-alvo. Entre na porta, e siga á esquerda.
+Daí você enfrenta uma das chefes Gerudo,que conseguem te ver apesar da Stone
+Mask. Basta travar Z nela, se esquivar e meter espada. 3 golpes e ela é derro-
+tada e some com uma bomba de fumaça. Entre na sala que abre.
+
+O aquário está cheio dos peixes mortos-vivos...enganche-se na tábua, caia,vire
+Zora e eletrocute os peixes! Daí engarrafe outro ovo. Saia do aquário e siga 
+pela porta com âncora para voltar ao pátio.
+
+Caia, siga em frente até o poste-alvo, enganche-se e enganche-se de novo.
+Entre na porta do lado desse 2o poste. Atravesse a sala e enfrente outra
+chefe Gerudo. Siga pela porta, enganche-se, afunde e pegue o ovo.
+
+Sabe o pior? São 4 ovos. E nossas garrafas JÁ ACABARAM! Mas ¡"te queda
+tranquilo"! Toque a Song of Soaring, suba a escada pro laboratório, e 
+fale com o homem como Zora. Ele pede pra você descarregar os ovos no aquário.
+Faça-o, e nade de volta pro covil.Mas na rampa do botão,basta usar o Hookshot
+e se enganchar pra fortaleza.
+
+Siga pra esquerda, enganche-se no poste, enganche-se no outro e o escale, 
+para alcançar um 3o poste. Atravesse a ponte e abra a porta. Ignore o
+baú, a menos que queira 100 rupees, e siga até a porta. A 3a e última chefe 
+Gerudo! Quando terminar, siga pela porta e repita o processo do ovo.
+Daí toque a Song of Soaring, deixe o ovo no laboratório, e nade até a praia.
+Dê a foto ao pescador, e ele te dá o cavalo-marinho.
+
+Nade até Pinnacle Rock (fica entre os dois pilares no meio do mar). Solte o
+cavalo-marinho e siga-o (se você for pro caminho errado volta pro começo!).
+Daí ele te leva prum poço cheio de serpentes marinhas no qual o parceiro
+dele se meteu. Entre no poço, atraia as enguias e eletrocute-as (botão R).
+Quando todas morrerem, os hipocampos (nome científico, ué!) se reúnem e te dão
+um pedaço de coração. Entre nos buracos das enguias para pegar os 3 ovos res-
+tantes.Nade até o laboratório,e bote os ovos lá.Os zorinhas nascem e formam...
+uma partitura? Bem, tire a Ocarina e aprenda a (que nome!)New Wave Bossa Nova.
+O velho diz pra você tocar para Lulu.Mas como precisamos de todo o tempo 
+possível para vencer Great Bay Temple, volte no tempo (a menos que queira
+pegar Heart Pieces ou coisa do tipo).
+
+   _________________________________________________________________
+  / GREAT BAY TEMPLE                                               /
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Uma sugestão para esse templo é comprar Chateau Romani. Mas o bar só abre ás
+10PM. Portanto (A) só começamos depois de comprar (B) começamos o templo,pega-
+mos o mapa, o compasso e talvez o tesouro (não vou estragar ainda) e saímos
+pra comprar o tal (prefiro essa!). Mas antes de entar no Great Bay Temple, 
+pegue duas fadas (um modo fácil é viajar pra estátuas de coruja, visto que 
+perto de todas tem uma escondida).
+
+Mas voltando ao detonado, toque a Inverted Song of Time, e vá pra Zora Cape.
+Você aterrisa ao lado de Lulu. Vire Zora e toque a New Wave Bossa Nova.
+A voz de Lulu volta, e uma tartaruga gigante emerge. Ela diz que te levará ao
+Templo. Para isso, enganche-se nos coqueiros no casco da tartaruga.
+Segue uma cena meio engraçada,no qual as Gerudo tentam te alcançar e são joga-
+das longe por um redemoinho, e você chega na porta do templo. 
+
+Primeiro,acenda com as Fire Arrows todas as tochas.Surge um baú com a primeira
+Stray Fairy (1/15). Agora entre na porta para realmente começarmos o templo!
+
+Você vê um complexo mecanismo aquático. Vire Zora, pule n'água, e afunde.
+Liberte a Stray Fairy e pegue-a (2/15).Volte pra superfície,suba na plataforma
+subinte á direita da porta que entramos, e vá pra plataforma lá no alto. Corra
+pra parede antes que a Skulltula te pegue! Agora mate-a e liberta outra Stray
+Fairy(3/15). Comecemos a ação. Vá pro canto nordeste,procure uma alavanca numa
+plataforma de borda amarela. Empurre essa alavanca (como Zora). Um gêiser 
+começa a subir. Vá pra outra plataforma subinte perto da porta da entrada, e
+pule na plataforma do alto. Evite as Skulltulas, e use o gêiser para pular até
+o lado. Siga até a porta.
+
+Tatl percebe que essa roda está dando força ao lugar. Caia pra esquerda, suba
+a escada, e role no barril para uma Stray Fairy (4/15). Vire Zora, afunde no
+tanque, e quebre o pote no meio da sala com os bumerangues. Suba á superfície,
+volte a ser Link e ponha a Great Fairy Mask. A Stray Fairy vem até você(5/15)!
+Volte a ser Zora, afunde e entre num corredor com canos vermelhos e verdes
+(no "3o andar" do tanque).
+
+Você chega num corredor com peixes-esqueleto. vá pruma plataforma, volte
+ao normal e enganche-se no baú. Pegue o mapa nele. Daí, vista a Great Fairy
+Mask e use o Hookshot nos potes na sua frente. Um deles tem uma Stray Fairy
+(6/15). Zora de novo, afunde e vá até um corredor com estranhas mãos, as
+Dexihands. Meta bumerangue nelas e siga no corredor.
+
+Afunde e mate os Bio Deku Babas com seus bumerangues. Vá pro outro lado, volte
+ao normal, use as folhas das BDB para chegar até outra. Hookshot ou flecha!
+Um baú surge, enganche-se nele e pegue outra Stray Fairy (7/15). Entre na
+porta do outro lado.
+
+Siga imediatamente á frente. Fleche as Bio Deku Babas sob a água e o Bombchu
+na plataforma do baú. Use as folhas e o Hookshot para chegar no baú, que tem
+o compasso. Afunde no poço que você atravessou, mate os bichos lá em baixo
+e pegue a chave no baú. Volte pra plataforma que começamos, e use o Hookshot
+no pote lá embaixo. Use a Great Fairy Mask para atrair a Stray Fairy(8/15).
+Pule no "canal", e a forte correnteza te leva de volta pro tanque.
+
+Afunde e entre no corredor com canos vermelhos. Na sala que chega, volte á
+superfície e use um cano vermelho para chegar até uma porta. Abra-a, volte
+ao normal, quebre os potes e mate os bichos para se abastecer pro mini-chefe
+na próxima sala.
+
+Aponte o arco pra criatura no teto e Wart cai. Wart é igual a um
+chefe de A Link to the Past, e me lembra um jogo legal de Mega Drive,
+Altered Beast. Ele é um olhão com um monte de bolhas-olhos em torno dele.
+Se você já tem magia infinita (Chateau Romani), trave Z nele, meta uma Fire
+Arrow e dê espadada nos olhos que se soltam. Repita o processo até poder 
+flechar o "grande olho". Depois de umas flechadas, Wart solta os olhinhos
+e começa a correr pela sala. Quando o olho estiver aberto, meta espadada,
+flecha ou Hookshot nele até EXPLODIR! Surge um baú com as ICE ARROWS!
+Gelo á vontade!
+
+Volte 2 vezes, e vá pruma das plataformas nos cantos. Congele um Octorok
+com a Ice Arrow para usá-lo de plataforma e alcançar o centro. Empurre a
+alavanca, caia n'água e volte pro tanque.
+
+Volte á superfície, suba uma escada e pule numa pá quando ela vier. Daí
+vá pro "corredor" central. Meta uma Ice Arrow no alto da cachoeira para poder
+subir a escada. Entre na sala.
+
+Mate o Tektite, e crie plataformas de gelo na água com as Ice Arrows, até
+alcançar a plataforma com uma alavanca. Empurre-a, e crie plataformas até
+o canto noroeste dessa sala. Olha para cima, e meta o Hookshot no alvo
+antes que a plataforma derreta! Pegue a Stray Fairy no baú (9/15), caia de
+volta e volte pra sala do tanque. 
+
+Faça o caminho de volta pra sala do mapa. Vê um corredor alto com pilares
+de gelo? Crie plataformas de gelo até lá. Corte os gelos para conseguir magia,
+flechas e corações, e descongele a porta com uma Fire Arrow.Entre.
+
+OUTRO GEKKO! AAAAH! E esse é complicado. Primeiro trave Z nele, e tente 
+mandar-lhe uma Ice Arrow, ao conseguir, ele pega toda aquela gosma e sobe
+pro teto. CORRA senão ele te pega na bolha e te espanca! Espere ele cair,
+trave Z de novo, e quando estiver no alto solte uma Ice Arrow. A bolha
+congela e quebra ao cair. Repita 4 vezes até vencê-lo. Entre na porta que abre
+e pegue a Boss Key no baú.
+
+Agora voltemos pro tanque. Entre no corredor verde e vermelho de novo, mas
+não entre no corredor dos Tektites. Em vez de disso, criemos plataformas de
+gelo até aquela porta que parece inacessível. Entre nela. Lá dentro,atraia
+o ChuChu pra perto da plataforma com a alavanca, congele-o e escale ele para
+alcançar a alavanca. Empurre-a, e volte pro tanque, e daí pra primeira sala
+(não a da tartaruga, mané!). Olhe pro alto á direita. Um alvo de Hookshot.
+Enganche-se! Você cai num gêiser. Quando ele subir, pule na plataforma da
+alavanca, e a empurre! Daí pule pra alavanca amarela e a empurre.
+
+Volte pro tanque. Entre num corredor verde e vermelho e seja puxado até uma
+sala totalmente nova. Vá até uma plataforma subinte, e estando lá em cima, 
+congele a água que cai. Tudo pára. Caia numa plataforma próxima da roda, e
+suba no eixo. Em cima da roda, procure um ângulo para acertar o baú atrás
+de você. Enganche-se nele e pegue a Stray Fairy (10/15). Daí, caia numa plata-
+forma embaixo, e pule na roda (como parece uma rosa-dos-ventos, pá oeste).
+Arranje um ângulo para se enganchar em outro baú, e pegar a Stray Fairy
+(11/15). Volte pra plataforma no canto, descongele a queda d'água com uma
+Fire Arrow, suba na plataforma, e lá no alto recongele. Daí use a roda parada
+para chegar do outro lado da sala. 
+
+Caia, e afunde no buraco sob a gangorra como Zora. Role no barril para liber-
+tar uma Stray Fairy(12/15). Volte pra cima. Como Link normal, ande á noroeste
+até subir numa gangorra(subir não significa ir pro alto dela!). Olhe pra cima,
+ e solte uma Fire Arrow na queda d'água congelada.A gangorra (e você) sobem.
+Pule pra gangorra do seu lado, e descongele outra queda. Subindo... pule na
+plataforma da alavanca e a empurre. Ande no cano que leva á parede, escale-o
+como Zora, e caia dentro de uma "jaula". Volte ao normal, e enganche-se no
+baú. Pegue a Stray Fairy (13/15).Caia no buraco, e vá pra gangorra que sobrou.
+Descongele subindo, pule na plataforma e vá pro corredor. Essa sala é 
+familiar... pule n'água e volte pro tanque.  
+
+Afunde e entre no corredor verde. Suba no cano, e quando estiver fora d'água
+volte ao normal. Fleche a Stray Fairy e use a Great Fairy Mask (14/15). Pule 
+de novo n'água, e procure uma saída (mas não entre). Veja, uma Stray Fairy. 
+Liberte-a com seus bumerangues,volte á superfície e a atraia com a GFM(15/15).
+PRONTO! Vá pelo cano para ir até a alavanca, empurre-a e use o gêiser que
+surge para alcançar a sala do chefão! É só cair no buraco, e enfrentar 
+Gargantuan Masked Fish Gyorg! O chefe mais difícil, até a Máscara de Majora
+vai ser mais fácil... ver seção Chefes. Ao vencer, pegue o Heart Container, e
+saia daí pegando a máscara(Gyorg's Remains)! 
+
+Depois da cena,vamos entregar as Stray Fairies.Na praia que leva ao Zora Hall
+(Zora Cape), nota umas pedras que fazem um caminho? Siga-as, enganchando-se 
+nas árvores quando preciso, você chega a duas grandes pedras. Exploda-as e 
+entre na Fonte. Reconstrua a Grande Fada, e em troca ela te dá Double Defense,
+reduzindo os danos em 50%!! Agora vai ficar muito fácil! Bem, depois de pegar
+algo se quiser, volte no tempo.
+
+(sugestão:antes de voltar no tempo, vá pra parte leste de Great Bay Coast e 
+jogue o jogo do pescador - ver seção Heart Pieces)
+   _________________________________________________________________
+  / LINK CONSEGUE UNS UPGRADES                                     /
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Como o título mostra, antes de Ikana precisamos pegar uns itens. 
+
+Toque a Inverted Song of Time e vá para Great Bay Coast.Siga á oeste para Zora
+Cape, e continue a oeste, até ver uma palmeira quebrada.Suba nela, e se engan-
+che na palmeira lá em cima. Enganche-se até achar uma abertura na parede opos-
+ta. Entre.
+
+Vire Zora, pule na represa e tente falar com o castor. Ele afunda, siga-o.
+Fale com ele, e ele te desafia para uma corrida. Esta consiste em passar por
+todos os anéis n'água em certo tempo e ordem. Após vencer, o irmão do castor
+te desafia para outra corrida, com mais anéis e menos tempo. Vença essa 2a
+e ganhe uma garrafa! Vença os dois outra vez e ganhe um pedaço de coração!
+
+Depois disso tudo, volte á Great Bay Coast, e entre na Ocean Spider House (do
+lado da cabana do pescador).Pra saber como vencê-la,ver a seção Spider Houses.
+Após matar as 30 Skulltulas,volte á entrada e um rapaz confuso te dá a Giant's
+Wallet!Podemos carregar 500 rupees!
+
+Deve ser perto de 10PM, vá pra Clock TOwn e entre em Latte, o bar de leite.
+Fale com o Zora, Toto,empresário dos Indigo-gos. Ele pede pra você ajudá-lo no´
+teste de som. Suba ao palco e toque as notas. Daí volte a falar com Toto como
+Deku, Goron e Zora,e faça o teste com os 3.A canção dos 4 faz o Gorman chorar.
+Por isso ele te dá a Circus Leader's Mask.(se você olhar a seção Máscaras, vai
+ver que é inútil!). Aproveite e passe em North Clock Town á meia-noite, e sal-
+ve a velha da loja de bombas de novo.
+
+Agora vá pra Southern Swamp,compre 3 feijões do Deku na Cabine de Informações,
+e vá pra Woodfall. Saia dessa área para o brejo e procure uma ilha com uma 
+tocha. Incendeie a teia de aranha (Deku Stick na tocha e na teia, ou Fire 
+Arrow), e entre na Swamp Spider House.Seção Spider Houses... ao vencê-la, o 
+homem antes amaldiçoado te dá a Mask of Truth.
+
+Arranje 500 rupees, volte á Clock Town, e toque a Song of Double Time até a
+noite do Dia Final.Entre na Curiosity Shop em West CT e compre a All-Night 
+Mask por 500 rupees.
+Agora voltemos ao primeiro dia, para "abrirmos caminho" pro último templo.
+
+   _________________________________________________________________
+  / A NOITE DOS MORTOS-VIVOS                                       /
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Inverted Song of Time, saia por East Clock Town e chame Epona. Siga em frente.
+Pare perto do muro com o Garo. Olhe pra esquerda e você vê uma rampa/escada
+com uma placa que diz "Cemitério Ikana".  Siga pra lá!
+
+Vá em frente, passando pelos morcegos e pelo coveiro Dampé (um dos poucos de
+Ocarina com o nome original!). Você acha um prédio com um esqueleto gigante
+dormindo ao lado.Toque a Sonata of Awakening para ele. Ele acorda e te desafia
+á seguí-lo(lembre-se de botar o Bunny Hood)Fleche vez ou outra para freá-lo,
+e cuidado nas partes que cresce um fogo e os esqueletos te atacam. Destrua-os
+para parar o fogo. Depois de algumas flechas,Skull Keeta resolve brigar com 
+você. Fleche para paralisar e dê um jump attack (B, Z, A).Ás vezes ele tenta 
+te bater (esquive-se) e ás vezes, pula e tenta te esmagar(corra).Quando ele
+for derrotado, ele conta sua história, some e tira um círculo de fogo em torno
+de um baú. Vá até esse baú com o Hookshot, e pegue o Captain's Hat (apesar do 
+nome,é uma máscara). 
+
+Volte para as tumbas. Toque a Song of Double Time para noite chegar, e vista o
+Captain's Hat. Fale com os Stalfos, até um perguntar o que fazer com a tumba.
+Peça pra abrir.Quando estiver aberta e eles caírem, siga-os. 
+
+Vá pulando pelas plataformas até chegar a uma sala cheia de morcegos(matá-los
+faz um baú com 50 rupees aparecer).Acenda as tochas com Fire Arrows,e a porta
+abre. Siga.
+
+Enfrente o Iron Knuckle! Ele tem um machadão poderoso, que se não fosse a Dou-
+ble Defense,nos moeria. Enfim, fique próximo dele e meta espada consecutiva-
+mente, esquivando-se do machado. Primeiro cai uma parte da armadura. Depois 
+você o mata. A cortina sobe e você conhece Flat, o compositor. Ele diz que seu
+irmão Sharp vendeu a alma pro capeta e está em outro lugar, e pede que você 
+aprenda uma canção para salvar o espírito dele, e some.Vá até o bloco de pedra
+e trave Z. Você aprende a Song of Storms. Volte ao começo desse lugar, e use o
+raio de luz pra voltar á superfície. 
+
+Agora seria melhor voltar no tempo, mas vamos fazer algo antes.Toque a Song of
+Double Time até a Noite Final (a 2a noite pode te dar um coração, ver seção
+Heart Pieces).Peça aos Stalfos para abrirem a tumba, e caia. Siga a norte.
+Você acha Dampé, fale com ele e o sujeito pede pra você guiá-lo na busca por
+um tesouro. Primeiro, faça ele escavar todos os locais de solo até sair um 
+raio de luz (mas cuidado com uma mão filha da p*** que cai em você pra te 
+tirar daí). Daí puxe-o até um quadrado no chão. O quadrado e Dampé sobem,
+rapidamente vá para o destino dele, e traga-o até um solo elevado. Mande-o 
+escavar e liberte outra luz. Faça o mesmo com outro quadrado lá embaixo.Quando
+as 3 luzes estiverem lá, surge um Big Poe. Trave Z nele e fleche-o, só não o 
+faça quando ele estiver girando. Após vencê-lo, surge um baú. Pegue uma garra-
+fa nele.Toque a Song of Time...
+
+Inverted Song of Time, e pegue Epona fora de ECT. Mas no muro, pare e fale com
+o Garo.Vista a Garo Mask, e ele some e faz uma árvore surgir. Use o Hookshot
+para enganchar-se na árvore. Bote o Bunny Hood e siga pelo caminho, evitando 
+as pedras e os inimigos repentinos(e explosivos!). Logo você chega em Ikana. 
+Bote a Garo Mask. Ande e repentinamente um Garo surge. Acerte ele, acaba rápi-
+do. Antes de sumir, le fala sobre congelar as bestas do rio para atravessá-lo.
+
+Então vá pro rio, e congele o Octorok. Enganche-se na árvore. Escale-a, e pro-
+cure outra árvore lá em cima para se enganchar. Daí procure uma última árvore.
+Estando lá em cima,procure a estátua de coruja para ativá-la. Para evitar as
+múmias (Gibdos) e Tatl te aporrinhando sobre a "sede de sangue" que ela sente,
+vista a Garo Mask. Enfim, procure o rio seco e siga-o até uma caverna.
+
+Entre na água, e Sharp,o atualmente malvado irmão de Flat aparece, tocando uma
+canção que te fere. Rapidamente tire a Ocarina e toque a Song of Storms. Come-
+ça a chover lá dentro, e ele volta a ser bom. O rio volta a correr,e as múmias
+somem. Ele também pede pra você se livrar da fonte do mal em Ikana indo ao
+templo. Saia da caverna.
+
+Vá pra casa antes cercada pelas múmias. Você vê uma menina, e quando você se 
+aproxima dela, ela entra em casa. Vista a Stone Mask, plante uma bomba e saia
+de perto. Quando explodir, a menina sai. Rapidamente, entre na casa. NÃO TIRE
+A MÁSCARA!. Desça ao porão,e aproxime-se do armário. Sai um Gibdo, ou melhor,
+um homem meio-Gibdo! Toque a Song of Healing para encerrar o monstro na Gibdo
+Mask, e a menina se reúne ao agora curado pai.Saia dessa casa,e antes de irmos
+pro próximo calabouço (ou quase), precisamos de itens...
+
+Consiga 100 Rupees, e vá pra Southern Swamp.Compre do Deku no centro de infor-
+mações 5 feijões. Daí prossiga até a loja de poções. Tente comprar uma poção,
+e Koume diz que faltam ingredientes. Então, prossiga pra Woods of Mystery. 
+Siga o macaco até o primeiro Snapper, e bote a Mask of Scents. Um brilho dife-
+rente aparece. Chegue nele, e use uma garrafa. Você pega um cogumelo. Saia da
+floresta e entregue-o a Koume. Ela diz que fica pronto rápido. Saia da loja,
+e volte pra dentro. Compre a poção- ou melhor, receba de graça!
+Também consiga 10 Deku Nuts. Agora, volte á Ikana. 
+
+(sugiro entrar nesse link pra um mapa útil:
+db.gamefaqs.com/console/n64/file/zelda_majoras_mask_beneath_the_well.gif)
+
+Siga á esquerda até um poço, caia nele e siga o caminho. Ponha a Gibdo Mask,
+e siga em frente.Fale com o Gibdo e dê-lhe a poção para abrir caminho. Siga
+para a esquerda, pegue água e peixes.Atravesse o corredor,dê o peixe ao Gibdo
+esquerdo, e água ao outro. Pegue outro peixe.Volte pra primeira sala. Dê os 
+feijões ao outro Gibdo, e siga. Vá em frente á toda, e siga á esquerda.Dê o 
+peixe ("algo fresco") pra abrir caminho, então volte. Fale com o outro Gibdo e
+lhe dê as 10 Deku Nuts.Siga á direita,destroce os arbustos para pegar insetos.
+Volte ao corredor, siga em frente, mas não fale com o Gibdo. Em vez disso,siga
+á esquerda pra outro, que pede 10 bombas. Você enfrenta um Big Poe, mate-o e 
+engarrafe-o. Saia, e volte pro corredor do Gibdo do peixe.
+
+Vá pra esquerda. Mate o Dexihand,e pegue a água quente.Rapidamente vá praquele
+Gibdo que ignoramos. Dê a água quente. Na sala liberada, toque Epona's Song e
+a vaca te dá leite.
+
+Volte pra primeira sala,e entre no corredor do "poção",e prossiga no do"água".
+Atravesse o corredor com os troncos assassinos, e dê os insetos ao Gibdo na
+frente. Uma fonte de fadas...cure-se. O outro Gibdo também pede insetos, e 
+leva a um baú invisível com 50 rupees.
+
+Volte á primeira sala, siga no outro corredor, entre no corredor do "peixe", 
+e dê o Big Poe ao Gibdo em frente. No corredor que abre, vá a toda. Quando 
+achar um Gibdo, dê-lhe o leite.
+
+A última sala. Acenda as tochas para surgir um baú com o MIRROR SHIELD! Um 
+escudo que reflete luz. Vá até a parte iluminada e reflita a luz no sol da 
+parede. Quando acertar, uma escada aparece. Suba, e estaremos no Ancient 
+Castle of Ikana!
+   _________________________________________________________________
+  / UMA LUZ NA ESCURIDÃO                                           /
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+OK, pra realmente ganhar o Castle of Ikana, precisamos de um Powder Keg. Se
+você tem tempo, vá pra Clock Town e volte (ver próximo páragrafo). Se não,
+toque a Song of Time.
+
+Pegue 50 rupees e algumas flechas. Compre um Powder Keg na loja de Bombas, e
+siga pra Ikana Canyon. Vá pro outro lado do rio seco, até um portão fechado e
+a placa que diz que "o castelo de Ikana nunca mais será aberto". Certo, certo.
+Tem um buraco á esquerda do portão, entre nele. Daí, bata no cristal e um 
+exercício de paciência: faça a luz bater no sol do bloco azul. Quando você
+acertar, ele some. Siga pelo pátio (vista a Gibdo Mask) e entre no castelo.
+
+Ignore os zumbis (ReDeads) dançando (com a Gibdo/Garo Mask, normalmente eles
+tentam chupar tua vida...), e use Fire Arrows nos olhos congelados.
+Primeiro vá a esquerda. Bata no cristal, e o teto sobe. Corra até uma Deku
+Flower do lado de um pilar, vire Deku e entre na flor, antes que caia n'ocê!
+Ejete-se pro teto subir, e ejete-se de novo pra subir no pilar. Volte ao nor-
+mal para pisar no botão que libera a porta. Quando o teto cair, volte pro chão
+e abra a porta. 
+
+Nessa sala, vire Deku, e use a flor pra ir pro canto sudoeste. Olhe a Lens of
+Truth.Plataformas invísiveis!Pule até onde possa se matar a Skulltula cadente,
+e vá pra plataforma dela. Faça as minas na frente da porta explodirem(com os
+bumerangues Zora ou flechando-as), volte pra plataforma inicial e ejete-se até
+a porta. Na próxima sala,evite os Blue Bubbles (se eles te pegarem e você fi-
+car azul, toque a Song of Storms) e suba a escada.
+
+Telhado do castelo. Á direita, você pode ver um pedaço de coração (basta fle-
+char o cristal lá longe, e usar as flores nos pilares pra ir voando), mas suba
+na "passarela" e ande até uma plataforma com uma flor. Ejete-se até o botão,
+volte ao normal, ative-o (você revela um buraco no telhado)e desça ao chão. 
+Entre novamente no castelo.
+
+Agora vá na porta direita. Enfrente o Floormaster, aquela mão horrorosa!O mais
+fácil (e legal) é usar o Mirror Shield para matá-lo com a luz que vem do teto.
+Mas mate as 3 mãozinhas que o Floormaster se torna... depois disso, use o 
+Mirror Shield para tirar esse bloco-sol do caminho. Passe pelos ReDead, e 
+entre na sala.
+
+WIZROBE! AAAH! Pelo menos já sabemos como matá-lo (use as Ice Arrows)! Seu
+prêmio dessa vez é...porta aberta! Siga. Passe pelos ReDeads, e suba a escada.
+Chegue na rachadura, vire Goron e plante o Powder Keg. A luz entra no castelo.
+Caia no buraco,mate os ReDead com seu Mirror Shield(divertidíssimo!)e reflita
+a luz no bloco.Siga.
+
+Agora conhecemos o amaldiçoado Rei de Ikana. Primeiro os guardas dele atacam.
+Corra deles e incendeie as cortinas com Fire Arrows. Golpeie-os até caírem,
+e reflita luz no corpo pra "matar". Daí o Rei parte pra cima d'ocê! O processo
+é o mesmo, mas mais difícil, visto que ás vezes ele solta a cabeça pra te
+atacar (o que te impede de nocautear o corpo). Depois de derrotá-lo, Débi e
+Lóide, ops, os guardas(só cabeças) começam a discutir. Até o rei interromper.
+Ele diz que se chama Igos du Ikana, e que o mal veio da Stone Tower. Então te
+ensina a Elegy of Emptiness, que vai te ajudar a chegar nesse lugar. Daí saia
+do castelo e volte no tempo(a menos que queira pegar algo.Sinta-se livre, ué!)
+.
+   _________________________________________________________________
+  / STONE TOWER TEMPLE                                             /
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Agora, o último templo! Mas é melhor sair em certo ponto e pegar um Chateau
+Romani, senão o chefe fica difícil...
+
+Inverted Song of Time, Song of Soaring, Ikana Canyon. Suba a rampa e vá até
+uma entrada ladeada por corrimões trabalhados.
+
+Atravesse o abismo pulando pelos blocos, e do outro lado, pise no botão e
+toque a Elegy of Emptiness. Uma estátua de Link surge no lugar, segurando
+o botão. Use o Hookshot no poste lá em cima. Pise no botão, vire Goron e
+toque a Elegy. Volte ao normal, suba no poste, e enganche-se em outro poste.
+Pise no botão como Zora e toque a Elegy. Criamos uma sequência de blocos pro
+outro lado!
+
+Atravesse, e enganche-se no poste. Pise no botão e toque a Elegy, suba no pos-
+te, enganche-se noutro, vá no botão e toque a Elegy como Goron. Escale o poste
+(é bom explodir o Beamos antes, pra não ser fritado continuamente...)pra al-
+cançar outro, e pise no botão como Zora. Elegy... atravesse, e vá se engangan-
+chando de poste em poste, esquivando-se de pedras e morcegos de fogo.
+
+O último poste leva a uma plataforma com uma estátua de coruja (ative-a, a 
+menos que você não tenha ficado com vertigem ou de saco cheio nesse cânion:) 
+e três botões. Ative os três (com a Elegy) como Link, Goron e Zora. Atravesse
+o abismo e entre no Stone Tower Temple!
+
+Fleche as libélulas e o Bombchu, e depois fleche o olho amarelo lá em cima. 
+Surge um baú. Pule até ele e pegue a primeira Stray Fairy (1/15). Depois siga
+na porta á esquerda (da entrada, á direita do baú).
+
+Pise no botão próximo, e toque a Elegy. Mate o Bombchu, e ative (com Elegy) o
+próximo botão como Zora. Daí vá pro botãozão, pise nele como Goron e Elegy.
+Vá até uma parede rachada, exploda-a, destrua uma caixa rolando nela, pegue o
+caixote e deixe-o em cima do último botão. Siga pro pátio. 
+
+Há dois quadrados com cor diferente: um com moitas, outro sem. Exploda esse 
+sem, e caia no buraco. Use o Mirror Shield pra refletir a luz no bloco. Vire
+Goron, acorde os Armos (estátuas) na lava e do outro lado, e esmurre-os para
+torná-los explosivos. Surge um baú com uma chave. Pegue o Mapa no baú do outro
+lado da lava. Daí vá ao lugar da luz. Olhe pro alto, á esquerda. Um alvo de 
+Hookshot.Enganche-se, e pegue a Stray Fairy no baú (2/15). Volte pro andar de
+cima.
+
+Abra a porta trancada, vire Zora e pule n'água. Vá nadando e dê um "salto gol-
+finho"(afunde nadando, e ao emergir você pula) para alcançar o outro lado. 
+Pegue a chave no baú, volte pra água e afunde. Mate o Dexihand e siga pelo 
+corredor.
+
+Primeiro afunde, e ative o botão cercado de minas. Surge um baú de ponta-cabe-
+ça(espere e verá!). Vá pra superfície, e suba na passarela. Vê um espelho na 
+parede? Fique sob a luz, e usando seu escudo, "carregue" o espelho. Daí corra,
+e use a luz do espelho para refletí-la no bloco azul. Pegue o compasso na 
+salinha á esquerda da porta, e volte pra passarela. Abra a porta trancada.
+
+(use a Stone Mask ou mate todos os Boes para se concentrar)Vire Goron e esmur-
+re o pilar até a luz chegar ao chão. Daí, reflita a luz num dos sóis do lado 
+direito para surgir um baú com uma Stray Fairy (3/15).  Daí volte pra luz e 
+começa algo difícil: "carregue" o espelho de luz direito, faça-o soltá-la e 
+reflita essa luz no bloco azul. Siga no caminho que segue, mate o inimigo 
+repentino, e pegue a Stray Fairy no baú (4/15). Daí repita o processo dos es-
+pelhos no lado esquerdo(mas com dois espelhos :( agora),destrua o bloco e siga
+pela porta.
+
+Caia lá embaixo, e vire Goron. Ative o botão, e saia rolando até o botão antes
+em chamas. Daí volte á entrada. Vire Deku, e saia voando usando as correntes 
+de ar até ver uma plataforma do lado esquerdo, com rupees e um baú.Este contém
+uma Stray Fairy (5/15). Voe até o final,e abra o baú(antes em chamas)pra outra
+Stray Fairy (6/15). Entre na porta.
+
+Enfrente o Garo Master!. Evite as espadas em chamas, e golpeie-o na pausa que 
+ele faz após atacar. Ao terminar, ele se suicida com uma bomba e surge um baú
+com a LIGHT ARROW! Agora, só com essa flecha se consegue ativar esses blocos
+azuis e sóis.Siga pela porta.
+
+Suba a estrutura, e pule na próxima. Tire a máscara do bicho com o Hookshot, e
+meta espada pra matar. Prossiga. Vá até Eyegore.Trave Z nele, e dê lhe espada-
+das. Saque o arco ou Hookshot, e golpeie o olho quando tiver cor diferente. 4
+golpes, foi-se.E revela um baú com uma Stray Fairy (7/15). Siga e...a primeira
+sala de novo?
+Bem,primeiro solte uma Light Arrow no sol da parede,e surge um baú de ponta-
+cabeça.Siga pela porta á esquerda.
+
+Já estivemos aqui... siga na passarela, caia na água, e siga até aquele corre-
+dor,que leva até uma das primeiras salas (com minas e "pulo golfinho"). Vá pro
+outro lado, tome impulso e dê um pulo golfinho(é complicado e FRUSTRANTE!). 
+Plante uma bomba perto do cristal para ativá-lo,e dê um pulo golfinho pro ou-
+tro lado(desesperador,não?).Use uma Light Arrow pra tirar o bloco do caminho.
+Exploda o Beamos, e pegue a Stray Fairy no baú (8/15). Daí saia, (se for mais
+de 10pm), toque a Song of Soaring, vá pra Clock Town e compre Chateau Romani.
+Volte á Stone Tower.
+
+Posicione todos os blocos. Mas pare no terceiro, e olhe pra parede. Vê um 
+botão rosa? Light Arrow nele! E então, o templo inteiro vira de cabeça pra 
+baixo!Entre de novo.
+
+Um baú é visível, pegue nele uma Stray Fairy (9/15). Siga á leste até uma
+porta.Entre, use uma Light Arrow para destruir o bloco, e prossiga. Vire Deku,
+e use as correntes de ar para voar até uma passagem. Pise no botão (como Link)
+e revele um baú. Antes de pegar esse baú, atire uma flecha no sol lá em cima.
+Surge um baú de cabeça para baixo. Voltando ao que fazíamos, termine de andar
+e pegue uma chave no baú. Caia pro fundo da sala e fleche o olho congelado. 
+Surge um baú, voe até ele para mais uma Stray Fairy (10/15). Depois voe até um
+botão, volte ao normal,pise no botão e toque a Elegy. O baú antes em chamas 
+(cercado de minas, por sinal) tem mais uma Stray Fairy (11/15). Finalmente, vá
+para a outra plataforma com minas (canto noroeste) e abra a porta.
+
+Primeiro, fleche o botão. Atravesse a lava (de preferência como Goron) e 
+fleche o botão de novo. Abra a porta e pronto:).
+
+Essa sala poderia ser simples: bote o bloco no buraco. Mas para isso, vamos 
+ter de virar essa sala VÁRIAS vezes. Vamos lá: fleche o botão, empurre o bloco
+até o meio do corredor lá em cima. Fleche de novo, e empurre o bloco o mais 
+próximo do buraco possível. Fleche OUTRA VEZ, e empurre o bloco mais uma vez.
+Dê mais uma flechada, e puxe o bloco até o buraco. Daí, uma flechada, fique 
+embaixo da porta, dê a flechada final e saia daí!O pior,é que além da vertigem
+tem as bolhas pentelhas.
+
+Tambores... trrrrrrrr... AAAH!WIZROBE DE NOVO! Mas é a última! Use as Light 
+Arrows para acabar rápido. Ao terminar, surge um baú. Enganche-se nele, pegue
+a Stray Fairy(12/15), e desça a escada.
+ 
+Use a flor para atravessar a sala, e entre na porta. Siga a leste para outra 
+porta,e pule na plataforma do Death Armos. Pise no botão para surgir o baú. 
+Pule de volta,volte pra outra sala, use o Hookshot nas minas para explodí-las,
+vire Deku e use a flor para voar até essa plataforma. Use a flor lá para voar
+para a outra plataforma.
+Abra a porta.
+
+Atravesse o corredor(se os bichos te azararem, Song of Storms),e abra a porta.
+Começa uma batalha com Gomess. Para matá-lo, trave Z nele e use uma Light 
+Arrow para os morcegos se espalharem, e meta-lhe espada. Aí, esquive-se da 
+foice assassina.Repita o processo até matá-lo.
+Abra a porta que destranca e pegue a Boss Key no baú. Volte para a sala dos
+Poes (aqueles fantasmas, depois do Wizrobe), ou na travessia normal ou depois
+de usar a Song of Soaring (voltar pra entrada).
+
+Vê um corredor no alto da sala, á nordeste (vindo da sala do Wizrobe)? Voe até
+lá.Se esquivando dos Death Armos, siga até um botão, e pegue no baú uma chave.
+Song of Soaring para a entrada. Saia, e desvire o templo. Volte pra dentro.
+
+Caia no buraco e pegue a Stray Fairy no baú(13/15). Suba, entre na sala da 
+direita para aquela que tem um tanque, vire Zora e procure um baú com outra 
+Stray Fairy (14/15).
+Volte á superfície, atravesse a sala dos espelhos, a sala das correntes de ar,
+e a sala em que enfrentamos Garo Master. Agora pule na passarela em que o bi-
+cho mascarado se encontra e caia para um dos lados, numa plataforma.Plante uma
+bomba em algum ponto que ative o cristal lá em baixo.Surge um baú com a ÚLTIMA
+STRAY FAIRY DO JOGO(15/15)! Song of Soaring, vire o templo de novo e re-entre.
+
+Siga em frente, e olhe pra cima. Quando Tatl ficar verde sobre um baú, aperte 
+Z para travar nele e use o Hookshot. Aterrisse, ande e abra a porta. Mate 
+outro Eyegore e abra o baú para a GIANT'S MASK! Que te deixa gigante, e só 
+serve para matar os chefes desse lugar.Enganche-se no baú do teto,ande evitan-
+do o rolo espinhento, e enganche-se num "alvo" do teto. Caia, e vá em frente,
+abrindo a sala com a grande fechadura. Caia no buraco...
+
+Giant Masked Insect, Twinmold, surge no meio do deserto! Eu nem recomendo pas-
+sar na seção Chefes... é só vestir a Giant's Mask e meter espadada na cabeça 
+ou cauda desses minhocões.Quando morrerem, tire a máscara, pegue o Heart 
+Container e Twinmold's Remains. Segue uma cena com o guardião e a purificação
+de Ikana.Siga até a Fonte da Grande Fada (perto da casa do homem-Gibdo), dê as
+Stray Fairies e ganhe a Great Fairy Sword! Que não é uma espada normal, mas 
+equipada nos botões C.
+
+Completamos os templos! Volte no tempo.
+
+   _________________________________________________________________
+  / ÚLTIMOS ITENS                                                  /
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Só falta a famigerada Máscara pra enfrentar! Mas antes, vamos nos completar 
+nossas máscaras. Primeiro, vá pro escritório do Prefeito em East Clock Town ás
+10AM.Fale com Madame Aroma pra ganhar a Kafei's Mask.Consulte a seção Bomber's
+Notebook pra loooonga sequência de Anju&Kafei. Como gasta um bom tempo, no 
+meio-tempo pegue Heart Pieces e faça o seguinte:vá pra Mountain Village, e 
+entre no Goron Shrine.Toque a Goron Lullaby pro menino Goron, e com um Deku 
+Stick, pegue fogo na tocha próxima. Bote fogo em todas as tochas do lugar, e o
+candelabro começa a girar. Vá pro alto e dê pulos rolantes Goron para quebrar
+os potes. Um deles liberará um pedaço de carne(ou melhor, pedra!). Carregue-o
+até o Goron congelando e esfomeado em Mountain Village. Ele te agradece com a
+Don Gero Mask.
+
+Ao final da sequência de Anju e Kafei, você deve ter a Keaton Mask,uma garrafa
+e a Couple's Mask. Daí volte no tempo e REPITA a sequência até a parte que 
+você recebe uma carta pra Madame Aroma.Passe o tempo até 6PM,e vá pro Correio.
+Entregue a carta pro carteiro, e siga-o. Ao final, ele corre por sua vida e te
+dá o Postman's Hat! Vista-o e olhe uma caixa de correio... Falta 1 máscara, 
+mas ela é no final...
+
+Ás 10PM, entre no bar e compre Chateau Romani.Se encha de flechas e fique com
+a saúde total. Espere até a meia-noite para a BATALHA FINAL!
+
+   _________________________________________________________________
+  / TUDO TEM É BOM TEM QUE TERMINAR                                /
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Á meia-noite, a porta da torre se abre. Já que você não é Deku, pode subir a 
+rampa do lado da torre. Suba a escada. De novo, luta com o Skull Kid. Porém, 
+na hora que a lua começar a queda, toque o Oath to Order. Os gigantes surgem 
+e seguram a lua.
+A Máscara de Majora revela que controlava o Skull Kid,larga-se dele e entra no
+satélite. Como a lua recomeça a querer cair, você vai seguir a marvada, óbvio!
+E quase que Tatl amarela... de qualquer maneira, estamos DENTRO DA LUA!
+
+Um gramado, no qual menininhos brincam. Fale com o menino com a máscara de 
+Odolwa.Dê-lhe uma máscara e aceite brincar com ele. 
+
+Esse calabouço é fácil. Vire Deku, se lance de uma flor e voe até a primeira 
+plataforma girante. Daí pra segunda e entre na flor amarela. Ejete-se e voe 
+pro canto noroeste(ou pro nordeste, pra um pedaço de coração), entre na porta 
+e dê mais uma máscara ao menino para sair desse lugar.
+
+De volta ao gramado. Agora fale com o menino com a máscara Goht. Dê-lhe duas
+máscaras. E agora, uma parte irritante! 
+
+Vire Goron, e saia rolando. É só se impulsionar nas rampas e bater nos baús.
+Eu recomendo primeiro fazer o "caminho completo", sem interrupções, e ganhar
+um pedaço de coração. De qualquer maneira,interrompa perto de um lugar com
+pontes e um "coreto". Suba a ponte pro coreto.
+Vê a plataforma isolada, cheia de gelo? Bem, posicione-se na frente dela, tome
+distância, role e gire até chegar lá. 
+Entre na porta e dê mais duas máscaras ao menino.
+
+Novamente no gramado. Fale com o menino Gyorg. Dê-lhe três máscaras. E 
+entramos numa parte melhorzinha...
+
+Vire Zora, e pule n'água. Para um pedaço de coração, siga direita, esquerda,
+e esquerda em todas as outras. Para a saída, esquerda, esquerda, direita, 
+direita. Dê três máscaras ao menino.
+
+Agora, fale com o menino Twinmold. Dê-lhe 4 máscaras. E um calabouço pra Link
+mesmo, envolvendo combate simples.
+
+Mate Dinofols (fácil com essas espadas mais fortes) na primeira sala. Abre uma
+porta, passe pela Gossip Stone e enfrente Garo Master na próxima sala. Ao ter-
+minar, enganche-se no baú que surge(que tem flechas). Continue em frente e
+achará Iron Knuckle. Surge um baú, com Bombchus. Use essas bombas auto-impul-
+sionadas para explodir uma rachadura na parede direita.(meio complicado, vê se
+não gasta todos...). No buraco que surge, um cristal. Fleche-o e surge uma
+escada. Suba nela e entre na porta. Lá dentro, o último pedaço de coração. 
+Olhe pra cima, procure uma rachadura e mande um bombchu até lá. No buraco que
+surge, tem um olho congelado. Fire Arrow... entre na porta,ceda as últimas 4 
+máscaras(adeus, Bunny Hood...) ao menino, e dê o fora daí.
+
+De volta ao gramado. Fale com o menino Majora sob a árvore. Ele te dá a Fierce
+Deity Mask! Que torna um sujeito amendrontador, e poderoso!Útil enfrentando a 
+terrível máscara. Daí você vai pruma sala onde enfrenta MAJORA'S MASK! Vista a
+FD Mask e veja a seção Chefes.E,estragando a surpresa, a máscara vira Majora's
+Incarnation.E depois MAJORA'S WRATH! Tudo na seção Chefes.
+Ao acabar, parabéns! Terminamos mais um capítulo da Lenda de Zelda! Assista o
+belo e interminável final.
+===============================
+5-CHEFES
+===============================
+WOODFALL TEMPLE: Odolwa
+
+Tamanho não é documento. O cara é grande, mas bem fácil. Apoxime-se dele 
+(esquivando da espada gigantesca)e golpeie-lhe a canela. Se quiser facilitar,
+fleche-o antes. Se ele pular, corra pra ele não aterrissar n'ocê. Em certo 
+ponto,ele invoca insetos. Mate-os se quiser, ou mande uma bomba/ative uma
+Bomb Flower pra eles irem pra longe. Cuidado com o anel de fogo que ele cria
+(se bem que se você estiver dentro do círculo, não faz mal).
+
+SNOWHEAD TEMPLE:Goht
+
+Eu ODEIO essa batalha...Goht é um touro gigante que sai correndo em círculos.
+Vire Goron, enrole-se e saia rolando atrás dele. Atropele-o!Atropele-o!Evitan-
+do as pedras e bombas que ele chuta, os pedaços do teto caindo, imperfeições
+no solo e os raios no traseiro. Por falar nisso, se ele se virar de frente 
+pra soltar raios, encoste na parede senão você é eletrocutado!
+(pra mim o pior aspecto é replay,pq você não sabe onde tá a p*rra da "saída")
+
+GREAT BAY TEMPLE: Gyorg
+
+Esse peixão é "poda". É bom você estar com fadas, poção vermelha e magia 
+infinita(Chateau Romani)/poção verde. 
+MÉTODO MISTO:Comece a andar pela plataforma procurando, e trave Z nele(ele 
+pode pular pra tentar te derrubar).Meta-lhe uma flecha(de preferência mágica).
+Ele pára momentaneamente.Vire Zora e eletrocute-o n'água.Volte pra plataforma
+(ele vai te engolir no caminho, é inevitável!) e repita. Quando ele soltar 
+piranhas em você, frite-as com choque.
+MÉTODO ZORA: Vire Zora, pule n'água e afunde. Solte as barbatanas-bumerangue 
+nele e eletrocute. O problema desse aí é que as engolidas são mais numerosas.
+
+STONE TOWER TEMPLE:Twinmold
+
+Duas centopéias titânicas. Mas é bem fácil!Bote a Giant's Mask.Você fica
+gigantesco, meta espadada na cabeça ou cauda.A máscara gasta magia então é bom
+estar sob Chateau Romani ou com poção verde. Cuidado para não cair no abismo!
+Derrote as duas e pronto.
+
+LUA:
+Majora's Mask
+
+O chefe final!Recomendo usar a Fierce Deity Mask. Majora vai voando pela sala,
+ás vezes girando como uma lâmina. Depois de um tempo ela passa a soltar raios
+de calor.
+COM FD MASK: Evite o ataque da lâmina e siga-a. Quando possível, golpeie-a de
+trás,ou derrube-a no chão e bata nela.Quando as máscaras dos chefes acordarem,
+mate-as com golpes de espada para elas não te atrapalharem.
+SEM FD MASK: Tente acertá-la de trás. O mais efetivo são os bumerangues Zora,
+mas pode tentar com uma flecha ou o Hookshot. Funciona bem quando ela está no
+ataque de lâmina (nesse também pode-se dar-lhe uma espadada quando estiver
+beeem perto). Majora cai no chão, corra até ela e meta-lhe espada. Se ela 
+soltar um laser, reflita-o nela, que serve como golpe. Quando as máscaras dos
+chefes acordarem, mate-as com flechadas.
+Quando Majora cair... ela cria braços, pernas e cabeça...
+
+Majora's Incarnation
+
+Essa versão sai correndo bem rápido, e vez ou outra solta bolas de energia.
+FIERCE DIETY: Saia seguindo essa versão. Meta-lhe espada antes que ela corra
+muito. A vitória é rápida.
+LINK NORMAL: Meta-lhe espadada, para facilitar, use Light Arrows para parali-
+sá-la, e corra para dar o golpe. Se você está muito longe, Light Arrow nela
+caída também serve.
+Mas aí Majora cresce ainda mais!
+
+Majora's Wrath
+
+A mais difícil. E você só abate com Link normal. É simples: trave o Z nela.
+Light Arrow, corra até ela (que falta faz o Bunny Hood!)e espadada (de prefe-
+rência a Great Fairy's Sword). Claro que os pulos imensos de Majora e aqueles
+chicotes que arregaaaaçam são complicados de enfrentar. Mas quando você termi-
+nar, estoure o champanhe! ZERAMOS MAJORA'S MASK!
+=============================================
+6- HEART PIECES
+=============================================
+Assim como em Ocarina, os 52 pedaços de coração são bem difíceis de conseguir,
+e envolvem mini-games e fazer algo para algumas pessoas. O pior é quando você 
+não lembra os que faltam...
+
+Clock Town
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+• No Dia Final, depois de arranjar a flor dourada, espere a torre se abrir e
+ejete-se.Voe até o coração.
+
+• Em North Clock Town, suba o escorregador. Pule de plataforma em plataforma 
+até o coração,numa árvore.
+
+• Em qualquer noite, perto de meia-noite, vá pra perto do Stock Pot Inn. O 
+prédio tá fechado. Bem, use uma flor perto dele, e ejete-se pro telhado de 
+palha (perto de um sino).Entre pela "porta secreta", e siga pro banheiro(perto 
+da cozinha). Aparece uma mão pedindo papel higiênico. Bem... dê qualquer papel
+de propriedade dado pelos Dekus (irc). Agradecida, a mão te dá um coração.
+
+• Vá pra Treasure Chest Shop como Goron Link/Darmini. Vença o labirinto para 
+um coração.
+
+• Em West Clock Town, complete o Expert Course na escola de espada. Fácil: use
+jump attack(saque a espada, Z e A) em todos os troncos. 
+
+• Vença o jogo na loja de Honey & Darling nos três dias (precisa de Bomb Bag e
+Arco).
+
+• Vença o Deku Playground nos 3 dias.
+
+• Faça 50 pontos (Perfect) na Galeria de Tiro.
+
+• Em West Clock Town á noite, com a Kamaro's Mask, dance pras Rosa Sisters, e
+ganhe um coração.
+
+• Siga o Carteiro no 1o ou 2o dia. Quando voltar pro escritório,jogue com ele.
+Você tem de acertar quando der 10 segundos. Faça-o depois de conseguir o Bunny
+Hood, pois misteriosamente o relógio fica o tempo todo...
+
+• Com a All-Night Mask, escute a primeira história da mãe de Anju, no Stock 
+Pot Inn.Responda a primeira opção (correta) e ela te dá um coração.
+
+• Ouça a outra história. Desta vez responda a segunda (errada) e ela te dá 
+outro coração.
+
+• Pode ser feito em vários lugares, mas é mais fácil em North Clock Town. 
+Usando a Keaton's Mask,estraçalhe os arbustos. Keaton surge. Responda as ques-
+tões corretamente e ganhe um coração.
+
+• (recomendo ter um feijão e água). No Observatório, veja pelot telescópio um 
+Deku entrar num buraco.Siga-o (saia da cidade até o buraco ou o mais fácil: no
+lado de fora plante um feijão,regue-o e monte a planta para ir pro outro lado)
+e caia. Recuse a oferta de 150 rupees, e ele barganha pra 100. Compre!
+
+• Depois de depositar 5.000 rupees o bancário te dá um coração(pra conseguir,
+eu sugiro matar os zumbis no Castelo de Ikana constantemente).
+
+• Vá pro escritório do Prefeito no primeiro dia. Fale com ele usando a Couple
+Mask, ele encerra o debate corrente e te recompensa.
+
+• Vá para uma caixa de correio com o Postman's Hat. A caixa te recompensa...
+
+
+Termina Field
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ • Há 4 buracos com 4 Gossip Stones (aquelas pedras com um olho só) dentro.
+Vire Goron Link e toque a Goron Lullaby. As pedras vão mudar de cor. Faça
+isso nos 4:
+*Perto da saída de North Clock Town
+*Uma pedra no espaço entre North CT e West CT. Exploda e revele o buraco.
+*Grudado na parede, na bifurcação entre Milk Road e Woodfall.
+*Do lado da cerca do Observatório.
+E ganhe um coração.
+
+• Em um caminho de grama alta perto da entrada de Milk Road,procure borboletas
+Caia no buraco,e derrote o Pea Hat (como é uma planta de "hábitos diurnos",
+não funciona á noite). Surge um baú com o coração.
+
+• Há um buraco no caminho de Mountain Village(perto das estruturas de pedra).
+Caia e derrote os Dodongos. Surge um baú com o coração.
+
+• Perto da entrada de Great Bay, exploda uma pedra.Atire nas colméias(e talvez
+nos Bio Deku Babas) e entre no poço como Zora Link. Afunde e siga até o baú.
+
+Southern Swamp/Woodfall
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+• No Deku Palace, esconda-se e esgueire-se no jardim-labirinto esquerdo até o
+coração.
+
+• Em um Woodfall, tem um grande baú. Voe até lá para pegar o coração.
+
+• Dê o título de propriedade do Deku de Clock Town ao Deku na frente do Cabine
+de Informações. Use a flor para se ejetar até o coração.
+
+• Tire uma foto do Rei Deku e dê ao feioso na cabine de informações. Ele te dá
+um coração.
+
+• Antes da bifurcação pro Southern Swamp, tem uma árvore cheia de morcegos com
+o coração no topo.Ou mate os morcegos com flechas antes de subir, ou use a 
+Stone Mask.
+
+• Faça 2120 pontos(perfect) na Galeria de Tiro no caminho de Southern Swamp.
+Porém, na SEGUNDA vez, já que a primeira te dá uma alijava maior.
+
+• Depois de completar Woodfall Temple, Kotake transforma o cruzeiro de barco
+num jogo de tiro.Faça 20 pontos antes do fim para ganhar (só lembre-se que se
+você flechar Kotake 10 vezes seguidas ela encerra, seu sem-mira...).
+
+
+Milk Road/Romani Ranch
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+• Entre na Doggie Racetrack, pra apostar nos cachorros. Com a Mask of Truth,
+leia o pensamento dos cães.Selecione um que acha que vai ganhar(aviso:alguns
+são dúbios). Quando você ganhar 150 ou mais rupees,a mulher te dá um Heart 
+Piece.
+
+Mountain Village/Snowhead
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+• Pegue o título de propriedade do Deku de Clock Town, dê ao Deku de Southern
+Swamp, e ele te dá a o Título do Pântano (Swamp Title Deed). Fale com o Deku
+perto do Goron Shrine como Deku Link. Dê-lhe o título, e ele sai. Use a flor 
+e ejete-se pro coração.
+
+• No caminho pra Snowhead, faça um Goron Jump. Perto de onde se faz o segundo,
+olhe com a Lens of Truth. Plataformas. Siga-as, toque a Scarecrow's Song e 
+enganche-se nele pra pegar.
+
+• Quando for primavera de novo, como Zora Link, nade sob o lago descongelado 
+até achar um baú.
+
+• Reúna o coral de sapos usando a Don Gero's Mask.
+*Um sapo está na Laundry Pool (Clock Town)
+*Um sapo surge depois de vencer Gekko em Woodfall Temple
+*Um sapo está em Southern Swamp (é mais fácil chegar nele depois de bater 
+Odolwa)
+*Um sapo surge após vencer Gekko em Great Bay Temple
+*E depois de vencer Goht e a primavera voltar, surge o último sapo.
+Após a apresentação, eles te recompensam com um coração.
+
+Great Bay/Zora Cape
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+• Complete a atividade de reunir os cavalo-marinhos, e eles te dão um coração.
+
+• Vá até a grande cachoeira no canto oeste. Como Zora Link, afunde e mate o 
+Like-Like.Um coração aparece.
+
+• No esgoto sob a fortaleza das piratas, tem uma cela com um coração. Pra 
+conseguí-la, suba a escada, vire Goron Link, e esmurre os baús até o botão.
+Aperte-e e role até a cela. Pra sair,é só pisar no botão dentro.
+
+• Na Spider House, fleche os escudos na sala em que os Stalchildren estão á 
+mesa em uma certa ordem,e uma porta levando ao coração(e um inimigo-surpresa)
+se abre. Pra descobrir a ordem:
+*Depois de conseguir o Captain's Hat, fale com os Stalchildren.
+*O bom e velho tentativa-e-erro. Descubra qual é o primeiro, e vá descobrindo
+os outros. Cuidado pra não esgotar as flechas :)
+
+• (antes de abater Great Bay Temple)Vá para o quarto de Mikau no Zora Hall.
+Enganche-se na árvore, e como Mikau leia as notas que ele e Japas criaram.Daí
+siga pro quarto do baixista, e faça uma jam session.Anote todas as notas toca-
+das! Daí siga pro quarto do líder, e como o Link normal,toque as notas na oca-
+rina. Agradecido, Evan te dá um coração.
+
+• (depois de abater o Great Bay Temple)Dirija-se a um barco na praia. Num con-
+junto de 5 ilhas,enganche-se numa árvore. Daí jogue o mini-game do Pescador.
+Faça 20 pontos no mínimo pra ganhar o coração.
+
+• Pegue 5 peixes e jogue-os no aquário com os peixões no Laboratório.Os peixes
+são comidos, e um coração sai d'água.
+
+• Depois de vencer os castores e ganhar a garrafa, derrote-os mais uma vez e
+ganhe o coração.
+
+• Consiga o Título de Propriedade da cidade... ah, não preciso falar. Enfim, 
+entre no quarto de Lulu, e fale com o Deku como Goron Link. Dê o Título da 
+Montanha e como Deku Link, ejete-se pro coração.
+
+• Na parte leste de Great Bay,há um local com um alvo de Hookshot.Enganche-se,
+e continue se enganchando até um solo clarinho. Plante um feijão e regue-o 
+(garrafa d'água ou Song of Storms).Toque a Scarecrow's Song pro espantalho
+aparecer, monte na planta e enganche-se no espantalho.Pegue o pedaço de 
+coração lá dentro.
+
+
+Ikana/Stone Tower
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+• Depois de toda a sequência de Títulos de Propriedade, fale com o Deku como
+Zora Link. Dê a Propriedade do Oceano e como Deku ejete-se. Repetitivo, hein?
+
+• Na 2a noite, com o captain's Hatmande os Stalchidren abrirem a cova.Atraves-
+se o corredor usando a Lens of Truth, até a sala com o Iron Knuckle. Mate-o e
+abra o baú que surge.
+
+• Depois de conseguir as Light Arrows, pule no rio e siga até uma cachoeira (a
+oeste, senão você acaba em Southern Swamp!).Fleche o sol.Aí a figura fantasma-
+górica te desafia a matar 4 velhos conhecidos... Dinofols, Wizrobe, Wart e
+Garo Master. Depois de (re)exterminá-los, o sujeito te premia com o coração.
+
+• Na parte nordeste, entre na Casa dos Espíritos, pague 30 rupees e mate as 4
+Poes em menos de 2 minutos e 59 segundos pra ganhar.
+  
+• No telhado do Castelo de Ikana, você percebe que um pilar tem um coração. 
+Primeiro desative o fogo nos pilares com flores. Daí vire Deku e vá se ejetan-
+do.
+
+
+Lua
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+• No calabouço Deku, o coração está no canto nordeste, é só voar direitinho. 
+
+• No calabouço Goron, role sem interrupções.A última plataforma leva ao cora-
+ção. 
+
+• No calabouço Zora, siga á direita, esquerda, e esquerda em todas as outras
+até o coração.
+
+• No calabouço Link, depois de 3 batalhas você chega numa sala com o coração.
+O ÚLTIMO!
+=======================
+7- MÁSCARAS
+=======================
+Transformação
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Deku Mask
+Encontrada: Depois da primeira volta no tempo, o vendedor de máscaras te ensi-
+           na a Song of Healing.Toque-a e volte ao normal,tornando o Deku Link
+           uma máscara.
+Descrição: Link vira um Deku Scrub. É leve (por isso não aperta botões),frágil
+           á fogo, solta bolhas,dá 5 pulinhos sobre a água e pode usar as flo- 
+           res no chão para voar.Para instruções detalhadas, seção Controles.
+
+Goron Mask
+Encontrada: Depois de conseguir a Lens of Truth, siga o fantasma de Darmani 
+         até sua tumba.Toque a Song of Healing e encerre o espírito de Darmani
+         na Goron Mask.
+Descrição: Link vira um Goron, e pode atropelar os outros com rolamentos, dar 
+          murros poderosos,causar tremores de terra e carregar as Powder Kegs.
+          Resiste a fogo, mas morre n'água.Mais informações, seção Controles.
+
+Zora Mask
+Encontrada: Depois de achar Mikau moribundo na praia em Great Bay, toque-lhe a
+         Song of Healing.Sua alma vira a Zora Mask.
+Descrição: Link vira Zora, é o melhor... ele nada, pode andar no fundo d'água,
+           dá golpes de kung fu, solta as barbatanas feito bumerangues e solta
+           choque.Pra mais, seção Controles.
+
+Fierce Deity's Mask
+Encontrada: Depois de ceder todas as 20 máscaras "normais" (ou seja, sem ser
+        as 3 acima) aos meninos na Lua, o menino com a Máscara de Majora te dá
+        essa máscara.
+Descrição: Essa máscara te torna Oni Link, um sujeito grandalhão com cara de 
+           mau, e uma espada imensa(nenhuma piada). Só pode ser usada com che-
+           fes, e funciona bem na luta final com Majora (se bem que a última
+           parte precisa do Link normal...).
+
+Diversas (ordem alfabética)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+All-Night Mask
+Encontrada: na Curiosity Shop no dia final, desde que você tenha salvo a 
+         velhinha da loja de bombas no  primeiro dia. Custa 500 rupees 
+         (exige a Giant Wallet).
+Descrição: Com essa máscara, você não consegue dormir! Útil pra ouvir as 
+         histórias da mãe de Anju no Stock Pot Inn.
+
+Blast Mask
+Encontrada: com a velha das loja de bombas, depois de você salvá-la de um 
+        ladrão em North Clock Town(12AM, Primeiro Dia).
+Descrição: Com essa máscara, você vira um homem-bomba. Aperte B e detona,
+           como qualquer bomba normal(mas levante o escudo - R - ao fazê-lo).
+
+Bremen Mask
+Encontrada: Consiga do músico na Laundry Pool(sudoeste de Clock Town), entre 
+        12AM e 6AM nos dois primeiros dias.
+Descrição: Usando-a, aperte B para sair marchando tocando a ocarina, o que 
+          atrai animais(necessária pra próxima máscara...).
+
+Bunny Hood
+Encontrada: Com Grog na Cabana dos Cuccos (Romani Ranch) depois de tornar 
+        seus 10 pintinhos galos,fazendo-os marchar com a Bremen Mask.
+Descrição: A melhor máscara! Aumenta sua velocidade (me lembra das Pegasus 
+           Boots, de A Link to the Past) e a distância de seu pulo (por isso 
+           ás vezes você tem de tirá-lo pra não cair).
+
+Captain's Hat
+Encontrada: No baú antes-em-chamas depois de derrotar o Skull Keeta no 
+          Cemitério em Ikana.
+Descrição: Com essa "máscara" (é um chapéu, ué!), você pode conversar com os
+          Stalchildren achados em certas áreas.
+
+Circus Leader's Mask
+Encontrada: com o Zora no Bar de Leite. Pra isso, faça o teste de som como
+        Link, Deku Link, Goron Link, e Zora Link.
+Descrição: Usando enquanto Cremia está levando o leite pra Clock Town, os 
+          Gorman Brothers não te atacam (É INÚTIL, visto que você consegue a
+          máscara DEPOIS dessa parte!).
+
+Couple's Mask
+Encontrada: Depois da longa, tenuosa (e levemente insuportável) sequência de 
+        Anju e Kafei, no quarto "apenas para funcionários" do Stock Pot Inn. 
+        Pra ver como fazê-lo, seção Bomber's Notebook.
+Descrição: Esta máscara torna cidadões felizes por acaso (especialmente o
+        Prefeito Dotour).
+
+Don Gero's Mask
+Encontrada: com o Goron esfomeado em Mountain Village. Depois de conseguir a
+        Goron Mask e a Goron Lullaby, entre no Goron Shrine. Faça o menino
+        dormir. Daí volte pro Link normal, quebre os potes para conseguir Deku
+        Sticks e a partir da tocha acesa, faça a "tocha olímpica" e acenda 
+        todas as tochas na sala anterior.O "castiçal" começa a girar. Vá pro 
+        topo e com pulos Goron, destrua os potes do castiçal até cair um peda-
+        ço de carne (na verdade de pedra, mas...). Daí, carregue o Rock Sir-
+        loin até o Goron morrendo de frio em MV.
+Descrição: Com essa máscara você consegue comandar o coro dos sapos ao trazer
+           todos os 5 sapos depois que a primavera voltar em Snowhead.
+          *Um sapo está na Laundry Pool (Clock Town)
+          *Um sapo surge depois de vencer Gekko em Woodfall Temple
+          *Um sapo está em Southern Swamp (é mais fácil chegar nele depois de
+          bater Odolwa)
+          *Um sapo surge após vencer Gekko em Great Bay Temple
+          *E depois de vencer Goht e a primavera voltar, surge o último sapo.
+
+Garo's Mask
+Encontrada: com os Gorman Brothers. Depois de conseguir Epona, vá pra Gorman
+           Racetrack e vença-os na corrida.
+Descrição: Essa máscara é usada para entrar em Ikana, faz os mortos-vivos do
+           lugar não te atacarem, e vez ou outra, faz um Garo aparecer.
+
+Giant's Mask
+Encontrada: num baú em Stone Tower Temple.
+Descrição: Usando a máscara você fica gigante (queimando magia, é bom estar
+           sob Chateau Romani ou com poção verde). È usada pra bater os chefes
+           de Stone Tower Temple, Twinmold.
+
+Gibdo Mask
+Encontrada: numa casa em Ikana Canyon. Atraia a menina pra fora, e usando a 
+            Stone Mask, entre na casa. No porão, o pai dela (zumbificado) 
+           surge. Toque a Song of Healing para libertá-lo.
+Descrição: Com essa máscara, os Gibdo (aquelas múmias) acham que você é um 
+           deles e não te atacam.
+
+Great Fairy Mask
+Encontrada: com a Grande Fada de Clock Town, depois que você a reconstitui 
+            como o Link normal(Stray Fairy, Laundry Pool de dia e ECT á noite).
+Descrição: Nos calabouços, a máscara atrai as Stray Fairies para você. E os 
+           cabelos da máscara tremem perto de uma Stray Fairy.
+
+Kafei's Mask
+Encontrada: com Madame Aroma, na casa do Prefeito entre 10AM e 8PM no Primeiro
+           Dia,fale com ela e aceite ajudá-la na busca do filho.
+Descrição: Fale com as pessoas de Clock Town pra descobrir onde Kafei se es-
+         conde (e mais especificamente, fale com Anju para começar uma looonga
+         sequência).
+
+Kamaro's Mask
+Encontrada: Entre 12-6AM em Termina Field,saia por North Clock Town e encontre
+           um sujeito dançando num cogumelo de pedra.Pule no cogumelo e escute
+          sua história, e daí toque a Song of Healing pra conseguir a máscara.
+Descrição: Com essa máscara, aperte B pra dançar igual a Kamaro.
+
+Keaton Mask
+Encontrada: Sequência de Anju e Kafei. Depois da Kafei's Mask, da carta pra 
+         Kafei, do medalhão dadopra Anju, entre nos fundos da Curiosity Shop
+        na tarde do Dia Final e fale com o dono.Ele te dá uma carta e a 
+        Keaton's Mask.
+Descrição: (curiosidade: Keaton é inspirado em Pikachu). Ao cortar um círculo
+           de arbustos que se movem (ex: North Clock Town) com a máscara, 
+           Keaton aparece. Responda suas questões corretamente e ganhe um
+           prêmio.
+
+Mask of Scents
+Encontrada: Com o Mordomo Deku. Depois de terminar o Woodfall Temple e 
+           entregar a Princesa, vá pro labirinto a oeste do palácio e vá 
+            seguindo o mordomo até o final.
+Descrição: Com essa máscara, seu olfato se aguça e pode achar Cogumelos mági-
+           cos para as Magic Hags (ou Twinrova sisters) fazerem poções azuis.
+
+Mask of Truth
+Encontrada: Com o cara na Swamp Spider House,depois de matar as 30 Skulltulas.
+Descrição: Com essa máscara, as Gossip Stones (as pedras estranhas de um olho
+           só) falam com você,e consegue-se ouvir o pensamento animal.
+
+Postman's Hat
+Encontrada: com o carteiro (óbvio...).Depois de conseguir a carta para Madame
+           Aroma (fim da sequência de Anju e Kafei), ás 6:00 vá pro correio.
+           Entregue ao carteiro, e ele sai correndo.Siga-o até o bar de Leite.
+           Como a Lua está caindo, a generosa Madame Aroma manda-o correr por
+           sua vida (run to the hills, run for your lives!). Saia, e fale com
+           o carteiro. Agradecido, ele te dá seu chapéu.
+Descrição: Com essa máscara, você pode olhar dentro das caixas de correio de
+          Clock Town.
+
+Romani's Mask
+Encontrada: com Cremia, depois de defender o leite passando pelo atalho na 
+            Gorman Racetrack.
+Descrição: A máscara te deixa entrar no Bar de Leite, Latte, em East Clock
+           Town. Lá pode-se comprar leite e o excepcional Chateau Romani, 
+           que te dá magia infinita!
+
+Stone Mask
+Encontrada: com o soldado invisível no caminho de Ikana, depois de dar-lhe uma
+           poção vermelha.
+Descrição: Muito útil, a Stone Mask te torna invísivel para todos,menos chefes
+           (como se só isso não bastasse!)! Bastante usada na Gerudo Fortress.
+==================================
+8-ITENS
+==================================
+Botões C
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Hero's Bow: O popular arco e flecha. Encontrado em Woodfall Temple, esse arco
+           permite flechar objetos e inimigos.Além disso,há 3 flechas mágicas:
+-Fire Arrow: Uma flecha mágica de fogo. Acende tochas, derrete gelo e derrota
+           inimigos. Gasta 2MP por flecha. Conseguida em Snowhead Temple.
+-Ice Arrow: A flecha de gelo congela inimigos e água(criando uma plataforma!).
+           Achada no Great Bay Temple, gasta 3 MP.
+-Light Arrow: As "flechas sagradas", normalmente usadas pra matar Ganon.É usa-
+          da pra destruir aqueles blocos que precisam de luz e ativar sóis na
+          parede. Achada em Stone Tower Temple,gasta 4MP.
+
+Bomba: Um item clássico. Usada pra explodir inimigos e paredes rachadas, entre
+      outras coisas.Precisa de uma Bomb Bag pra carregar.
+
+Bombchu: Uma "bomba-automática", que parece um rato e sai andando, subindo 
+        paredes até achar um alvo.Um dos itens mais legais, e o melhor: mais
+        barato que em Ocarina. Só não tem muitos momentos pra usar.
+
+Deku Nut: Uma noz que paralisa os inimigos. Eu acho INÚTIL!
+
+Deku Stick: Um bastão que pode ser usado como arma ou tocha. Cortar Deku Babas
+          grandes rápido pode soltá-los.
+
+Feijão Mágico: Existem solos mágicos, claros e com um buraco, no qual pode-se
+            plantar esses feijões.
+            Para crescerem, 3 opções:
+            1-Garrafa d'água.
+            2-Song of Storms.
+            3-Esperar chover no Segundo Dia. 
+            O feijão vira uma plataforma que voa para outra área.
+            Pode ser comprado com o Deku do Centro de Informações (Southern 
+            Swamp), ou no buraco dentro do Deku Palace.
+
+Garrafa: As garrafas são usadas pra carregar poção(vermelha-saúde,verde-magia,
+        azul-ambos), fadas(recuperam 8 corações e ressuscitam se você morre),
+        leite (e Chateau Romani, que tem nome de vinho!), água, peixes e em 
+        certo ponto... a Princesa Deku!
+        São 6 garrafas:
+
+    1. Em Southern Swamp, vá pra Loja de Poções depois de achar Koume nas
+       Woods of Mystery.Fale com Kotake na loja e ela te dá uma garrafa com
+       poção vermelha.
+
+    2. Em Snowhead, depois de vencer o templo, vença a corrida na Goron Race-
+       track pra ganhar uma garrafa com Gold Dust.
+
+    3. Depois de salvar Romani Ranch dos aliens(!)na noite do primeiro dia,
+       Romani te dá uma garrafa com leite.
+
+    4. Depois da interminável sequência de Anju & Kafei, na noite final, entre
+       no Bar de Leite, Latte.Fale com Madame Aroma (com a Kafei's Mask) e 
+       dê-lhe a carta de Kafei. Ela agradece dando uma garrafa cheia de 
+       Chateau Romani.
+
+    5. Na parte oeste de Zora Cape, tem uma grande cachoeira e várias plata-
+       formas levando ao topo dela.Vá se enganchando de árvore em árvore até
+       lá. Entre, vire Zora Link, faça o castor afundar e siga-o pro fundo. 
+        Aceite correr com ele (e depois com o irmão), e após vencê-los, ganhe
+       uma garrafa vazia.
+
+    6. Na Noite Final no Cemitério de Ikana, peça aos Stalchildren (com o 
+       Captain's Hat) para abrirem a tumba. Oriente Dampé para escavar até
+       achar 3 raios de luz (cuidado com aquela mão filha da p... que cai).
+       Surge um Big Poe. Mate-o e abra o baú para pegar a garrafa.
+
+Great Fairy's Sword: A mais poderosa das espadas(4x mais poderosa que a Kokiri
+              Sword), que infelizmente te impede de usar um escudo.Você conse-
+           gue depois de reconstruir a Grande Fada em Ikana Canyon(caso esteja
+              perdido, as Stray Fairies de Stone Tower Temple).
+
+Hookshot: Eu adoro esse troço! É um gancho, que paralisa/mata inimigos e per-
+          mite se agarrar em itens distantes, sendo puxado. É meio ruim de
+          mirar no emulador, mas não importa.
+
+Lens of Truth: Essa lente misteriosa permite ver objetos invisíveis(queimando 
+              sua magia). Achada perto do Goron Shrine.
+
+Ocarina of Time: A boa e velha Ocarina do Tempo... permite tocar as canções
+                mágicas (ou não) que te ajudam na jornada pra salvar Termina.
+
+Pictograph Box: Uma câmera fotográfica. Só salva uma foto por vez, mas sempre
+                pode-se deletar a anterior.
+
+Powder Keg: Uma grande bomba que só Gorons carregam. Pra conseguí-la, tem de
+            se passar o teste do Goron (explodindo a pedra na frente da Goron
+            Racetrack com um Powder Keg). Só se leva 1 por vez.
+Equipamento/etc.
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Alijava (Quiver): OK, é um termo específico: alijava é a bolsa de flechas. 
+                A básica, que vem com o Arco, carrega 30. Quebre o recorde na
+                Galeria de Tiro em Clock Town e ganhe a alijava de 40. Faça
+               2120 pontos na Galeria perto de Southern Swamp e ganhe a de 50.
+
+Bomb Bag: Permite carregar bombas. Compre uma básica por 50 rupees na loja de
+        Bombas, uma maior depois de salvar a velhinha(seção Bomber's Notebook)
+        por 90, e a maior de todas do Deku perto do Goron Shrine por 200 
+        (como Darmini).
+
+Bombers' Notebook: O caderno que os Bombers te dão ao se torna membro.Você
+                  anota informações sobre as pessoas de Termina (fotos, nomes,
+                  promessas e prêmios).São 20 entradas.
+
+Carteira (Wallet): A básica carrega 99 rupees. Depositando 200 rupees no banco
+                  ganha-se a carteira de 200 rupees. Vencendo a Ocean Spider 
+                  House, um homem te dá a carteira de 500.
+
+Gilded Sword: A mais poderosa espada (tirando a Great Fairy's, mas aquela é do
+              C, não do B).3 vezes melhor que a Kokiri Sword, e mais larga,
+              batendo mais longe.
+              Conseguida depois de receber a Razor Sword e dá-la de volta ao
+              ferreiro com Gold Dust.Um corvo no sul de Termina Field pode 
+              roubá-la, compre-a de volta na Curiosity Shop.
+
+Hero's Shield: O primeiro escudo. Protege de ataques básicos, mas não lasers e
+               etc. Pode ser comido por um Like Like. Nesse caso, procure uma
+               loja com esse escudo.
+ 
+Kokiri Sword: A espada inicial de Link. Pelo menos pode ser aperfeiçoada...
+              O corvo pode roubá-la.
+
+Mirror Shield: Um escudo brilhante, que reflete luz. Muito útil em Ikana, onde 
+               mata os zumbis e ativa sóis/destrói blocos azuis.Conseguida no
+               fim do poço de Ikana Canyon.
+
+Razor Sword: Espada forjada pelo ferreiro em Mountain Village depois de vencer
+             o Snowhead Temple,por 100 rupees. Melhor que a Kokiki Sword, mas
+             perde o corte depois de 100 usos.É bom devolvê-la (com Gold Dust)
+         quase que imediatamente depois de receber pra receber a Gilded Sword.
+====================================
+9-BOMBER'S NOTEBOOK
+====================================
+O Bomber's Notebook é dado por uns menininhos em Clock Town, e serve pra 
+anotar as pessoas de Termina e resolver seus problemas, geralmente levando á 
+máscaras e pedaços de coração.
+
+Bombers
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Depois de conseguir sua Ocarina e a forma humana(Hylian) de volta, una-se aos
+Bombers.Em North Clock Town,estoure o balão com a Máscara de Majora(como 
+Deku). Como Link normal,fale com o menino que tentava estourá-lo e aceite o 
+teste para virar membro.
+Encontre os 5 meninos:
+*1o cara: NCT, perto duma árvore, próximo ao portal. É só atacá-lo e já pegou.
+*2o cara: No canto oposto, atrás do escorregador. Persiga-o até pegar.
+*3o cara: Vá pra East Clock Town. Suba uma rampa até achar o carinha, que pega
+uma galinha(cucco) e sai voando. É só cair no chão e capturá-lo.
+*4o cara: está num telhado próximo. Entre na flor do lado do prédio em forma 
+de baú e voe até esse telhado. O menino pula, vá atrás.
+*5o cara: vá pra West Clock Town. Bem perto da entrada (vindo de South Clock)
+está um menino patrulhando. Pegue-o, e você passou!
+
+Eles te dão o livro e o código pra entrar no esconderijo do Observatório.
+
+Anju & Kafei
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+(Já que uma completa a outra, uni as duas. Mas é MUITO grande, pelo menos ter-
+mine Great Bay Temple antes de tentar.)
+
+Primeiro, vá pro Stock Pot Inn perto de 1:00PM no Dia 1. Fale com Anju com a
+máscara de Kafei (ver Madame Aroma). Ela responde: "Você está o procurando 
+também." Fale com ela sem a máscara. Ela pergunta se você tem reserva, diga 
+que sim. Por engano ela vai te botar na reserva de um Goron, e te dar uma 
+chave(no quarto tem 200 rupees!).Daí espere o carteiro chegar, escute a con-
+versa dos dois e espere ele sair. Fale com ela de novo com a máscara,e ela te
+pede pra vir á cozinha ás 11:30.Faça o que quiser até perto de 11:00. Daí vá
+pra East Clock Town. O hotel está trancado, então vá pruma flor perto dele,
+e como Deku ejete-se pro toldo de palha próximo. Vá pra varanda do sino,
+e entre na "porta secreta" do Stock Pot Inn.
+Siga pra cozinha. Espere Anju aparecer e parar. Fale com ela, e ao fim ela te
+dá uma carta pra Kafei. Saia do hotel e ponha a carta numa caixa de correio.
+Daí,até 2:30PM do outro dia,faça o que quiser,pegue Heart Pieces e máscaras...
+e quando essa hora chegar, siga pra Laundry Pool. Ás 3:00, o carteiro vem, e
+entrega a carta pra Kafei. Assim que ele receber, siga-o (ele deixa a porta
+destrancada) pelos fundos da Curiosity Shop. Quando ele parar, fale com ele.
+Ele reconhecerá-o pela descrição de Anju, revelará quem é, e dará a você
+o Pendant of Memories.
+Ás 5:00 vá pro hotel e dê-o para Anju. Agora o dia acabou. Novamente, mais
+tempo livre até + ou - 1:00PM do Dia Final.Entre nos fundos da Curiosity Shop,
+e fale com o dono. Kafei foi-se, e te deixou a Keaton's Mask e uma carta pra 
+Madame Aroma. 
+Como "temos todo o tempo do mundo", são 4 horas livres. Ás 5:00PM, vá para 
+Ikana Canyon, e pule no rio. Vá pra margem, e siga até uma "caverna fechada"
+com umas pedras próximas. Vá para trás das pedras e encontre Kafei. Fale com
+ele e aguarde na posição até 7:00PM, quando Sakon vem abrir seu esconderijo.
+Siga Kafei pra dentro da caverna.
+Pise no botão. Agora você controla Kafei,empurre um bloco(lembre-se que o blo-
+co vai na direção que o símbolo de Majora está)pra liberar o caminho do botão.
+Pise. A porta pra outra sala abre.
+Como Link de novo, entre e mate o Deku Baby Plant pra abrir a porta de Kafei.
+Pise nos botões amarelos para desacelerar a esteira rolante, e pise no azul.
+A porta de Link abre-se, vá e mate o Wolvo o mais rápido possível.
+Como Kafei, vá pra próxima sala e pise no botão. Agora faça o mesmo com Link 
+e o outro botão,antes que a Sun Mask caia. Agora Kafei recuperou-a. Com a 
+Song of Soaring, vá pra Clock Town.A Lua já está "a caminho"... eu sugiro 
+primeiro ir pro Bar de Leite,e dar a carta pra Madame Aroma(ver a seção dela),
+e então entrar no Stock Pot Inn. Entre no "Quarto Só pra Empregados", agora
+destrancado (caso não lembre, o na frente da escada). Anju e seu vestido de 
+noiva estão lá.Ela vai esperar Kafei aparecer, o que ocorre ás 4:00.Na cena
+que segue, a Moon Mask de Anju funde-se com a Sun Mask de Kafei, virando a 
+Couple's Mask, que agradecidos eles dão à você.
+UFA! ACABOU! Toque a Song of Time... 
+
+Homem da Curiosity Shop
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+AVISO: Precisa da Giant's Wallet!
+
+Na Meia-Noite do Primeiro Dia, salve a velhinha da loja de bombas de Sakon
+(ver a próxima seção).Pegue 500 rupees e se transporte pra noite do Dia Final.
+Ás 10:00 a Curiosity Shop abre.Entre e compre a All-Night Mask.
+
+
+Velha da Loja de Bombas
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Fácil: em North Clock Town, na Meia-Noite do Primeiro Dia, espere a velhinha
+aparecer. Sakon vai surgir e roubar-lhe sua bolsa. Vá atrás dele e meta-lhe 
+espada até ele soltar. Agradecida, a velha te dá Blast Mask. Se quiser se 
+divertir uma vez, meta uma flecha em Sakon pra explodí-lo!
+
+
+Romani
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+No primeiro dia, compre um Powder Keg do Goron na loja de Bombas(50 rupees).
+Daí vá pra Milk Road e siga até Romani Ranch. Tem uma pedra no caminho...
+vire Goron e plante o Powder Keg! SAI DE BAIXO! E quando explodir, volte ao
+normal e siga o caminho liberado. 
+
+Vá pra perto do celeiro, onde você acha Epona e a garotinha Romani. Ela te 
+fala sobre os aliens(!)que vem roubar vacas; Aceite ajudá-la contra "eles" 
+ás 2:30AM. Faça a prática dela (o que também te dá Epona). Sugiro também
+tentar as galerias de tiro...
+
+Bem, ás 2:00, com a alijava cheia, vestindo o Bunny Hood, vá pro rancho.
+Romani deve estar lá. 
+Ela entra no celeiro e te deixa pro trabalho pesado (COVARDE!). Ás 2:30, os
+aliens chegam!
+Toque a Inverted Song of Time que eles vão devagarinho.... vá flechando-os, 
+apenas garantindo que não cheguem perto do celeiro.Quando o Sol nascer(5:30AM)
+eles somem. Missão cumprida.
+Romani retribui com uma garrafa de leite.Agora a parte 2...
+
+Cremia
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Depois de salvar o rancho, a irmã de Romani, Cremia diz que ás 6:00PM vai en-
+tregar leite.
+Toque a Song of Double Time pra chegar lá. Ela já está na carroça, e te deixa
+ir junto.
+Ela resolve tomar um atalho pela Gorman Racetrack. Vá flechando os Gorman Bro-
+thers antes que eles se aproximem do leite. 
+
+Quando terminar, e vocês chegarem a Clock Town, Cremia te dá a Romani Mask, 
+que te permite entrar no Milk Bar. E comprar Chateau Romani (o que é isso,
+vinho feito de leite?), que te dá MAGIA INFINITA!
+
+Prefeito Dotour
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Ás 10:00AM de qualquer dia, entre na casa do Prefeito em East Clock Town.
+Entre na sala esquerda e estará tendo uma discussão horrível. Vista a Couple's
+Mask e fale com o prefeito. Ele vai encerrar a discussão e agradecido, te dá
+um pedaço de coração.
+
+Madame Aroma
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+No primeiro dia, ás 10:00AM vá pra casa do Prefeito. Na sala direita, fale com
+Madame Aroma. Aceite ajudar a encontrar seu filho perdido e receba a Kafei's
+Mask. Depois de toda a sequência de Anju e Kafei, você deve ter uma carta de
+Kafei. Vá pro Bar de Leite, e vestindo a Kafei's Mask, dê a carta pra Madame
+Aroma. Ela retribui dando uma garrafa de Chateau Romani.
+
+Toto e o Gorman
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+No Primeiro ou Segundo Dia, depois das 10:00PM, vá pro Bar de Leite. Fale com
+o Zora, Toto, o empresário dos Indigo-Go's. Ele pede pra você tocar alguma
+coisa. Faça-o. Daí vá pra ele como Deku Link, Goron Link e Zora Link e toque
+como eles também. Então o Gorman "se comove con su canción" e te dá a 
+Circus's Leader Mask.
+
+Carteiro
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+No Dia 1 ou 2 ás 6:00PM, vá pro Correio. Aceite o desafio do Carteiro, de
+adivinhar quando dá 10 segundos (use o Bunny Hood que o cronômetro fica o
+tempo todo).Se acertar, ele te dá um pedaço de coração.
+Outra parte ocorre depois de conseguir a carta de Kafei. Ás 6:00 do Dia Final,
+vá pro correio e dê a carta ao carteiro. Ele vai entregar a carta para Madame
+Aroma no Bar de Leite.
+Mas a atenciosa Aroma, por causa da Lua cadente, pede pro Carteiro correr por
+sua vida. Do lado de fora, o Carteiro agradecido te dá o seu chapéu (Postman's
+Hat). Vista-o e olhe dentro de uma caixa de correio...
+
+Rosa Sisters
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+As irmãs gêmeas tem dificuldade com sua coreografia. Na Primeira ou Segunda
+Noite, vista a Kamaro's Mask(ver Kamaro nessa seção)e dance pra elas em West
+Clock Town. Elas aprendem sua dança e te dão um pedaço de coração.
+
+???
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Em qualquer dia, á Meia-Noite, vá pro banheiro do Stock Pot Inn. Sai uma mão,
+pedindo papelhigiênico... bem, dê-lhe um dos Títulos de Propriedade Deku(irc).
+Em retorno, a mão te dá um pedaço de coração.
+
+Mãe de Anju
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+No Dia 1 ou 2, antes de Meio-Dia, vá pro Stock Pot Inn e fale com a mãe de 
+Anju, vestindo a All-Night Mask. Aceite ouvir a primeira história. A máscara
+não te deixa dormir... e ao fim, ela te pede uma resposta. Responda a primeira
+opção. Ela te dá um pedaço de coração. Ouça a outra história e responda
+a segunda opção, e ela te dá outro coração.
+
+Kamaro
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Á meia-noite, qualquer dia, saia por North Clock Town. Procure um homem dançan-
+do num cogumelo de pedra e pule onde ele está. Fale com ele e toque-lhe a
+ Song of Healing. Ele te dá a Kamaro's Mask.
+
+Grog
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Nomezinho ruim... em qualquer dia, vá pra Cabana dos Cucco em Romani Ranch. O
+homem de moicano quer que seus pintinhos cresçam.Com a Bremen Mask(ver 
+Guru-Guru) marche tocando a ocarina para atrair os pintinhos. Quando você 
+conseguir todos, eles viram galos (cuccos). Como recompensa, Grog te dá o
+Bunny Hood.
+
+Gorman Brothers
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Em qualquer dia entre 6:00AM e 18:00PM vá pra Gorman Racetrack montando Epona.
+Aceite correr por 10 rupees. Para ganhar, pule o máximo de cercas e buracos 
+possíveis e não bata muito em Epona senão ela desacelera. Ao vencê-los,
+ganha-se a Garo's Mask. 
+E há outra coisa: os Gorman Brothers são parte do negócio de Romani e Cremia,
+sendo eles os ladrões de leite.
+
+Shiro
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Qualquer dia, qualquer hora, vá pro caminho de Ikana. Embaixo do lugar onde o
+Garo está, você pode ver um círculo de pedras. Use a Lens of Truth para perce-
+ber um soldado ferido. Dê-lhe poção vermelha.
+Ele te dá a Stone Mask.
+
+Guru-Guru
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Dia 1 ou 2, á meia-noite, vá pra Laundry Pool em Clock Town. Ouça o homem da
+caixa de música contar sua história e ele te dá a Bremen Mask.
+====================================
+10-CANÇÕES
+====================================
+Aqui estão as melodias para serem tocadas pela Ocarina do Tempo, na ordem que
+você aprende.
+
+Song of Time
+Aprendida: Depois de recuperar a Ocarina, num flashback com Zelda.
+Função: Volta pro Primeiro Dia.
+Teclas: C-Direita, A, C-Baixo, C-Direita, A, C-Baixo
+
+Song of Double Time
+Aprendida: Bem, o espantalho no observatório fala, mas você mesmo descobre...
+Função: Pula pro dia ou noite seguinte.
+Teclas: C-Direita, C-Direita, A, A, C-Baixo, C-Baixo
+
+Inverted Song of Time
+Aprendida: Mesmo caso acima.
+Função: Desacelera o tempo, as 72 horas duram 144.Tocá-la de novo pode voltar
+ao normal.
+Teclas: C-Baixo, A, C-Direita, C-Baixo, A, C-Direita
+
+Song of Healing
+Aprendida: Com o vendedor de máscaras depois da primeira volta no tempo.
+Função: Cura impurezas (Deku Link, o fantasma de Darmani, Mikau, Kamaro, o ho-
+mem-Gibdo) e as encerra em máscaras. E depois de cortar uma placa, reconstrói
+a placa!
+Teclas: C-Esquerda, C-Direita, C-Baixo, C-Esquerda, C-Direita, C-Baixo
+
+Sonata of Awakening
+Aprendida: Com o macaco preso no Palácio Deku quando você cai em sua cela.
+Função: Só funciona com Deku Link.Tocando-a você desperta adormecidos.E levan-
+ta o Woodfall Temple.
+Teclas: C-Cima, C-Esquerda, C-Cima, C-Esquerda, A, C-Direita, A
+
+Song of Soaring
+Aprendida: Vendo a estátua em que a coruja estava em Southern Swamp, do lado
+        da entrada pra Woodfall.
+Função: Voa para uma estátua de coruja previamente ativada (tinha uma Flauta
+        com a mesma função em A Link to the Past...). Num Calabouço, vai pra
+        entrada (exceto depois de matar um chefe).
+Teclas: C-Baixo, C-Esquerda, C-Cima, C-Baixo, C-Esquerda, C-Cima
+
+Oath to Order
+Aprendida: Depois de vencer Odolwa em Woodfall Temple. O gigante libertado te
+          ensina.
+Função: Quando a Lua estiver caindo, chama os gigantes para sustentá-la. Com
+         os 4 lá, entra-se na Lua pro último calabouço.
+Como tocar: C-Direita, C-Baixo, A, C-Baixo, C-Direita, C-Cima
+
+Epona's Song
+Aprendida: Com Romani depois do treino de tiro.
+Função: Chama Epona em qualquer ponto no Termina Field.
+Como tocar: C-Cima, C-Esquerda, C-Direita, C-Cima, C-Esquerda, C-Direita
+
+Lullaby Intro
+Aprendida: Depois de conversar com todos em Goron Shrine, descongelar o Elder
+          Goron, e conversar com ele como Darmani.
+Função: Toque pro bebê chorão em Goron Shrine pra fazê-lo dormir (e aprender 
+        o resto).
+Como tocar: A, C-Direita, C-Esquerda, A, C-Direita, C-Esquerda
+
+Goron Lullaby
+Aprendida: Toque a Lullaby Intro (como Darmani) pro bebê chorão, e ele te
+          ensina a canção toda.
+Função: Só funciona como Goron Link. Bota pessoas para dormir.
+Como tocar: A, C-Direita, C-Esquerda, A, C-Direita, C-Esquerda, C-Direita, A
+
+New Wave Bossa Nova
+Aprendida: Depois de botar todos os ovos de Zora no aquário do laboratório de
+          Great Bay, os Zora nascem e formam a a canção.
+Função: Só funciona como Zora Link. Tocando-a em Zora Cape, do lado de Lulu,
+        aparece a tartaruga que te leva para Great Bay Temple.
+Como tocar: C-Esquerda, C-Cima, C-Esquerda, C-Direita, C-Baixo, C-Esquerda,
+            C-Direita
+
+Song of Storms
+Aprendida: Com o compositor Flat, depois de abrir a tumba na primeira noite 
+           e matar o Iron Knuckle.
+Função: Faz chover. E te cura se você foi azarado.
+Como tocar: A, C-Baixo, C-Cima, A, C-Baixo, C-Cima
+
+Elegy of Emptiness
+Aprendida: Do Rei de Ikana depois de derrotá-lo no Ancient Castle of Ikana.
+Função: Tocando essa canção, uma estátua sua surge no lugar em que você está.
+       Tocando-a de novo elimina a estátua anterior e cria outra.
+Como tocar: C-Direita, C-Esquerda, C-Direita, C-Baixo, C-Direita, C-Cima, 
+            C-Esquerda
+
+Scarecrow's Song
+Aprendida: Toque 8 notas pro espantalho no Observatório.
+Função: Em algumas áreas o espantalho surge como alvo de Hookshot.
+Como tocar: (você decide. eu fiz C-Baixo, C-Direita, C-Esquerda, C-Baixo,
+             C-Direita, C-Esquerda,C-Baixo, C-Direita pra lembrar de Saria's
+             Song, de Ocarina)
+
+CURIOSIDADE: Em Termina Field, alguns lugares tem partituras escritas. Toque
+           as notas e chovem rupees...
+=======================================
+11- SPIDER HOUSES
+=======================================
+Se lembra das Skulltulas? Elas voltaram - mas agora apenas em duas "casas de
+aranha".
+
+Swamp Spider House
+------------------
+Requer: Deku Mask, Goron Mask, 2-3 Garrafas, 2-3 Feijões, Arco(Hookshot é bom)
+Localização: Numa ilha a norte do Deku Palace. Nade pra lá depois de vencer 
+            Woodfall Temple(ou antes, só machuca um pouco...). Queime a teia
+            de aranha com um Deku Stick (tem uma tocha próxima) ou uma
+            Fire Arrow.
+===Primeira Sala====
+1. Rastejando n'água.
+
+2. Num pilar na direita.
+
+3. Destrua os potes no lado esquerdo para encontrá-la.
+
+4. Na parede direita, pare embaixo do solo com o buraco. Solte insetos, 
+eles entram e a Skulltula pula.
+
+5. Faça o mesmo na parede esquerda.
+===Sala á esquerda da primeira===
+6. Exploda/soque (Goron) as caixas no lado esquerdo até a Skulltula sair.
+
+7. Faça o mesmo com o lado esquerdo.
+
+8. Exploda a pedra, plante um feijão e regue-o. Fleche a Skulltula na parede 
+e vá com a planta até lá.
+
+9. Suba pro segundo andar (ou monte na planta), fleche a Skulltula na estátua 
+e pule na estátua pra pegar.
+
+10. No 2o andar, uma se esconde atrás das tochas.
+===Primeira sala, segundo andar===
+11. Escondendo num pilar.
+
+12. Tem uma Skulltula na parede norte, fleche-a. Use as flores para pegar 
+os restos.
+
+13. No lado direito, use insetos.
+===Sala á direita, segundo andar===
+14/15. Fleche as colméia até caírem 2 skulltulas. Caia atrás delas.
+===Sala á direita da primeira===
+16. Destrua os potes até achar a Skulltula.
+
+17. Toque a Sonata of Awakening pro Deku dormente. Ele some numa sala secreta.
+Vá pra essa sala e vá cortando tudo.
+
+18. Use a flor liberada pra subir pruma plataforma. Espere a Skulltula ficar
+visível e atire.
+
+19/20. Ataque rolantes nos potões. Dois tem Skulltulas.
+===Sala á norte da anterior===
+21. Bata no cristal, surge uma escada. Desça e mate a Skulltula.
+
+22. (embaixo)Fleche as colméias até cair uma Skulltula.
+
+23. Espere uma Skulltula num pilar ficar boa para ataque.
+
+24. Na parede norte, fleche a Skulltula. Suba a escada, plante um feijão e
+regue-o.Monte a planta até o lugar da skulltula.
+===Sala num "túnel"===
+(depois de um túnel na parede da Skulltula acima)
+25. Fleche as colméias até cair uma Skulltula.
+
+26/27. Duas Skulltulas rastejam na grama. 
+
+28/29/30.Vire Goron Link e esmurre a árvore. Caem 3 Skulltulas. Mate-as e
+acabou.
+
+RECOMPENSA: Mask of Truth
+
+Oceanside Spider House
+----------------------
+
+Requer: Goron Mask, Hookshot
+Localização: Perto da cabana do Pescador em Great Bay Coast.
+====Entrada====
+1. Depois de explodir e abrir o túnel, tem uma Skulltula na parede direita.
+
+2. Na parede esquerda também.
+
+3. Na sala seguinte, fleche a teia de aranha no teto (Fire Arrow) e mate a
+Skulltula.
+====Segunda sala, 2o andar====
+4. Parede sobre as escadas.
+
+5. Role no primeiro vaso no lado direito da sala.
+
+6. Queime a teia de aranha sobre um vaso, e role nele pra Skulltula sair.
+
+7. Olhe pro teto. Tem uma Skulltula sobre uma tora. Hookshot nela (nem precisa
+"acertar",se atingir embaixo de onde ela tá já era).
+===="Biblioteca"====
+(para entrar, queime uma teia de aranha na porta)
+8. Siga em frente até um quadro. Acerte-o com o Hookshot e revele a Skulltula.
+
+9. Na parede á direita, puxe a estantezinha do meio para revelar um buraco. 
+Olhe nele e meta flecha na Skulltula quando ela aparecer. Hookshot depois.
+
+10. Tem uma estante com prateleiras vazias. Dá para escalar ela. Entre a 
+parede e o teto tem um espacinho, espere a Skulltula aparecer lá e acerte-a!
+
+11. Pule sobre a estantes até o canto sudoeste. Tem uma Skulltula em cima de
+uma estante.
+
+12. Na parede esquerda acerte os quadros até aparecer um buraco. Vá pra 
+estante na frente do buraco, e fleche a Skulltula quando surgir. Depois,
+Hookshot.
+
+13/14. Caia pro chão, e procure uma estante na parede norte. Empurre-a para
+revelar uma sala secreta.Duas Skulltulas lá dentro.
+===Segunda sala, 1o andar===
+
+15. Saia da "biblioteca", desça as escadas. Espere uma Skulltula entre a 
+parede e o teto surgir.
+
+16. Role num vaso do lado de uma tocha pra revelar a Skulltula.
+
+17. Queime uma teia de aranha na parede, e olhe no buraco revelado. Mate a
+Skulltula lá dentro com flecha ou Hookshot.
+
+18. Olhe pra esquerda, e veja uma Skulltula subindo e descendo a parede com
+uma máscara. Espere ela ficar visível.
+
+19. Procure uma pilha de caixas. Destrua o pote no topo, e mate a Skulltula 
+que surge.
+
+===Sala das caixas===
+(queime a teia na entrada)
+20. No lado direito da sala, role numa caixa "normal" pra revelar.
+
+21. Vá pros fundos da sala. Está na parede.
+
+22. Olhe pro teto e use Fire Arrows nas teias pra procurar a Skulltula. 
+Hookshot...
+
+23. No lado oeste, role numa caixa "normal" e entre no buraco.A Skulltula
+está no teto. 
+
+24. Suba no topo das caixas no canto sudoeste. Olhe pra cima até encontrar um
+alvo de Hookshot.Enganche-se pra ir pro teto. Destrua os potes para achar a 
+Skulltula.
+===="Sala de jantar"====
+(essa sala também tem um pedaço de coração. Ver seção Heart Pieces)
+25. Suba na mesa, e olhe pra porta. Tem uma Skulltula na parte alta. 
+Acerte-a.
+
+26. Role no potão no canto da sala.
+
+27. Acerte o segundo quadro com o Hookshot pra revelar a Skulltula.
+
+28/29/30. SUba na mesa, vire Goron Link. Enrole e bata no chão (A, depois B).
+Caem 3 Skulltulas do lustre.
+
+RECOMPENSA: Giant's Wallet(carteira de 500 rupees)
+
+=====================================
+12-INFORMAÇÕES LEGAIS
+=====================================
+Este documento foi criado por igordebraga (igordebraga@bol.com.br) e deve ser
+pedida permissão do mesmo para ser publicado fora do GameFAQs. 
+Fazer o link diretamente é permitido.Esse texto não deve ser comercializado. 
+
+The Legend of Zelda & nomes e Nintendo 64 são marcas registradas da Nintendo.
+==========================================================
+"Estou só dizendo, parece um risco desnecessário considerando nosso objetivo,
+senhor!"
+"Nosso objetivo é ganhar a guerra!"
+Sargento Horvath e Capitão Miller, O Resgate do Soldado Ryan
