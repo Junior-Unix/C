@@ -1,9 +1,0 @@
-gcc -c programa.c -o programa.o
-gcc -c alphaT.c -o alphaT.o
-gcc programa.o alphaT.o -o alphaT
-
-
-
-gcc -c main.c -o main.o
-gcc -c helloWorld.c -o helloWorld.o
-gcc main.o helloWorld.o -o helloWorld
