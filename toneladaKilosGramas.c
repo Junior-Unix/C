@@ -13,6 +13,6 @@ void main () {
     printf("Nº de gramas = %f = %e\n", n_toneladas * quilos, n_toneladas * quilos);
     printf("Nº de gramas = %f = %E\n", n_toneladas * gramas, n_toneladas * gramas);
 
-
+    
     return 0;
 }
