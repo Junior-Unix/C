@@ -4,7 +4,7 @@ segundo.*/
 
 #include <stdio.h>
 
-main() {
+int main() {
 
     int n_horas;
     long res;
