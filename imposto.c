@@ -18,9 +18,10 @@ void main() {
 
     if (salario <= 0)
         printf("Salário inválido\n");
-    if (salario > 1000)
-        printf("Imposto a pagar: %.2f\n", salario * 0.10);
-    else
-        printf("Imposto a pagar: %.2f\n", salario * 0.05);
+    else 
+        if (salario > 1000)
+            printf("Imposto a pagar: %.2f\n", salario * 0.10);
+        else
+            printf("Imposto a pagar: %.2f\n", salario * 0.05);
 
 }
