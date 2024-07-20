@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-main(){
+void main(){
     char opcao;
     do{
         printf("\tM E N U P R I N C I P A L\n");
@@ -12,7 +12,7 @@ main(){
         printf("\n\n\t\tSair");
         printf("%c", &opcao);
         printf("\n\n\n\t\tOpção: ");
-        scanf("%c", &opcao);
+        scanf(" %c", &opcao);
 
         fflush(stdin); /*Limpa o Buffer do teclado*/
 
@@ -28,6 +28,16 @@ main(){
             case 'e':
             case 'E':
                 puts("Opção Encomendas");
+            break;
+            case 's':
+            case 'S':
+            break;/*Não faz nada*/
+            default:
+                puts("Opção Inválida");
         }       
-    }
+        // getchar();/*Parar a tela*/
+ 
+    }while(opcao != 's' && opcao != 'S');
+
+    return 0;
 }
