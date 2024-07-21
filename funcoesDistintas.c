@@ -9,7 +9,7 @@ escreve na tela a seguinte saída:
 */
 #include <stdio.h>
 
-char linha3x(){
+char linha3x(){/*ou void linha3x*/
     int i;
     for(i=0; i<=3; i++)
         putchar('*');
