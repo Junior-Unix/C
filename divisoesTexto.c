@@ -1,3 +1,6 @@
+/*Que solicite ao usuário um número e um caracree. Em seguida,
+terá que preencher , linhas, cada uma delas com n caracteres.*/
+
 #include <stdio.h>
 
 int main(){
