@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-linha(){
+void linha(void){
     int i;
     for(i=1; i<=20; i++)
         putchar('*');
