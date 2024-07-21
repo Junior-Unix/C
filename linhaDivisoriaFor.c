@@ -2,7 +2,8 @@
 
 #include <stdio.h>
 
-void linha(void){
+void linha(void){/*Uma função que "retorna void" é chamada normalmente de Procedimento.
+*/
     int i;
     for(i=1; i<=20; i++)
         putchar('*');
