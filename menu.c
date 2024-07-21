@@ -27,7 +27,7 @@ void main(){
             break;
             case 'e':
             case 'E':
-                puts("Opção Encomendas");
+                puts("Opção Encomendas"); 
             break;
             case 's':
             case 'S':
