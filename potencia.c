@@ -29,7 +29,7 @@ float baseExpoente(float base, int expoente){
         printf("Digite o EXPOENTE ou CTRL-C para terminar: ");
         scanf("%d", &expoente);
         
-        printf("(--> [%.2f^%d] = [%f] ou [%E])\n", base, expoente, Pot(base, expoente), Pot(base, expoente));
+        printf("(--> [%.2f^%d] = [%.6f] ou [%E])\n", base, expoente, Pot(base, expoente), Pot(base, expoente));
     }
 }
 
