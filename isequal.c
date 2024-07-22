@@ -13,8 +13,9 @@ int main(){
 
     if(isequal(n1, n2)){
         printf("Os números (%d) e (%d) São iguais!");
-    }else{
-        printf("Os números (%d) e (%d) Não são iguais!");
+    }else
+        if(!isequal(n1, n2)){
+        printf("Os números (%d) e (%d) Não são iguais!\n");
     }
 //    printf("Os números (%d) e (%d) (%d)\n", n1, n2, isequal(n1, n2));
 
