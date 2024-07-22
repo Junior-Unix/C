@@ -2,12 +2,33 @@
 
 #include <stdio.h>
 
+float baseExpoente(float base, int expoente);
 float Pot(float x, int n);
 
 int main(){
-    printf("%f %f %f\n", Pot(2.0, 4), Pot(1.234, 4), Pot(3.0, 0));
+    float base;
+    int expoente;
+
+    printf("Digite:");
+    scanf("%f", &base);
+    printf("Digite:");
+    scanf("%d", &expoente);
+Pot(base, expoente);
+
+    printf("%f\n", Pot(base, expoente));
 
     return 0;
+}
+
+float baseExpoente(float base, int expoente){
+    while(1){
+        printf("Digite:");
+        scanf("%f", &base);
+        printf("Digite:");
+        scanf("%d", &expoente);
+        
+        Pot(base, expoente);
+    }
 }
 
 float Pot(float x, int n){
