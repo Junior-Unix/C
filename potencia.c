@@ -7,9 +7,11 @@ float Pot(float base, int expoente);
 char linha(void);
 
 int main(){
+
     float base;
     int expoente;
-baseExpoente(base, expoente);
+
+    baseExpoente(base, expoente);
     // printf("Digite:");
     // scanf("%f", &base);
     // printf("Digite:");
