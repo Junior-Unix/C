@@ -1,7 +1,8 @@
 /*Devolva o VAL(Valor atual Líquido) para n anos, à taxa t e é
 definido atravéz da seguinte fórmula:
         VAL=x/(1+t)+x/(1+t)^2+x/(1+t)^3+...+x/(1+t)^n
-*/
+        *(teste git)*
+        */
 
 #include <stdio.h>
 
