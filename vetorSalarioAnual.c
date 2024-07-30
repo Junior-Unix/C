@@ -4,9 +4,9 @@ os valores mensais e o total anual*/
 
 #include <stdio.h>
 
-void inserirSalario(float salario[12]);
-char imprimirSalarioAnual(float salario[12]);
-char insereImprime(float salario[12]);
+void inserirSalario(float []);
+char imprimirSalarioAnual(float []);
+char insereImprime(float []);
 
 int main(int){
     float salario[12]; /*12 meses*/
