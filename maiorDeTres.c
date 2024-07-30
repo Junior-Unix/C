@@ -25,7 +25,7 @@ char linha(){
 float dados(float x, float y, float w){
 
     do{
-        
+
 linha();
 printf("Insira 3 valores ou 'CTRL-C' para sair:\n");
 printf("Primeiro nº: ");
@@ -37,7 +37,7 @@ scanf("%f", &w);
 
 float maior = Max(x, y, w);
 
-printf("O maior valor entre [%.2f], [%.2f] e [%.2f] é [%.2f]\n", x, y, w, maior);
+printf("O maior valor entre [%.2f], [%.2f] e [%.2f] é ¬>[%.2f]\n", x, y, w, maior);
 
 }while(-1);
 
