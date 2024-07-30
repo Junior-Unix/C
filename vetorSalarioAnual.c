@@ -5,23 +5,16 @@ os valores mensais e o total anual*/
 #include <stdio.h>
 
 void inserirSalario(float salario[12]);
+char imprimirSalarioAnual(float salario[12]);
 
 int main(int){
     float salario[12]; /*12 meses*/
-    float total;
     int i;
 
-   inserirSalario(salario); 
+    inserirSalario(salario); 
+    imprimirSalarioAnual(salario);
 
-/*Mostrar os valores mensais e calcular o total*/
 
-    puts("Mês Valor ");
-    for(i=0, total=0.0; i<12; i++){
-    printf("%3d %9.2f\n", i+1, salario[i]);
-    total+=salario[i];
-    }
-
-    printf("Total anual: %9.2f\n", total);
 
     return 0;
 }
@@ -32,4 +25,20 @@ void inserirSalario(float salario[12]){
         printf("Insira o salário do mês %d:", i+1);
         scanf("%f", &salario[i]);
     }
+}
+
+/*Mostrar os valores mensais e calcular o total*/
+char imprimirSalarioAnual(float salario[12]){
+
+    float total;
+    int i;
+
+    puts("Mês Valor ");
+    for(i=0, total=0.0; i<12; i++){
+    printf("%3d %9.2f\n", i+1, salario[i]);
+    total+=salario[i];
+    }
+
+    printf("Total anual: %9.2f\n", total);
+
 }
