@@ -10,17 +10,15 @@ char insereImprime(float []);
 
 int main(int){
     float salario[12]; /*12 meses*/
-    int i;
 
-    inserirSalario(salario); 
-    imprimirSalarioAnual(salario);
+    insereImprime(salario);
 
 
 
     return 0;
 }
 
-void inserirSalario(float salario[12]){
+void inserirSalario(float salario[]){
     int i;
     for(i=0; i<12; i++){
         printf("Insira o salário do mês %d:", i+1);
@@ -29,7 +27,7 @@ void inserirSalario(float salario[12]){
 }
 
 /*Mostrar os valores mensais e calcular o total*/
-char imprimirSalarioAnual(float salario[12]){
+char imprimirSalarioAnual(float salario[]){
 
     float total;
     int i;
@@ -44,7 +42,7 @@ char imprimirSalarioAnual(float salario[12]){
 
 }
 
-char insereImprime(float salario[12]){
-    insereImprime(salario);
+char insereImprime(float salario[]){
+    inserirSalario(salario);
     imprimirSalarioAnual(salario);
 }
