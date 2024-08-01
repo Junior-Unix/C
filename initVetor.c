@@ -15,5 +15,10 @@ int main(){
     initVetor(v, 10);
     initVetor(x, 20);
 
+    for(int i=0; i<10; i++){
+        printf("%d\n", v[i]);
+
+    }
+
     return 0;
 }
