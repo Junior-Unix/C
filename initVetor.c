@@ -1,51 +1,38 @@
-/*Iniciar o vetor com quelauer valor desejado*/
-
 #include <stdio.h>
 
+// Declaração das funções
 void initVetor(int s[], int n);
 void printVetor(int s[], int n);
 void insert(int s[], int n);
 
-
 int main(){
+    int n=0;
+    int s[n]; // Declaração do vetor s com tamanho n (não inicializado corretamente)
 
-//    int v[10];
-//    int x[20];
-
- //   initVetor(v, 10);
- //   initVetor(x, 2);
-    int n;
-    int s[n];
-
-    insert(s, n);
-    
+    insert(s, n); // Chama a função insert para inicializar o vetor
 
     return 0;
 }
 
+// Função para inserir valores no vetor
 void insert(int s[], int n){
-    
-//    int n;
-//    int s[n];
-
     printf("Insira o tamanho do vetor: ");
-    scanf("%d", &n);
+    scanf("%d", &n); // Lê o tamanho do vetor
 
-    initVetor(s, n);
+    initVetor(s, n); // Inicializa o vetor com zeros
 }
 
+// Função para imprimir os valores do vetor
 void printVetor(int s[], int n){
-
     for(int i=0; i<n; i++){
-        printf("%d\n", s[i]);
+        printf("%d\n", s[i]); // Imprime cada valor do vetor
     }
-
 }
 
+// Função para inicializar o vetor com zeros
 void initVetor(int s[], int n){
-    int i;
-    for(i=0;i<n; i++)
-    s[i]=0;
+    for(int i=0; i<n; i++)
+        s[i] = 0; // Define cada elemento do vetor como zero
 
-    printVetor(s, n);
+    printVetor(s, n); // Imprime o vetor inicializado
 }
