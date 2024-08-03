@@ -6,7 +6,8 @@ void printVetor(int s[], int n);
 void insert(int s[], int n);
 
 int main(){
-    int n=0;
+    int n=0;//Declacar com 0 o indice, erro ***stack smashing detect *** o certo 
+            //eh com NULL.
     int s[n]; // Declaração do vetor s com tamanho n (não inicializado corretamente)
 
     insert(s, n); // Chama a função insert para inicializar o vetor
