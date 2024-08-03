@@ -9,8 +9,8 @@ int main(){
     int v[10];
     int x[20];
 
-    initVetor(v, 10);
-    initVetor(x, 20);
+ //   initVetor(v, 10);
+    initVetor(x, 2);
 
     
 
@@ -19,7 +19,7 @@ int main(){
 
 void printVetor(int s[], int n){
 
-    for(int i=0; i<10; i++){
+    for(int i=0; i<n; i++){
         printf("%d\n", s[i]);
     }
 
@@ -30,5 +30,5 @@ void initVetor(int s[], int n){
     for(i=0;i<n; i++)
     s[i]=0;
 
-    printfVetor(s, n);
+    printVetor(s, n);
 }
