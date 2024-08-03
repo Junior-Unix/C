@@ -4,17 +4,34 @@
 
 void initVetor(int s[], int n);
 void printVetor(int s[], int n);
+void insert(int s[], int n);
+
 
 int main(){
-    int v[10];
-    int x[20];
+
+//    int v[10];
+//    int x[20];
 
  //   initVetor(v, 10);
-    initVetor(x, 2);
+ //   initVetor(x, 2);
+    int n;
+    int s[n];
 
+    insert(s, n);
     
 
     return 0;
+}
+
+void insert(int s[], int n){
+    
+//    int n;
+//    int s[n];
+
+    printf("Insira o tamanho do vetor: ");
+    scanf("%d", &n);
+
+    initVetor(s, n);
 }
 
 void printVetor(int s[], int n){
