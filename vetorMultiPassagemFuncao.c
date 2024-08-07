@@ -12,12 +12,12 @@
 
 void inic(char s[][DIM]){
     int i,j;
-    for(i=0<DIM;i++)
+    for(i=0;i<DIM;i++)
         for(j=0;j<DIM;j++)
             s[i][j]=ESPACO;
 }
 
-void mpstra(char s[DIM][DIM]){
+void mostra(char s[DIM][DIM]){
     int i,j;
     for(i=0;i<DIM;i++){
         for(j=0;j<DIM;j++)
