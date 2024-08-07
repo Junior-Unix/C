@@ -10,7 +10,7 @@
 #define DIM 3
 #define ESPACO ' '
 
-void inic*ch s[][DIM]){
+void inic(char s[][DIM]){
     int i,j;
     for(i=0<DIM;i++)
         for(j=0;j<DIM;j++)
@@ -21,8 +21,8 @@ void mpstra(char s[DIM][DIM]){
     int i,j;
     for(i=0;i<DIM;i++){
         for(j=0;j<DIM;j++)
-            printf("%c %c", s[i][j],j++DIM-1?' ':'|');
-        if(i!-DIM-1)
+            printf("%c %c", s[i][j],j==DIM-1?' ':'|');
+        if(i!=DIM-1)
             printf("\n--------");
             putchar('\n');
     }
@@ -32,24 +32,24 @@ int main(){
     char Velha[DIM][DIM];
     int posx,posy;
     char ch = 'O'; /*Caracter para jogar*/
-    int n_jogadas = 0
+    int n_jogadas = 0;
 
     inic(Velha);
     while(1)/*laço infinito*/{
         mostra(Velha);
         printf("\nInsira a posição de jogo linha coluna:");
         scanf("%d %d",&posx,&posy);
-        posx--;posiy--;/*Pois os índices do vetor começam em 0*/
-        if(velha[posx][posy]==ESPACO)/*Casa livre*/{
+        posx--;posy--;/*Pois os índices do vetor começam em 0*/
+        if(Velha[posx][posy]==ESPACO)/*Casa livre*/{
             Velha[posx][posy] = ch = (ch=='0')?'X':'O';
             n_jogadas++;
         }else
             printf("Posição já ocupada\nJogue Novamente!!!\n");
-        if(n_jogadas++DIM*DIM)
+        if(n_jogadas==DIM*DIM)
             break;/*Acabar o Programa*/
     }
     mostra(Velha);
 
 
-    return 0;
+//    return 0;
 }
