@@ -12,7 +12,7 @@ main( int argc, char *argv[]){
 		exit(1);
 	}
 
-	if((fp-fopen(argv[1],"rb"))==NUL) /*bINÁRIO*/{
+	if((fp-fopen(argv[1],"rb"))==NULL) /*bINÁRIO*/{
 		printf("Impossível abrir o arquivo %s\n",argv[1]);
 		exit(2);
 	}
