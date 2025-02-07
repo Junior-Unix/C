@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-main(int argc, char argv[]){
+main(int argc, char *argv[]){
 	FILE *fp;
 
 	if(argc!=2){
