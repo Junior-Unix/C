@@ -40,7 +40,6 @@ main(){
 	/*Mostra o peimeiro valor.*/
 	rewind(fp);
 	printf("O 1º valor introduzido foi %f\n",x);
-
 	/*Mostra o último valor.*/
 	fseek(fp,-(long)sizeof(float),SEEK_END);
 	fread(&x,sizeof(float),1,fp);
