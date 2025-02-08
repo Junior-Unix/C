@@ -31,31 +31,31 @@ main(int argc, char *argv[]){
 				case 'd':
 				case 'D':
 					opcao=argv[i][1]; /*Se for qualquer outra opção -- Ignorar.*/
-			}
-		else /*E um arquivo.*/{
-			fprintf(fout,"%s\n",argv[i]);
-			if((fin=fopen(argv[i],"r"))NULL)
-				continue; /*Passa ao próximo.*/
-			while((ch=fgetc(fin))!=EOF)
-				switch(opcao){
-					case 'm':
-						if(islower(ch))
-							fputc(ch,fout);
-						break;
-					case 'M':
-						if(isupper(ch))
-							fputc(ch,fout);
-						break;
-					case 'd':
-					case 'D':
-						if(isdigit(ch))
-							fputc(ch,fout);
-						break;
-				}
+			}else /*E um arquivo.*/{
+				fprintf(fout,"%s\n",argv[i]);
+				if((fin=fopen(argv[i],"r"))==NULL)
+					continue; /*Passa ao próximo.*/
+				while((ch=fgetc(fin))!=EOF)
+					switch(opcao){
+						case 'm':
+							if(islower(ch))
+								fputc(ch,fout);
+							break;
+						case 'M':
+							if(isupper(ch))
+								fputc(ch,fout);
+							break;
+						case 'd':
+						case 'D':
+							if(isdigit(ch))
+								fputc(ch,fout);
+							break;
+					}
 			fclose(fin);
 			fputc('\n',fout); /*Mudar de linha*/
 		}
+	}
 		fclose(fout);
-			exit(0);
+		exit(0);
 
 }
