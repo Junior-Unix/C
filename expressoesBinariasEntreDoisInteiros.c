@@ -20,7 +20,7 @@ $espressõesBinariasEntreDoisInteiros dados.dat
 #include <string.h>
 #include <stdlib.h>
 
-main(int argc, char *argv[]){
+int main(int argc, char *argv[]){
 
     FILE *fp;
     int So_Total=0; /*Por padrão, processa tudo*/
