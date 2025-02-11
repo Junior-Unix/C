@@ -19,7 +19,7 @@ typedef struct pessoa{
 	DATA Nasc;
 }PESSOA;
 
-void Mostrar(x){
+void Mostrar(struct pessoa x) /*ou (PESSOA x) */{
 	printf("Nome: %s\n",x.Nome);
 	printf("Idade: %d\n",x.Idade);
 	printf("Salário: %.2f\n",x.Salario);

@@ -15,7 +15,7 @@ typedef struct pessoa{
 
 /*Carrega a estrutura passada por parâmetro.*/
 
-void Ler(PESSOA *ptr){
+void Ler(struct pessoa *ptr){
 	printf("Qual o Nome:");
 	gets((*ptr).Nome);
 
