@@ -14,17 +14,15 @@ typedef struct{
 
 void Ler_Pessoa(PESSOA *p){
 	printf("Nome:");
-	gets(p->Nome);
+	fgets(p->Nome, sizeof(p->Nome), stdin);
 
 	printf("Idade:");
 	scanf("%d",&p->Idade);
 
 	printf("Salario:");
 	scanf("%f",&p->Salario);
-
-	p->Status='ok';
 	
-	fflush(stdin);
+	while (getchar() != '\n');
 }
 
 void MostraPessoa(PESSOA p){
@@ -34,8 +32,8 @@ void MostraPessoa(PESSOA p){
 main(){
 	PESSOA p;
 	
-	Ler_Pessoa;
-	Mostrar_Pessoa;
+	Ler_Pessoa(&p);
+	MostraPessoa(p);
 
 	return(0);
 }
