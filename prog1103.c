@@ -163,7 +163,7 @@ int Load(LISTA *L,FILE *fp){
 	return 0;
 }
 
-void Listar(LISTAR L){
+void Listar(LISTA L){
 	int i;
 	for(i=0;i<L.Conta;i++)
 		printf("%d %s\n",L.v[i].N,L.v[i].Nome);
