@@ -110,11 +110,11 @@ void Listar(LISTA L){
 
 #include <stdio.h>
 #include <string.h>
-#include <strlib.h>
+#include <stdlib.h>
 
 #define MAX 10
 
-tyedef struct{
+typedef struct{
 	unsigned int N;
 	char Nome[40+1];
 }REGISTRO;
