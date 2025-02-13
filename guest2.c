@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <string.h>
+<<<<<<< HEAD
 //#include <conio.h>
+=======
+#include <conio.h>
+>>>>>>> e3b328fe10a341e24a784929ee19979f20c9d4a0
 #include <stdlib.h> /* Função exit*/
 #include <ctype.h> /* Função toupper*/
 #include <locale.h>
