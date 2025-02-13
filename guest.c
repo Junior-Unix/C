@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include <conio.h>
+// #include <conio.h> // Removed because it's not available on many systems
 #include <stdlib.h>
 #include <ctype.h>
 
@@ -55,7 +55,8 @@ void Ler_Pessoa(PESSOA *p){
     printf("Salario: ");
     scanf("%f",&p->Salario);
     p->Status=' ';
-    fflush(stdin); /*Limpa o buffer do teclado.*/
+    int c;
+    while ((c = getchar()) != '\n' && c != EOF); /*Limpa o buffer do teclado.*/
 }
 
 /*Mostra na tela, os dados existentes no registro.*/
@@ -153,7 +154,9 @@ void Alterar_Pessoa(){
     //Recuar um registro no Arquivo
     fseek(fp,-(long)sizeof(PESSOA),SEEK_CUR);
     //Reescrever o registro
-    fwrite(&x,sizeof(PESSOA),1,fp);
+    fflush(fp); /*Despeja os Dados no Disco Rígido. Força a escrita no disco.*/
+    int c;
+    while ((c = getchar()) != '\n' && c != EOF); /*Limpa o buffer do teclado.*/
     fflush(fp); /*Despeja os Dados no Disco Rígido. Força a escrita no disco.*/
 }
 
