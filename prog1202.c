@@ -13,7 +13,7 @@ main(){
 			puts("Problemas na Alocação da Memória");
 		else{
 			strcpy(ptr,s);
-			printf("String("String Original: %s\nCópia: %s\n",s,ptr);
+			printf("String Original: %s\nCópia: %s\n",s,ptr);
 			free(ptr);
 		}
 }
