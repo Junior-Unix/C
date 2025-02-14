@@ -8,7 +8,7 @@ main(){
 	printf("Qual a sua string:");
 	gets(s);
 
-	ptr=(char*)malloc(strlen(s)+1;
+	ptr=(char*)malloc(strlen(s)+1);
 		if(ptr==NULL)
 			puts("Problemas na Alocação da Memória");
 		else{
