@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 main(){
-	char[200], *ptr;
+	char s[200], *ptr;
 
 	printf("Qual a sua string:");
 	gets(s);
