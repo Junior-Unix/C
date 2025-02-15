@@ -46,7 +46,7 @@ void Inserir(FILA* Fila, int Idade, char* Nome){
 		strcpy((*Fila)->Nome,Nome);
 		(**Fila).Prox=NULL;
 	}else
-		inserir(&(**Fila).Prox,Idade,Nome);
+		Inserir(&(**Fila).Prox,Idade,Nome);
 }
 
 /*Apaga o primeiro elemento da Fila(se existir)*/
