@@ -64,7 +64,7 @@ void Apagar(FILA* Fila){
 void Listar(FILA Fila){
 	if(Fila==NULL)
 		return; /*Não existe elementos.*/
-	printf("%d %s\n",Fila->Idade,Fila->Nome);
+	printf("%d %d %s\n", (void*)Fila, Fila->Idade, Fila->Nome);
 	Listar(Fila->Prox); /*Lista os outros.*/
 }
 
