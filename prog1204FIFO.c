@@ -66,5 +66,6 @@ int main() {
 	Apagar(&F);
 	puts("Listar Nada");
 	Listar(F);
-	return 0;
 }
+ 
+
